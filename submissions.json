@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF25251560": {
+    "contest_id": 782,
+    "language": "Java 8",
+    "path": "codeforces/782/A.java",
+    "problem_index": "A",
+    "problem_name": "Andryusha and Socks",
+    "problem_url": "https://codeforces.com/contest/782/problem/A",
+    "submission_id": "CF25251560",
+    "submission_url": "https://codeforces.com/contest/782/submission/25251560",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/05/2017 18:58"
+  },
   "CF25295416": {
     "contest_id": 781,
     "language": "Java 8",
