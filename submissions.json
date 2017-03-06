@@ -19,6 +19,26 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF25295416": {
+    "contest_id": 781,
+    "language": "Java 8",
+    "path": "codeforces/781/A.java",
+    "problem_index": "A",
+    "problem_name": "Andryusha and Colored Balloons",
+    "problem_url": "https://codeforces.com/contest/781/problem/A",
+    "submission_id": "CF25295416",
+    "submission_url": "https://codeforces.com/contest/781/submission/25295416",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "trees",
+      "*1600"
+    ],
+    "timestamp": "Mar/06/2017 20:20"
+  },
   "CF25773867": {
     "contest_id": 787,
     "language": "Java 8",
