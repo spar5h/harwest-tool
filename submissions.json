@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF25775915": {
+    "contest_id": 1,
+    "language": "Java 8",
+    "path": "codeforces/1/B.java",
+    "problem_index": "B",
+    "problem_name": "Spreadsheet",
+    "problem_url": "https://codeforces.com/contest/1/problem/B",
+    "submission_id": "CF25775915",
+    "submission_url": "https://codeforces.com/contest/1/submission/25775915",
+    "tags": [
+      "implementation",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Mar/24/2017 20:04"
+  },
   "CF25780338": {
     "contest_id": 2,
     "language": "Java 8",
