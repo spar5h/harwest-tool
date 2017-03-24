@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF25774647": {
+    "contest_id": 787,
+    "language": "Java 8",
+    "path": "codeforces/787/B.java",
+    "problem_index": "B",
+    "problem_name": "Not Afraid",
+    "problem_url": "https://codeforces.com/contest/787/problem/B",
+    "submission_id": "CF25774647",
+    "submission_url": "https://codeforces.com/contest/787/submission/25774647",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Mar/24/2017 19:14"
+  },
   "CF25775915": {
     "contest_id": 1,
     "language": "Java 8",
