@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF25856838": {
+    "contest_id": 792,
+    "language": "Java 8",
+    "path": "codeforces/792/D.java",
+    "problem_index": "D",
+    "problem_name": "Paths in a Complete Binary Tree",
+    "problem_url": "https://codeforces.com/contest/792/problem/D",
+    "submission_id": "CF25856838",
+    "submission_url": "https://codeforces.com/contest/792/submission/25856838",
+    "tags": [
+      "bitmasks",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "Mar/27/2017 23:19"
+  },
   "CF25902540": {
     "contest_id": 789,
     "language": "Java 8",
