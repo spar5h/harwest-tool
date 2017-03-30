@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF25961732": {
+    "contest_id": 789,
+    "language": "Java 8",
+    "path": "codeforces/789/B.java",
+    "problem_index": "B",
+    "problem_name": "Masha and geometric depression",
+    "problem_url": "https://codeforces.com/contest/789/problem/B",
+    "submission_id": "CF25961732",
+    "submission_url": "https://codeforces.com/contest/789/submission/25961732",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Mar/31/2017 00:23"
+  },
   "CF25962066": {
     "contest_id": 764,
     "language": "Java 8",
