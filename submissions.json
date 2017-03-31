@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF25990587": {
+    "contest_id": 777,
+    "language": "Java 8",
+    "path": "codeforces/777/D.java",
+    "problem_index": "D",
+    "problem_name": "Cloud of Hashtags",
+    "problem_url": "https://codeforces.com/contest/777/problem/D",
+    "submission_id": "CF25990587",
+    "submission_url": "https://codeforces.com/contest/777/submission/25990587",
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "strings",
+      "*1800"
+    ],
+    "timestamp": "Mar/31/2017 20:44"
+  },
   "CF26035524": {
     "contest_id": 776,
     "language": "Java 8",
