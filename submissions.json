@@ -19,6 +19,26 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF25979796": {
+    "contest_id": 777,
+    "language": "Java 8",
+    "path": "codeforces/777/C.java",
+    "problem_index": "C",
+    "problem_name": "Alyona and Spreadsheet",
+    "problem_url": "https://codeforces.com/contest/777/problem/C",
+    "submission_id": "CF25979796",
+    "submission_url": "https://codeforces.com/contest/777/submission/25979796",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*1600"
+    ],
+    "timestamp": "Mar/31/2017 18:52"
+  },
   "CF25990587": {
     "contest_id": 777,
     "language": "Java 8",
