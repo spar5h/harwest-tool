@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF26109541": {
+    "contest_id": 115,
+    "language": "Java 8",
+    "path": "codeforces/115/A.java",
+    "problem_index": "A",
+    "problem_name": "Party",
+    "problem_url": "https://codeforces.com/contest/115/problem/A",
+    "submission_id": "CF26109541",
+    "submission_url": "https://codeforces.com/contest/115/submission/26109541",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "trees",
+      "*900"
+    ],
+    "timestamp": "Apr/04/2017 03:42"
+  },
   "CF26117830": {
     "contest_id": 580,
     "language": "Java 8",
