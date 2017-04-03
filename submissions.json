@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF26106607": {
+    "contest_id": 771,
+    "language": "Java 8",
+    "path": "codeforces/771/A.java",
+    "problem_index": "A",
+    "problem_name": "Bear and Friendship Condition",
+    "problem_url": "https://codeforces.com/contest/771/problem/A",
+    "submission_id": "CF26106607",
+    "submission_url": "https://codeforces.com/contest/771/submission/26106607",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "*1500"
+    ],
+    "timestamp": "Apr/04/2017 00:05"
+  },
   "CF26108397": {
     "contest_id": 500,
     "language": "Java 8",
