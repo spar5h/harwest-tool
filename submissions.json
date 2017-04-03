@@ -19,6 +19,26 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF26108733": {
+    "contest_id": 489,
+    "language": "Java 8",
+    "path": "codeforces/489/B.java",
+    "problem_index": "B",
+    "problem_name": "BerSU Ball",
+    "problem_url": "https://codeforces.com/contest/489/problem/B",
+    "submission_id": "CF26108733",
+    "submission_url": "https://codeforces.com/contest/489/submission/26108733",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graph matchings",
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Apr/04/2017 02:21"
+  },
   "CF26109203": {
     "contest_id": 520,
     "language": "Java 8",
