@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF26180271": {
+    "contest_id": 687,
+    "language": "Java 8",
+    "path": "codeforces/687/A.java",
+    "problem_index": "A",
+    "problem_name": "NP-Hard Problem",
+    "problem_url": "https://codeforces.com/contest/687/problem/A",
+    "submission_id": "CF26180271",
+    "submission_url": "https://codeforces.com/contest/687/submission/26180271",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "*1500"
+    ],
+    "timestamp": "Apr/07/2017 02:31"
+  },
   "CF26212369": {
     "contest_id": 500,
     "language": "Java 8",
