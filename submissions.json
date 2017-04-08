@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF26217854": {
+    "contest_id": 758,
+    "language": "Java 8",
+    "path": "codeforces/758/B.java",
+    "problem_index": "B",
+    "problem_name": "Blown Garland",
+    "problem_url": "https://codeforces.com/contest/758/problem/B",
+    "submission_id": "CF26217854",
+    "submission_url": "https://codeforces.com/contest/758/submission/26217854",
+    "tags": [
+      "brute force",
+      "implementation",
+      "number theory",
+      "*1100"
+    ],
+    "timestamp": "Apr/08/2017 17:14"
+  },
   "CF26220180": {
     "contest_id": 758,
     "language": "Java 8",
