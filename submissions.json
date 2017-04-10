@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF26263783": {
+    "contest_id": 796,
+    "language": "Java 8",
+    "path": "codeforces/796/B.java",
+    "problem_index": "B",
+    "problem_name": "Find The Bone",
+    "problem_url": "https://codeforces.com/contest/796/problem/B",
+    "submission_id": "CF26263783",
+    "submission_url": "https://codeforces.com/contest/796/submission/26263783",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Apr/10/2017 22:24"
+  },
   "CF26324358": {
     "contest_id": 796,
     "language": "Java 8",
