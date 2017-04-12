@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF26324358": {
+    "contest_id": 796,
+    "language": "Java 8",
+    "path": "codeforces/796/C.java",
+    "problem_index": "C",
+    "problem_name": "Bank Hacking",
+    "problem_url": "https://codeforces.com/contest/796/problem/C",
+    "submission_id": "CF26324358",
+    "submission_url": "https://codeforces.com/contest/796/submission/26324358",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "Apr/13/2017 00:31"
+  },
   "CF26334533": {
     "contest_id": 20,
     "language": "Java 8",
