@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF26345320": {
+    "contest_id": 475,
+    "language": "Java 8",
+    "path": "codeforces/475/B.java",
+    "problem_index": "B",
+    "problem_name": "Strongly Connected City",
+    "problem_url": "https://codeforces.com/contest/475/problem/B",
+    "submission_id": "CF26345320",
+    "submission_url": "https://codeforces.com/contest/475/submission/26345320",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Apr/13/2017 23:34"
+  },
   "CF26347572": {
     "contest_id": 445,
     "language": "Java 8",
