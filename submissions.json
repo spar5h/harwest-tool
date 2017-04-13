@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF26347572": {
+    "contest_id": 445,
+    "language": "Java 8",
+    "path": "codeforces/445/B.java",
+    "problem_index": "B",
+    "problem_name": "DZY Loves Chemistry",
+    "problem_url": "https://codeforces.com/contest/445/problem/B",
+    "submission_id": "CF26347572",
+    "submission_url": "https://codeforces.com/contest/445/submission/26347572",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Apr/14/2017 02:45"
+  },
   "CF27325618": {
     "contest_id": 810,
     "language": "Java 8",
