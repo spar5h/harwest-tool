@@ -19,6 +19,26 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF27345593": {
+    "contest_id": 796,
+    "language": "Java 8",
+    "path": "codeforces/796/D.java",
+    "problem_index": "D",
+    "problem_name": "Police Stations",
+    "problem_url": "https://codeforces.com/contest/796/problem/D",
+    "submission_id": "CF27345593",
+    "submission_url": "https://codeforces.com/contest/796/submission/27345593",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "shortest paths",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "May/26/2017 03:18"
+  },
   "CF27488222": {
     "contest_id": 812,
     "language": "Java 8",
