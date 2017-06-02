@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF27521108": {
+    "contest_id": 812,
+    "language": "Java 8",
+    "path": "codeforces/812/B.java",
+    "problem_index": "B",
+    "problem_name": "Sagheer, the Hausmeister",
+    "problem_url": "https://codeforces.com/contest/812/problem/B",
+    "submission_id": "CF27521108",
+    "submission_url": "https://codeforces.com/contest/812/submission/27521108",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "*1600"
+    ],
+    "timestamp": "Jun/02/2017 15:48"
+  },
   "CF27523046": {
     "contest_id": 812,
     "language": "Java 8",
