@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF27619986": {
+    "contest_id": 813,
+    "language": "Java 8",
+    "path": "codeforces/813/B.java",
+    "problem_index": "B",
+    "problem_name": "The Golden Age",
+    "problem_url": "https://codeforces.com/contest/813/problem/B",
+    "submission_id": "CF27619986",
+    "submission_url": "https://codeforces.com/contest/813/submission/27619986",
+    "tags": [
+      "brute force",
+      "math",
+      "*1800"
+    ],
+    "timestamp": "Jun/07/2017 00:04"
+  },
   "CF27620722": {
     "contest_id": 813,
     "language": "Java 8",
