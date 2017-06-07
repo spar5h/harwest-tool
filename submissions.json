@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF27654567": {
+    "contest_id": 814,
+    "language": "Java 8",
+    "path": "codeforces/814/B.java",
+    "problem_index": "B",
+    "problem_name": "An express train to reveries",
+    "problem_url": "https://codeforces.com/contest/814/problem/B",
+    "submission_id": "CF27654567",
+    "submission_url": "https://codeforces.com/contest/814/submission/27654567",
+    "tags": [
+      "constructive algorithms",
+      "*1300"
+    ],
+    "timestamp": "Jun/07/2017 22:13"
+  },
   "CF27658114": {
     "contest_id": 814,
     "language": "Java 8",
