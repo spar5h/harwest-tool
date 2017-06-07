@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF27631699": {
+    "contest_id": 789,
+    "language": "Java 8",
+    "path": "codeforces/789/C.java",
+    "problem_index": "C",
+    "problem_name": "Functions again",
+    "problem_url": "https://codeforces.com/contest/789/problem/C",
+    "submission_id": "CF27631699",
+    "submission_url": "https://codeforces.com/contest/789/submission/27631699",
+    "tags": [
+      "data structures",
+      "dp",
+      "two pointers",
+      "*1600"
+    ],
+    "timestamp": "Jun/07/2017 17:12"
+  },
   "CF27635164": {
     "contest_id": 814,
     "language": "Java 8",
