@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF27693006": {
+    "contest_id": 814,
+    "language": "Java 8",
+    "path": "codeforces/814/D.java",
+    "problem_index": "D",
+    "problem_name": "An overnight dance in discotheque",
+    "problem_url": "https://codeforces.com/contest/814/problem/D",
+    "submission_id": "CF27693006",
+    "submission_url": "https://codeforces.com/contest/814/submission/27693006",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "geometry",
+      "greedy",
+      "trees",
+      "*2000"
+    ],
+    "timestamp": "Jun/09/2017 22:05"
+  },
   "CF27852154": {
     "contest_id": 816,
     "language": "Java 8",
