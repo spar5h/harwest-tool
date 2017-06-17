@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF27866138": {
+    "contest_id": 816,
+    "language": "Java 8",
+    "path": "codeforces/816/C.java",
+    "problem_index": "C",
+    "problem_name": "Karen and Game",
+    "problem_url": "https://codeforces.com/contest/816/problem/C",
+    "submission_id": "CF27866138",
+    "submission_url": "https://codeforces.com/contest/816/submission/27866138",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Jun/17/2017 23:27"
+  },
   "CF27869826": {
     "contest_id": 816,
     "language": "Java 8",
