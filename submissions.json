@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF27870340": {
+    "contest_id": 714,
+    "language": "Java 8",
+    "path": "codeforces/714/B.java",
+    "problem_index": "B",
+    "problem_name": "Filya and Homework",
+    "problem_url": "https://codeforces.com/contest/714/problem/B",
+    "submission_id": "CF27870340",
+    "submission_url": "https://codeforces.com/contest/714/submission/27870340",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Jun/18/2017 01:41"
+  },
   "CF27870696": {
     "contest_id": 714,
     "language": "Java 8",
