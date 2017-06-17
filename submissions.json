@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF27869826": {
+    "contest_id": 816,
+    "language": "Java 8",
+    "path": "codeforces/816/B.java",
+    "problem_index": "B",
+    "problem_name": "Karen and Coffee",
+    "problem_url": "https://codeforces.com/contest/816/problem/B",
+    "submission_id": "CF27869826",
+    "submission_url": "https://codeforces.com/contest/816/submission/27869826",
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Jun/18/2017 01:13"
+  },
   "CF27870340": {
     "contest_id": 714,
     "language": "Java 8",
