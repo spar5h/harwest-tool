@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF27930755": {
+    "contest_id": 716,
+    "language": "Java 8",
+    "path": "codeforces/716/C.java",
+    "problem_index": "C",
+    "problem_name": "Plus and Square Root",
+    "problem_url": "https://codeforces.com/contest/716/problem/C",
+    "submission_id": "CF27930755",
+    "submission_url": "https://codeforces.com/contest/716/submission/27930755",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Jun/21/2017 00:18"
+  },
   "CF27950232": {
     "contest_id": 719,
     "language": "Java 8",
