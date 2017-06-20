@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF27930071": {
+    "contest_id": 716,
+    "language": "Java 8",
+    "path": "codeforces/716/B.java",
+    "problem_index": "B",
+    "problem_name": "Complete the Word",
+    "problem_url": "https://codeforces.com/contest/716/problem/B",
+    "submission_id": "CF27930071",
+    "submission_url": "https://codeforces.com/contest/716/submission/27930071",
+    "tags": [
+      "greedy",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "Jun/20/2017 23:25"
+  },
   "CF27930755": {
     "contest_id": 716,
     "language": "Java 8",
