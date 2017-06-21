@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF27953221": {
+    "contest_id": 719,
+    "language": "Java 8",
+    "path": "codeforces/719/C.java",
+    "problem_index": "C",
+    "problem_name": "Efim and Strange Grade",
+    "problem_url": "https://codeforces.com/contest/719/problem/C",
+    "submission_id": "CF27953221",
+    "submission_url": "https://codeforces.com/contest/719/submission/27953221",
+    "tags": [
+      "dp",
+      "implementation",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Jun/22/2017 03:09"
+  },
   "CF27953411": {
     "contest_id": 719,
     "language": "Java 8",
