@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF27953411": {
+    "contest_id": 719,
+    "language": "Java 8",
+    "path": "codeforces/719/B.java",
+    "problem_index": "B",
+    "problem_name": "Anatoly and Cockroaches",
+    "problem_url": "https://codeforces.com/contest/719/problem/B",
+    "submission_id": "CF27953411",
+    "submission_url": "https://codeforces.com/contest/719/submission/27953411",
+    "tags": [
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Jun/22/2017 03:27"
+  },
   "CF27969874": {
     "contest_id": 721,
     "language": "Java 8",
