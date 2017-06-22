@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF27970278": {
+    "contest_id": 721,
+    "language": "Java 8",
+    "path": "codeforces/721/B.java",
+    "problem_index": "B",
+    "problem_name": "Passwords",
+    "problem_url": "https://codeforces.com/contest/721/problem/B",
+    "submission_id": "CF27970278",
+    "submission_url": "https://codeforces.com/contest/721/submission/27970278",
+    "tags": [
+      "implementation",
+      "math",
+      "sortings",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "Jun/22/2017 23:05"
+  },
   "CF30726588": {
     "contest_id": 864,
     "language": "Java 8",
