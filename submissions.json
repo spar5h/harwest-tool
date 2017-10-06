@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF31076556": {
+    "contest_id": 869,
+    "language": "Java 8",
+    "path": "codeforces/869/B.java",
+    "problem_index": "B",
+    "problem_name": "The Eternal Immortality",
+    "problem_url": "https://codeforces.com/contest/869/problem/B",
+    "submission_id": "CF31076556",
+    "submission_url": "https://codeforces.com/contest/869/submission/31076556",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Oct/06/2017 19:40"
+  },
   "CF31099934": {
     "contest_id": 869,
     "language": "Java 8",
