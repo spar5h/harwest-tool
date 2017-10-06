@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF31069445": {
+    "contest_id": 869,
+    "language": "Java 8",
+    "path": "codeforces/869/A.java",
+    "problem_index": "A",
+    "problem_name": "The Artful Expedient",
+    "problem_url": "https://codeforces.com/contest/869/problem/A",
+    "submission_id": "CF31069445",
+    "submission_url": "https://codeforces.com/contest/869/submission/31069445",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Oct/06/2017 19:14"
+  },
   "CF31076556": {
     "contest_id": 869,
     "language": "Java 8",
