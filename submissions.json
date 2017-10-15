@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF31345396": {
+    "contest_id": 872,
+    "language": "Java 8",
+    "path": "codeforces/872/B.java",
+    "problem_index": "B",
+    "problem_name": "Maximum of Maximums of Minimums",
+    "problem_url": "https://codeforces.com/contest/872/problem/B",
+    "submission_id": "CF31345396",
+    "submission_url": "https://codeforces.com/contest/872/submission/31345396",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Oct/15/2017 14:10"
+  },
   "CF31353249": {
     "contest_id": 872,
     "language": "Java 8",
