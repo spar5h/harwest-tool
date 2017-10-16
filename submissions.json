@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF31402728": {
+    "contest_id": 876,
+    "language": "Java 8",
+    "path": "codeforces/876/C.java",
+    "problem_index": "C",
+    "problem_name": "Classroom Watch",
+    "problem_url": "https://codeforces.com/contest/876/problem/C",
+    "submission_id": "CF31402728",
+    "submission_url": "https://codeforces.com/contest/876/submission/31402728",
+    "tags": [
+      "brute force",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Oct/16/2017 17:31"
+  },
   "CF31408684": {
     "contest_id": 876,
     "language": "Java 8",
