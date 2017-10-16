@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF31408684": {
+    "contest_id": 876,
+    "language": "Java 8",
+    "path": "codeforces/876/D.java",
+    "problem_index": "D",
+    "problem_name": "Sorting the Coins",
+    "problem_url": "https://codeforces.com/contest/876/problem/D",
+    "submission_id": "CF31408684",
+    "submission_url": "https://codeforces.com/contest/876/submission/31408684",
+    "tags": [
+      "dsu",
+      "implementation",
+      "sortings",
+      "trees",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "Oct/16/2017 18:10"
+  },
   "CF31635574": {
     "contest_id": 877,
     "language": "Java 8",
