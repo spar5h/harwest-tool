@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF31646233": {
+    "contest_id": 877,
+    "language": "Java 8",
+    "path": "codeforces/877/C.java",
+    "problem_index": "C",
+    "problem_name": "Slava and tanks",
+    "problem_url": "https://codeforces.com/contest/877/problem/C",
+    "submission_id": "CF31646233",
+    "submission_url": "https://codeforces.com/contest/877/submission/31646233",
+    "tags": [
+      "constructive algorithms",
+      "*1600"
+    ],
+    "timestamp": "Oct/23/2017 22:05"
+  },
   "CF31862660": {
     "contest_id": 877,
     "language": "Java 8",
