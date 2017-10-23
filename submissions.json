@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF31641865": {
+    "contest_id": 877,
+    "language": "Java 8",
+    "path": "codeforces/877/B.java",
+    "problem_index": "B",
+    "problem_name": "Nikita and string",
+    "problem_url": "https://codeforces.com/contest/877/problem/B",
+    "submission_id": "CF31641865",
+    "submission_url": "https://codeforces.com/contest/877/submission/31641865",
+    "tags": [
+      "brute force",
+      "dp",
+      "*1500"
+    ],
+    "timestamp": "Oct/23/2017 21:44"
+  },
   "CF31646233": {
     "contest_id": 877,
     "language": "Java 8",
