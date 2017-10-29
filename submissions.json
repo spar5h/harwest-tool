@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF31862660": {
+    "contest_id": 877,
+    "language": "Java 8",
+    "path": "codeforces/877/D.java",
+    "problem_index": "D",
+    "problem_name": "Olya and Energy Drinks",
+    "problem_url": "https://codeforces.com/contest/877/problem/D",
+    "submission_id": "CF31862660",
+    "submission_url": "https://codeforces.com/contest/877/submission/31862660",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "shortest paths",
+      "*2100"
+    ],
+    "timestamp": "Oct/29/2017 15:29"
+  },
   "CF32413135": {
     "contest_id": 892,
     "language": "Java 8",
