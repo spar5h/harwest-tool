@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF32413135": {
+    "contest_id": 892,
+    "language": "Java 8",
+    "path": "codeforces/892/C.java",
+    "problem_index": "C",
+    "problem_name": "Pride",
+    "problem_url": "https://codeforces.com/contest/892/problem/C",
+    "submission_id": "CF32413135",
+    "submission_url": "https://codeforces.com/contest/892/submission/32413135",
+    "tags": [
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Nov/18/2017 01:44"
+  },
   "CF33573985": {
     "contest_id": 907,
     "language": "Java 8",
