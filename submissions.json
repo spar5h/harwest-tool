@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF33573985": {
+    "contest_id": 907,
+    "language": "Java 8",
+    "path": "codeforces/907/C.java",
+    "problem_index": "C",
+    "problem_name": "Shockers",
+    "problem_url": "https://codeforces.com/contest/907/problem/C",
+    "submission_id": "CF33573985",
+    "submission_url": "https://codeforces.com/contest/907/submission/33573985",
+    "tags": [
+      "bitmasks",
+      "implementation",
+      "strings",
+      "*1600"
+    ],
+    "timestamp": "Dec/23/2017 22:55"
+  },
   "CF33834010": {
     "contest_id": 909,
     "language": "Java 8",
