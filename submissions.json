@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF33836779": {
+    "contest_id": 911,
+    "language": "Java 8",
+    "path": "codeforces/911/D.java",
+    "problem_index": "D",
+    "problem_name": "Inversion Counting",
+    "problem_url": "https://codeforces.com/contest/911/problem/D",
+    "submission_id": "CF33836779",
+    "submission_url": "https://codeforces.com/contest/911/submission/33836779",
+    "tags": [
+      "brute force",
+      "math",
+      "*1800"
+    ],
+    "timestamp": "Dec/31/2017 23:38"
+  },
   "CF33847724": {
     "contest_id": 911,
     "language": "Java 8",
