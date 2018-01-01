@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF33847724": {
+    "contest_id": 911,
+    "language": "Java 8",
+    "path": "codeforces/911/E.java",
+    "problem_index": "E",
+    "problem_name": "Stack Sorting",
+    "problem_url": "https://codeforces.com/contest/911/problem/E",
+    "submission_id": "CF33847724",
+    "submission_url": "https://codeforces.com/contest/911/submission/33847724",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation",
+      "*2000"
+    ],
+    "timestamp": "Jan/01/2018 18:44"
+  },
   "CF33926130": {
     "contest_id": 912,
     "language": "Java 8",
