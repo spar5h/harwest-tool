@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF33949707": {
+    "contest_id": 912,
+    "language": "Java 8",
+    "path": "codeforces/912/B.java",
+    "problem_index": "B",
+    "problem_name": "New Year's Eve",
+    "problem_url": "https://codeforces.com/contest/912/problem/B",
+    "submission_id": "CF33949707",
+    "submission_url": "https://codeforces.com/contest/912/submission/33949707",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Jan/06/2018 00:44"
+  },
   "CF34008024": {
     "contest_id": 913,
     "language": "Java 8",
