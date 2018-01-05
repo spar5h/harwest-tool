@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF33926130": {
+    "contest_id": 912,
+    "language": "Java 8",
+    "path": "codeforces/912/A.java",
+    "problem_index": "A",
+    "problem_name": "Tricky Alchemy",
+    "problem_url": "https://codeforces.com/contest/912/problem/A",
+    "submission_id": "CF33926130",
+    "submission_url": "https://codeforces.com/contest/912/submission/33926130",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/05/2018 20:12"
+  },
   "CF33949707": {
     "contest_id": 912,
     "language": "Java 8",
