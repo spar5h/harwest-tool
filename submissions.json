@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF34019749": {
+    "contest_id": 913,
+    "language": "Java 8",
+    "path": "codeforces/913/C.java",
+    "problem_index": "C",
+    "problem_name": "Party Lemonade",
+    "problem_url": "https://codeforces.com/contest/913/problem/C",
+    "submission_id": "CF34019749",
+    "submission_url": "https://codeforces.com/contest/913/submission/34019749",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Jan/08/2018 21:04"
+  },
   "CF34058151": {
     "contest_id": 913,
     "language": "Java 8",
