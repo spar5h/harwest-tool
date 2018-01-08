@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF34012445": {
+    "contest_id": 913,
+    "language": "Java 8",
+    "path": "codeforces/913/B.java",
+    "problem_index": "B",
+    "problem_name": "Christmas Spruce",
+    "problem_url": "https://codeforces.com/contest/913/problem/B",
+    "submission_id": "CF34012445",
+    "submission_url": "https://codeforces.com/contest/913/submission/34012445",
+    "tags": [
+      "implementation",
+      "trees",
+      "*1200"
+    ],
+    "timestamp": "Jan/08/2018 20:29"
+  },
   "CF34019749": {
     "contest_id": 913,
     "language": "Java 8",
