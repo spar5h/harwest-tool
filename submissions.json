@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF34058151": {
+    "contest_id": 913,
+    "language": "Java 8",
+    "path": "codeforces/913/D.java",
+    "problem_index": "D",
+    "problem_name": "Too Easy Problems",
+    "problem_url": "https://codeforces.com/contest/913/problem/D",
+    "submission_id": "CF34058151",
+    "submission_url": "https://codeforces.com/contest/913/submission/34058151",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "greedy",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "Jan/10/2018 02:26"
+  },
   "CF34130575": {
     "contest_id": 915,
     "language": "Java 8",
