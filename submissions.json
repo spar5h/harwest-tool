@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF34133572": {
+    "contest_id": 915,
+    "language": "Java 8",
+    "path": "codeforces/915/B.java",
+    "problem_index": "B",
+    "problem_name": "Browser",
+    "problem_url": "https://codeforces.com/contest/915/problem/B",
+    "submission_id": "CF34133572",
+    "submission_url": "https://codeforces.com/contest/915/submission/34133572",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Jan/13/2018 18:55"
+  },
   "CF34147347": {
     "contest_id": 915,
     "language": "Java 8",
