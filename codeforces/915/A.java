@@ -219,3 +219,4 @@ public class lc7 implements Runnable{
 		new Thread(null, new lc7(),"lc7",1<<26).start();
 	}
 }   
+
