@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF34174775": {
+    "contest_id": 915,
+    "language": "Java 8",
+    "path": "codeforces/915/C.java",
+    "problem_index": "C",
+    "problem_name": "Permute Digits",
+    "problem_url": "https://codeforces.com/contest/915/problem/C",
+    "submission_id": "CF34174775",
+    "submission_url": "https://codeforces.com/contest/915/submission/34174775",
+    "tags": [
+      "dp",
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Jan/14/2018 18:06"
+  },
   "CF34174826": {
     "contest_id": 915,
     "language": "Java 8",
