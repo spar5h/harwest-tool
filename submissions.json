@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF34603639": {
+    "contest_id": 222,
+    "language": "Java 8",
+    "path": "codeforces/222/E.java",
+    "problem_index": "E",
+    "problem_name": "Decoding Genome",
+    "problem_url": "https://codeforces.com/contest/222/problem/E",
+    "submission_id": "CF34603639",
+    "submission_url": "https://codeforces.com/contest/222/submission/34603639",
+    "tags": [
+      "dp",
+      "matrices",
+      "*1900"
+    ],
+    "timestamp": "Jan/27/2018 16:52"
+  },
   "CF34689010": {
     "contest_id": 917,
     "language": "Java 8",
