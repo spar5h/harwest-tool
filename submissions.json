@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF34778206": {
+    "contest_id": 919,
+    "language": "Java 8",
+    "path": "codeforces/919/D.java",
+    "problem_index": "D",
+    "problem_name": "Substring",
+    "problem_url": "https://codeforces.com/contest/919/problem/D",
+    "submission_id": "CF34778206",
+    "submission_url": "https://codeforces.com/contest/919/submission/34778206",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "*1700"
+    ],
+    "timestamp": "Feb/01/2018 00:10"
+  },
   "CF35120386": {
     "contest_id": 917,
     "language": "Java 8",
