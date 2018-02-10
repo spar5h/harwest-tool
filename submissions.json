@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF35120386": {
+    "contest_id": 917,
+    "language": "Java 8",
+    "path": "codeforces/917/B.java",
+    "problem_index": "B",
+    "problem_name": "MADMAX",
+    "problem_url": "https://codeforces.com/contest/917/problem/B",
+    "submission_id": "CF35120386",
+    "submission_url": "https://codeforces.com/contest/917/submission/35120386",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "games",
+      "graphs",
+      "*1700"
+    ],
+    "timestamp": "Feb/10/2018 15:57"
+  },
   "CF35195779": {
     "contest_id": 52,
     "language": "Java 8",
