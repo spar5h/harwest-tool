@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF35198352": {
+    "contest_id": 145,
+    "language": "Java 8",
+    "path": "codeforces/145/E.java",
+    "problem_index": "E",
+    "problem_name": "Lucky Queries",
+    "problem_url": "https://codeforces.com/contest/145/problem/E",
+    "submission_id": "CF35198352",
+    "submission_url": "https://codeforces.com/contest/145/submission/35198352",
+    "tags": [
+      "data structures",
+      "*2400"
+    ],
+    "timestamp": "Feb/13/2018 17:29"
+  },
   "CF35378647": {
     "contest_id": 938,
     "language": "Java 8",
