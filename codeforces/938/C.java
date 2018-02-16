@@ -16,35 +16,40 @@ public class codechef implements Runnable{
 		PrintWriter w = new PrintWriter(System.out);
 		
 		int t = s.nextInt();
-	
+		
 		while(t-- > 0) {
 			
 			long x = s.nextLong();
 			
 			long n = -1, m = -1;
 			
-			outerloop:
+			outer:
 			for(long i = 1; i <= 40000; i++) {
 				
 				if(i * i < x)
 					continue;
 			
-				long l = 1, r = i;
+				double c1 = i * i - x;
+				long j = (long)Math.sqrt(c1);
+				double c2 = j * j;
 				
-				while(l <= r) {
+				if(c1 == c2) {
 					
-					long mid = (l + r) / 2;
-					long j = i / mid;
+					long l = 1, r = i;
 					
-					if(i * i - j * j == x)  {
-						n = i; m = mid; break outerloop;
+					while(l <= r) {
+						
+						long mid = (l + r) / 2;
+						
+						if(i / mid == j) {
+							n = i; m = mid; break outer;
+						}
+						
+						else if(i / mid < j)
+							r = mid - 1;
+						else
+							l = mid + 1;
 					}
-					
-					else if(i * i - j * j  < x)
-						l = mid + 1;
-					
-					else 
-						r = mid - 1;
 				}
 			}
 			

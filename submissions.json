@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF35378647": {
+    "contest_id": 938,
+    "language": "Java 8",
+    "path": "codeforces/938/C.java",
+    "problem_index": "C",
+    "problem_name": "Constructing Tests",
+    "problem_url": "https://codeforces.com/contest/938/problem/C",
+    "submission_id": "CF35378647",
+    "submission_url": "https://codeforces.com/contest/938/submission/35378647",
+    "tags": [
+      "binary search",
+      "brute force",
+      "constructive algorithms",
+      "*1700"
+    ],
+    "timestamp": "Feb/17/2018 04:28"
+  },
   "CF35378682": {
     "contest_id": 938,
     "language": "Java 8",
