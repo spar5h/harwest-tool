@@ -31,44 +31,58 @@ public class cf4 implements Runnable{
 		int[] a = new int[n + 1];
 		int[] b = new int[n + 1];
 		
-		for(int i = 1; i <= n; i++)
-			a[i] = s.nextInt();
+		int k = 0;
 		
-		for(int i = 1; i <= n; i++)
-			b[i] = s.nextInt();	
+		for(int i = 1; i <= n; i++) {
+			a[i] = s.nextInt();
+			if(a[i] == 0) k++;
+		}	
+		
+		for(int i = 1; i <= n; i++) {
+			b[i] = s.nextInt();
+			if(b[i] == 0) k++;
+		}	
 		
 		long ans = 0;
-		long currInv = 1;
+		
+		int k2 = k;
 		
 		for(int i = 1; i <= n; i++) {
 			
 			if(a[i] == 0 && b[i] == 0) {
 				
-				long res = currInv;
+				long res = 1;
 				res = res * (m - 1) % mod;
 				res = res * power(2, mod - 2) % mod;
 				res = res * power(m, mod - 2) % mod;
+				res = res * power(m, k2) % mod;
 				ans = (ans + res) % mod;
-				currInv = currInv * power(m, mod - 2) % mod;
+				
+				k2--;
+				
 			}
 			
 			else if(a[i] == 0) {
 				
-				long res = currInv;
+				long res = 1;
 				res = (res * (m - b[i])) % mod;
 				res = res * power(m, mod - 2) % mod;
+				res = res * power(m, k2) % mod;
 				ans = (ans + res) % mod;
-				currInv = currInv * power(m, mod - 2) % mod;
+				
+				k2--;
 			}
 			
 			else if(b[i] == 0) {
 				
 				
-				long res = currInv;
+				long res = 1;
 				res = (res * (a[i] - 1)) % mod;
 				res = res * power(m, mod - 2) % mod;
+				res = res * power(m, k2) % mod;
 				ans = (ans + res) % mod;
-				currInv = currInv * power(m, mod - 2) % mod;
+				
+				k2--;
 			}
 			
 			else {
@@ -78,14 +92,18 @@ public class cf4 implements Runnable{
 				
 				if(a[i] > b[i]) {
 					
-					ans = (ans + currInv) % mod;
-					currInv = currInv * power(m, mod - 2) % mod;
+					long res = power(m, k2) % mod;
+					ans = (ans + res) % mod;
 					break;
 				}
 			}
 			
 			
 		}
+		
+		long temp = power(m, k);
+		temp = power(temp, mod - 2);
+		ans = ans * temp % mod;
 		
 		w.println(ans);
 		
