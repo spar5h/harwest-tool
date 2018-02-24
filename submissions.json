@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF35655876": {
+    "contest_id": 281,
+    "language": "Java 8",
+    "path": "codeforces/281/D.java",
+    "problem_index": "D",
+    "problem_name": "Maximum Xor Secondary",
+    "problem_url": "https://codeforces.com/contest/281/problem/D",
+    "submission_id": "CF35655876",
+    "submission_url": "https://codeforces.com/contest/281/submission/35655876",
+    "tags": [
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "Feb/24/2018 23:18"
+  },
   "CF35709903": {
     "contest_id": 937,
     "language": "Java 8",
