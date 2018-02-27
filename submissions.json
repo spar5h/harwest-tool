@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF35764061": {
+    "contest_id": 877,
+    "language": "Java 8",
+    "path": "codeforces/877/E.java",
+    "problem_index": "E",
+    "problem_name": "Danil and a Part-time Job",
+    "problem_url": "https://codeforces.com/contest/877/problem/E",
+    "submission_id": "CF35764061",
+    "submission_url": "https://codeforces.com/contest/877/submission/35764061",
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "trees",
+      "*2000"
+    ],
+    "timestamp": "Feb/27/2018 19:11"
+  },
   "CF35832909": {
     "contest_id": 193,
     "language": "Java 8",
