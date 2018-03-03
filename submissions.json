@@ -19,6 +19,26 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF35885891": {
+    "contest_id": 5,
+    "language": "Java 8",
+    "path": "codeforces/5/C.java",
+    "problem_index": "C",
+    "problem_name": "Longest Regular Bracket Sequence",
+    "problem_url": "https://codeforces.com/contest/5/problem/C",
+    "submission_id": "CF35885891",
+    "submission_url": "https://codeforces.com/contest/5/submission/35885891",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "greedy",
+      "sortings",
+      "strings",
+      "*1900"
+    ],
+    "timestamp": "Mar/03/2018 19:07"
+  },
   "CF35886566": {
     "contest_id": 5,
     "language": "Java 8",

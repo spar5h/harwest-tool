@@ -30,8 +30,13 @@ public class swagdaddy implements Runnable {
 				
 				else if(!stk.isEmpty()) {
 					
-					dp[i] = i - stk.peek() + 1 + dp[stk.peek() - 1];
+					dp[i] = i - stk.peek() + 1;
+					
+					if(str.charAt(stk.peek() - 1) == ')')
+						dp[i] += dp[stk.peek() - 1];
+					
 					max = Math.max(dp[i], max);
+					
 					stk.pop();
 				}
 				
