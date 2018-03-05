@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF35970607": {
+    "contest_id": 938,
+    "language": "Java 8",
+    "path": "codeforces/938/D.java",
+    "problem_index": "D",
+    "problem_name": "Buy a Ticket",
+    "problem_url": "https://codeforces.com/contest/938/problem/D",
+    "submission_id": "CF35970607",
+    "submission_url": "https://codeforces.com/contest/938/submission/35970607",
+    "tags": [
+      "data structures",
+      "graphs",
+      "shortest paths",
+      "*2000"
+    ],
+    "timestamp": "Mar/05/2018 21:08"
+  },
   "CF36033999": {
     "contest_id": 946,
     "language": "Java 8",
