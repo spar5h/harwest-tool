@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF36033999": {
+    "contest_id": 946,
+    "language": "Java 8",
+    "path": "codeforces/946/D.java",
+    "problem_index": "D",
+    "problem_name": "Timetable",
+    "problem_url": "https://codeforces.com/contest/946/problem/D",
+    "submission_id": "CF36033999",
+    "submission_url": "https://codeforces.com/contest/946/submission/36033999",
+    "tags": [
+      "dp",
+      "*1800"
+    ],
+    "timestamp": "Mar/07/2018 11:35"
+  },
   "CF36076325": {
     "contest_id": 931,
     "language": "Java 8",
