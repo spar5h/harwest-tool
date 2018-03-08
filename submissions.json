@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF36076325": {
+    "contest_id": 931,
+    "language": "Java 8",
+    "path": "codeforces/931/A.java",
+    "problem_index": "A",
+    "problem_name": "Friends Meeting",
+    "problem_url": "https://codeforces.com/contest/931/problem/A",
+    "submission_id": "CF36076325",
+    "submission_url": "https://codeforces.com/contest/931/submission/36076325",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/08/2018 21:31"
+  },
   "CF36076623": {
     "contest_id": 931,
     "language": "Java 8",
