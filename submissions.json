@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF36076623": {
+    "contest_id": 931,
+    "language": "Java 8",
+    "path": "codeforces/931/B.java",
+    "problem_index": "B",
+    "problem_name": "World Cup",
+    "problem_url": "https://codeforces.com/contest/931/problem/B",
+    "submission_id": "CF36076623",
+    "submission_url": "https://codeforces.com/contest/931/submission/36076623",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Mar/08/2018 21:44"
+  },
   "CF36077408": {
     "contest_id": 931,
     "language": "Java 8",
