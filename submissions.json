@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF36077408": {
+    "contest_id": 931,
+    "language": "Java 8",
+    "path": "codeforces/931/C.java",
+    "problem_index": "C",
+    "problem_name": "Laboratory Work",
+    "problem_url": "https://codeforces.com/contest/931/problem/C",
+    "submission_id": "CF36077408",
+    "submission_url": "https://codeforces.com/contest/931/submission/36077408",
+    "tags": [
+      "implementation",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Mar/08/2018 22:18"
+  },
   "CF36078064": {
     "contest_id": 931,
     "language": "Java 8",
