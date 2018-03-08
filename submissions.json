@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF36078064": {
+    "contest_id": 931,
+    "language": "Java 8",
+    "path": "codeforces/931/D.java",
+    "problem_index": "D",
+    "problem_name": "Peculiar apple-tree",
+    "problem_url": "https://codeforces.com/contest/931/problem/D",
+    "submission_id": "CF36078064",
+    "submission_url": "https://codeforces.com/contest/931/submission/36078064",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "trees",
+      "*1500"
+    ],
+    "timestamp": "Mar/08/2018 22:49"
+  },
   "CF36155739": {
     "contest_id": 948,
     "language": "Java 8",
