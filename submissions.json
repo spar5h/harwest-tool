@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF36155739": {
+    "contest_id": 948,
+    "language": "Java 8",
+    "path": "codeforces/948/A.java",
+    "problem_index": "A",
+    "problem_name": "Protect Sheep",
+    "problem_url": "https://codeforces.com/contest/948/problem/A",
+    "submission_id": "CF36155739",
+    "submission_url": "https://codeforces.com/contest/948/submission/36155739",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Mar/10/2018 21:13"
+  },
   "CF36164485": {
     "contest_id": 948,
     "language": "Java 8",
