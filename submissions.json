@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF36172959": {
+    "contest_id": 948,
+    "language": "Java 8",
+    "path": "codeforces/948/B.java",
+    "problem_index": "B",
+    "problem_name": "Primal Sport",
+    "problem_url": "https://codeforces.com/contest/948/problem/B",
+    "submission_id": "CF36172959",
+    "submission_url": "https://codeforces.com/contest/948/submission/36172959",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "*1700"
+    ],
+    "timestamp": "Mar/10/2018 22:54"
+  },
   "CF36258274": {
     "contest_id": 165,
     "language": "Java 8",
