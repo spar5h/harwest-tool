@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF36258274": {
+    "contest_id": 165,
+    "language": "Java 8",
+    "path": "codeforces/165/E.java",
+    "problem_index": "E",
+    "problem_name": "Compatible Numbers",
+    "problem_url": "https://codeforces.com/contest/165/problem/E",
+    "submission_id": "CF36258274",
+    "submission_url": "https://codeforces.com/contest/165/submission/36258274",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "*2200"
+    ],
+    "timestamp": "Mar/13/2018 23:51"
+  },
   "CF36809250": {
     "contest_id": 952,
     "language": "Java 8",
