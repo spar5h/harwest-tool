@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF37024047": {
+    "contest_id": 961,
+    "language": "Java 8",
+    "path": "codeforces/961/E.java",
+    "problem_index": "E",
+    "problem_name": "Tufurama",
+    "problem_url": "https://codeforces.com/contest/961/problem/E",
+    "submission_id": "CF37024047",
+    "submission_url": "https://codeforces.com/contest/961/submission/37024047",
+    "tags": [
+      "data structures",
+      "*1900"
+    ],
+    "timestamp": "Apr/06/2018 20:22"
+  },
   "CF37056304": {
     "contest_id": 960,
     "language": "Java 8",
