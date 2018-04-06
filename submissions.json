@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF37022029": {
+    "contest_id": 961,
+    "language": "Java 8",
+    "path": "codeforces/961/A.java",
+    "problem_index": "A",
+    "problem_name": "Tetris",
+    "problem_url": "https://codeforces.com/contest/961/problem/A",
+    "submission_id": "CF37022029",
+    "submission_url": "https://codeforces.com/contest/961/submission/37022029",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Apr/06/2018 18:58"
+  },
   "CF37022229": {
     "contest_id": 961,
     "language": "Java 8",
