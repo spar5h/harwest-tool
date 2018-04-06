@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF37022229": {
+    "contest_id": 961,
+    "language": "Java 8",
+    "path": "codeforces/961/B.java",
+    "problem_index": "B",
+    "problem_name": "Lecture Sleep",
+    "problem_url": "https://codeforces.com/contest/961/problem/B",
+    "submission_id": "CF37022229",
+    "submission_url": "https://codeforces.com/contest/961/submission/37022229",
+    "tags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Apr/06/2018 19:07"
+  },
   "CF37022546": {
     "contest_id": 961,
     "language": "Java 8",
