@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF37022546": {
+    "contest_id": 961,
+    "language": "Java 8",
+    "path": "codeforces/961/C.java",
+    "problem_index": "C",
+    "problem_name": "Chessboard",
+    "problem_url": "https://codeforces.com/contest/961/problem/C",
+    "submission_id": "CF37022546",
+    "submission_url": "https://codeforces.com/contest/961/submission/37022546",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Apr/06/2018 19:19"
+  },
   "CF37024047": {
     "contest_id": 961,
     "language": "Java 8",
