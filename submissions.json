@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF37061135": {
+    "contest_id": 960,
+    "language": "Java 8",
+    "path": "codeforces/960/B.java",
+    "problem_index": "B",
+    "problem_name": "Minimize the error",
+    "problem_url": "https://codeforces.com/contest/960/problem/B",
+    "submission_id": "CF37061135",
+    "submission_url": "https://codeforces.com/contest/960/submission/37061135",
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "Apr/07/2018 21:57"
+  },
   "CF37067209": {
     "contest_id": 960,
     "language": "Java 8",
