@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF37067209": {
+    "contest_id": 960,
+    "language": "Java 8",
+    "path": "codeforces/960/C.java",
+    "problem_index": "C",
+    "problem_name": "Subsequence Counting",
+    "problem_url": "https://codeforces.com/contest/960/problem/C",
+    "submission_id": "CF37067209",
+    "submission_url": "https://codeforces.com/contest/960/submission/37067209",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Apr/07/2018 22:30"
+  },
   "CF37233674": {
     "contest_id": 960,
     "language": "Java 8",
