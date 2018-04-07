@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF37056304": {
+    "contest_id": 960,
+    "language": "Java 8",
+    "path": "codeforces/960/A.java",
+    "problem_index": "A",
+    "problem_name": "Check the string",
+    "problem_url": "https://codeforces.com/contest/960/problem/A",
+    "submission_id": "CF37056304",
+    "submission_url": "https://codeforces.com/contest/960/submission/37056304",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Apr/07/2018 21:40"
+  },
   "CF37061135": {
     "contest_id": 960,
     "language": "Java 8",
