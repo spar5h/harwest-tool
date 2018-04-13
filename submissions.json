@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF37287132": {
+    "contest_id": 948,
+    "language": "Java 8",
+    "path": "codeforces/948/D.java",
+    "problem_index": "D",
+    "problem_name": "Perfect Security",
+    "problem_url": "https://codeforces.com/contest/948/problem/D",
+    "submission_id": "CF37287132",
+    "submission_url": "https://codeforces.com/contest/948/submission/37287132",
+    "tags": [
+      "data structures",
+      "greedy",
+      "strings",
+      "trees",
+      "*1800"
+    ],
+    "timestamp": "Apr/13/2018 19:24"
+  },
   "CF37380633": {
     "contest_id": 959,
     "language": "Java 8",
