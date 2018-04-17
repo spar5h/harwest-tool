@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF37391835": {
+    "contest_id": 959,
+    "language": "Java 8",
+    "path": "codeforces/959/E.java",
+    "problem_index": "E",
+    "problem_name": "Mahmoud and Ehab and the xor-MST",
+    "problem_url": "https://codeforces.com/contest/959/problem/E",
+    "submission_id": "CF37391835",
+    "submission_url": "https://codeforces.com/contest/959/submission/37391835",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "graphs",
+      "implementation",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "Apr/17/2018 15:27"
+  },
   "CF38363692": {
     "contest_id": 982,
     "language": "Java 8",
