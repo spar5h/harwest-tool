@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF38370049": {
+    "contest_id": 982,
+    "language": "Java 8",
+    "path": "codeforces/982/B.java",
+    "problem_index": "B",
+    "problem_name": "Bus of Characters",
+    "problem_url": "https://codeforces.com/contest/982/problem/B",
+    "submission_id": "CF38370049",
+    "submission_url": "https://codeforces.com/contest/982/submission/38370049",
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "May/17/2018 22:53"
+  },
   "CF38380775": {
     "contest_id": 982,
     "language": "Java 8",
