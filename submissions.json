@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF38363692": {
+    "contest_id": 982,
+    "language": "Java 8",
+    "path": "codeforces/982/A.java",
+    "problem_index": "A",
+    "problem_name": "Row",
+    "problem_url": "https://codeforces.com/contest/982/problem/A",
+    "submission_id": "CF38363692",
+    "submission_url": "https://codeforces.com/contest/982/submission/38363692",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "*1200"
+    ],
+    "timestamp": "May/17/2018 22:27"
+  },
   "CF38370049": {
     "contest_id": 982,
     "language": "Java 8",
