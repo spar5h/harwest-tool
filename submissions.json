@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF38380775": {
+    "contest_id": 982,
+    "language": "Java 8",
+    "path": "codeforces/982/C.java",
+    "problem_index": "C",
+    "problem_name": "Cut 'em all!",
+    "problem_url": "https://codeforces.com/contest/982/problem/C",
+    "submission_id": "CF38380775",
+    "submission_url": "https://codeforces.com/contest/982/submission/38380775",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "greedy",
+      "trees",
+      "*1500"
+    ],
+    "timestamp": "May/18/2018 01:22"
+  },
   "CF38401615": {
     "contest_id": 982,
     "language": "Java 8",
