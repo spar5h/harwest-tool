@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF38401615": {
+    "contest_id": 982,
+    "language": "Java 8",
+    "path": "codeforces/982/D.java",
+    "problem_index": "D",
+    "problem_name": "Shark",
+    "problem_url": "https://codeforces.com/contest/982/problem/D",
+    "submission_id": "CF38401615",
+    "submission_url": "https://codeforces.com/contest/982/submission/38401615",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dsu",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "May/18/2018 18:13"
+  },
   "CF38406129": {
     "contest_id": 979,
     "language": "Java 8",
