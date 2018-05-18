@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF38406129": {
+    "contest_id": 979,
+    "language": "Java 8",
+    "path": "codeforces/979/B.java",
+    "problem_index": "B",
+    "problem_name": "Treasure Hunt",
+    "problem_url": "https://codeforces.com/contest/979/problem/B",
+    "submission_id": "CF38406129",
+    "submission_url": "https://codeforces.com/contest/979/submission/38406129",
+    "tags": [
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "May/18/2018 22:03"
+  },
   "CF38465817": {
     "contest_id": 984,
     "language": "Java 8",
