@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF38466056": {
+    "contest_id": 984,
+    "language": "Java 8",
+    "path": "codeforces/984/B.java",
+    "problem_index": "B",
+    "problem_name": "Minesweeper",
+    "problem_url": "https://codeforces.com/contest/984/problem/B",
+    "submission_id": "CF38466056",
+    "submission_url": "https://codeforces.com/contest/984/submission/38466056",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "May/20/2018 22:59"
+  },
   "CF38466744": {
     "contest_id": 984,
     "language": "Java 8",
