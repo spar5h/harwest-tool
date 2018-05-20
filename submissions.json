@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF38465817": {
+    "contest_id": 984,
+    "language": "Java 8",
+    "path": "codeforces/984/A.java",
+    "problem_index": "A",
+    "problem_name": "Game",
+    "problem_url": "https://codeforces.com/contest/984/problem/A",
+    "submission_id": "CF38465817",
+    "submission_url": "https://codeforces.com/contest/984/submission/38465817",
+    "tags": [
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "May/20/2018 22:48"
+  },
   "CF38466056": {
     "contest_id": 984,
     "language": "Java 8",
