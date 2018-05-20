@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF38466744": {
+    "contest_id": 984,
+    "language": "Java 8",
+    "path": "codeforces/984/C.java",
+    "problem_index": "C",
+    "problem_name": "Finite or not?",
+    "problem_url": "https://codeforces.com/contest/984/problem/C",
+    "submission_id": "CF38466744",
+    "submission_url": "https://codeforces.com/contest/984/submission/38466744",
+    "tags": [
+      "implementation",
+      "math",
+      "number theory",
+      "*1700"
+    ],
+    "timestamp": "May/20/2018 23:36"
+  },
   "CF38467059": {
     "contest_id": 984,
     "language": "Java 8",
