@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF38488104": {
+    "contest_id": 985,
+    "language": "Java 8",
+    "path": "codeforces/985/A.java",
+    "problem_index": "A",
+    "problem_name": "Chess Placing",
+    "problem_url": "https://codeforces.com/contest/985/problem/A",
+    "submission_id": "CF38488104",
+    "submission_url": "https://codeforces.com/contest/985/submission/38488104",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "May/21/2018 20:23"
+  },
   "CF38490849": {
     "contest_id": 985,
     "language": "Java 8",
