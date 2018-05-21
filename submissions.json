@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF38490849": {
+    "contest_id": 985,
+    "language": "Java 8",
+    "path": "codeforces/985/B.java",
+    "problem_index": "B",
+    "problem_name": "Switches and Lamps",
+    "problem_url": "https://codeforces.com/contest/985/problem/B",
+    "submission_id": "CF38490849",
+    "submission_url": "https://codeforces.com/contest/985/submission/38490849",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "May/21/2018 20:32"
+  },
   "CF38528346": {
     "contest_id": 985,
     "language": "Java 8",
