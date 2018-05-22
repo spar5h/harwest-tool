@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF38528346": {
+    "contest_id": 985,
+    "language": "Java 8",
+    "path": "codeforces/985/C.java",
+    "problem_index": "C",
+    "problem_name": "Liebig's Barrels",
+    "problem_url": "https://codeforces.com/contest/985/problem/C",
+    "submission_id": "CF38528346",
+    "submission_url": "https://codeforces.com/contest/985/submission/38528346",
+    "tags": [
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "May/22/2018 13:52"
+  },
   "CF38528832": {
     "contest_id": 985,
     "language": "Java 8",

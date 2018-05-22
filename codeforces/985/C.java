@@ -7,6 +7,54 @@ import java.io.*;
  
 public class cf3 implements Runnable{    
 	
+	static void mergeSort(int[] a, int l, int r) {
+			
+		if(l == r)
+			return;
+		
+		int m = (l + r) / 2;		
+			
+		int[] L = new int[m + 1 - l];
+		for(int i = 0; i < m + 1 - l; i++)
+			L[i] = a[i];
+		
+		int[] R = new int[r - m];
+		for(int i = 0; i < r - m; i++)
+			R[i] = a[m + 1 - l + i];
+		
+		mergeSort(L, l, m);
+		mergeSort(R, m + 1, r);
+			
+		merge(L, R, a);
+	}
+	
+	static void merge(int[] a, int[] b, int[] c) {
+		
+		int i = 0, j = 0, k = 0;
+		
+		while(k < c.length) {
+			
+			if(i < a.length && j < b.length) {
+				
+				if(a[i] < b[j]) {
+					c[k] = a[i]; i++;
+				}
+				else {
+					c[k] = b[j]; j++;
+				}
+			}
+			
+			else if(i < a.length) {
+				c[k] = a[i]; i++;
+			}
+			else {
+				c[k] = b[j]; j++;
+			}
+			
+			k++;
+		}
+	}
+	
 	public void run() {
 	    
 		InputReader s = new InputReader(System.in);
@@ -22,17 +70,12 @@ public class cf3 implements Runnable{
 			
 			int m = n * k;
 			
-			ArrayList<Integer> temp = new ArrayList<Integer>();
-			
-			for(int i = 0; i < m; i++)
-				temp.add(s.nextInt());
-			
-			Collections.sort(temp);
-			
 			int[] a = new int[m];
 			
 			for(int i = 0; i < m; i++)
-				a[i] = temp.get(i);
+				a[i] = s.nextInt();
+			
+			mergeSort(a, 0, m - 1);
 			
 			int min = a[0];
 			
