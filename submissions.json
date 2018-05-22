@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF38540801": {
+    "contest_id": 985,
+    "language": "Java 8",
+    "path": "codeforces/985/D.java",
+    "problem_index": "D",
+    "problem_name": "Sand Fortress",
+    "problem_url": "https://codeforces.com/contest/985/problem/D",
+    "submission_id": "CF38540801",
+    "submission_url": "https://codeforces.com/contest/985/submission/38540801",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "May/22/2018 21:24"
+  },
   "CF38544691": {
     "contest_id": 985,
     "language": "Java 8",
