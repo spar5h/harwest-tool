@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF38561000": {
+    "contest_id": 975,
+    "language": "Java 8",
+    "path": "codeforces/975/B.java",
+    "problem_index": "B",
+    "problem_name": "Mancala",
+    "problem_url": "https://codeforces.com/contest/975/problem/B",
+    "submission_id": "CF38561000",
+    "submission_url": "https://codeforces.com/contest/975/submission/38561000",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "May/23/2018 17:33"
+  },
   "CF38561512": {
     "contest_id": 975,
     "language": "Java 8",
