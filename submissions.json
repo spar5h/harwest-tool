@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF38571379": {
+    "contest_id": 975,
+    "language": "Java 8",
+    "path": "codeforces/975/D.java",
+    "problem_index": "D",
+    "problem_name": "Ghosts",
+    "problem_url": "https://codeforces.com/contest/975/problem/D",
+    "submission_id": "CF38571379",
+    "submission_url": "https://codeforces.com/contest/975/submission/38571379",
+    "tags": [
+      "geometry",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "May/24/2018 01:22"
+  },
   "CF38632990": {
     "contest_id": 939,
     "language": "Java 8",
