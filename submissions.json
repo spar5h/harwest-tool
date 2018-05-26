@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF38634537": {
+    "contest_id": 939,
+    "language": "Java 8",
+    "path": "codeforces/939/D.java",
+    "problem_index": "D",
+    "problem_name": "Love Rescue",
+    "problem_url": "https://codeforces.com/contest/939/problem/D",
+    "submission_id": "CF38634537",
+    "submission_url": "https://codeforces.com/contest/939/submission/38634537",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "strings",
+      "*1600"
+    ],
+    "timestamp": "May/26/2018 18:46"
+  },
   "CF38649386": {
     "contest_id": 939,
     "language": "Java 8",
