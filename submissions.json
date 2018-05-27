@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF38660987": {
+    "contest_id": 981,
+    "language": "Java 8",
+    "path": "codeforces/981/B.java",
+    "problem_index": "B",
+    "problem_name": "Businessmen Problems",
+    "problem_url": "https://codeforces.com/contest/981/problem/B",
+    "submission_id": "CF38660987",
+    "submission_url": "https://codeforces.com/contest/981/submission/38660987",
+    "tags": [
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "May/27/2018 20:34"
+  },
   "CF38666553": {
     "contest_id": 981,
     "language": "Java 8",
