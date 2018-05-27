@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF38649386": {
+    "contest_id": 939,
+    "language": "Java 8",
+    "path": "codeforces/939/E.java",
+    "problem_index": "E",
+    "problem_name": "Maximize!",
+    "problem_url": "https://codeforces.com/contest/939/problem/E",
+    "submission_id": "CF38649386",
+    "submission_url": "https://codeforces.com/contest/939/submission/38649386",
+    "tags": [
+      "binary search",
+      "greedy",
+      "ternary search",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "May/27/2018 12:30"
+  },
   "CF38659393": {
     "contest_id": 981,
     "language": "Java 8",
