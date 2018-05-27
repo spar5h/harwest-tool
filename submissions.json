@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF38666553": {
+    "contest_id": 981,
+    "language": "Java 8",
+    "path": "codeforces/981/C.java",
+    "problem_index": "C",
+    "problem_name": "Useful Decomposition",
+    "problem_url": "https://codeforces.com/contest/981/problem/C",
+    "submission_id": "CF38666553",
+    "submission_url": "https://codeforces.com/contest/981/submission/38666553",
+    "tags": [
+      "implementation",
+      "trees",
+      "*1400"
+    ],
+    "timestamp": "May/27/2018 21:09"
+  },
   "CF38723801": {
     "contest_id": 987,
     "language": "Java 8",
