@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF38746212": {
+    "contest_id": 987,
+    "language": "GNU C++14",
+    "path": "codeforces/987/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Fair",
+    "problem_url": "https://codeforces.com/contest/987/problem/D",
+    "submission_id": "CF38746212",
+    "submission_url": "https://codeforces.com/contest/987/submission/38746212",
+    "tags": [
+      "graphs",
+      "shortest paths",
+      "*1600"
+    ],
+    "timestamp": "May/29/2018 22:36"
+  },
   "CF38765275": {
     "contest_id": 987,
     "language": "Java 8",
