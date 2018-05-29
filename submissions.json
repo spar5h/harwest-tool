@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF38732737": {
+    "contest_id": 987,
+    "language": "Java 8",
+    "path": "codeforces/987/B.java",
+    "problem_index": "B",
+    "problem_name": "High School: Become Human",
+    "problem_url": "https://codeforces.com/contest/987/problem/B",
+    "submission_id": "CF38732737",
+    "submission_url": "https://codeforces.com/contest/987/submission/38732737",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "May/29/2018 21:35"
+  },
   "CF38736928": {
     "contest_id": 987,
     "language": "Java 8",
