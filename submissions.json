@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF38780340": {
+    "contest_id": 981,
+    "language": "Java 8",
+    "path": "codeforces/981/D.java",
+    "problem_index": "D",
+    "problem_name": "Bookshelves",
+    "problem_url": "https://codeforces.com/contest/981/problem/D",
+    "submission_id": "CF38780340",
+    "submission_url": "https://codeforces.com/contest/981/submission/38780340",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "May/30/2018 22:26"
+  },
   "CF38857234": {
     "contest_id": 988,
     "language": "Java 8",
