@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF38857660": {
+    "contest_id": 988,
+    "language": "Java 8",
+    "path": "codeforces/988/A.java",
+    "problem_index": "A",
+    "problem_name": "Diverse Team",
+    "problem_url": "https://codeforces.com/contest/988/problem/A",
+    "submission_id": "CF38857660",
+    "submission_url": "https://codeforces.com/contest/988/submission/38857660",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/01/2018 21:54"
+  },
   "CF38863249": {
     "contest_id": 988,
     "language": "Java 8",
