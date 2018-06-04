@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF38950356": {
+    "contest_id": 987,
+    "language": "GNU C++14",
+    "path": "codeforces/987/F.cpp",
+    "problem_index": "F",
+    "problem_name": "AND Graph",
+    "problem_url": "https://codeforces.com/contest/987/problem/F",
+    "submission_id": "CF38950356",
+    "submission_url": "https://codeforces.com/contest/987/submission/38950356",
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "graphs",
+      "*2500"
+    ],
+    "timestamp": "Jun/04/2018 21:54"
+  },
   "CF39089819": {
     "contest_id": 990,
     "language": "Java 8",
