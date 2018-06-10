@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39100513": {
+    "contest_id": 990,
+    "language": "Java 8",
+    "path": "codeforces/990/C.java",
+    "problem_index": "C",
+    "problem_name": "Bracket Sequences Concatenation Problem",
+    "problem_url": "https://codeforces.com/contest/990/problem/C",
+    "submission_id": "CF39100513",
+    "submission_url": "https://codeforces.com/contest/990/submission/39100513",
+    "tags": [
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Jun/10/2018 16:15"
+  },
   "CF39107435": {
     "contest_id": 990,
     "language": "Java 8",
