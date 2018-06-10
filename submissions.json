@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39107435": {
+    "contest_id": 990,
+    "language": "Java 8",
+    "path": "codeforces/990/D.java",
+    "problem_index": "D",
+    "problem_name": "Graph And Its Complement",
+    "problem_url": "https://codeforces.com/contest/990/problem/D",
+    "submission_id": "CF39107435",
+    "submission_url": "https://codeforces.com/contest/990/submission/39107435",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Jun/10/2018 16:45"
+  },
   "CF39148389": {
     "contest_id": 989,
     "language": "Java 8",
