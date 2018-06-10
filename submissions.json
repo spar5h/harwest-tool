@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39093650": {
+    "contest_id": 990,
+    "language": "Java 8",
+    "path": "codeforces/990/B.java",
+    "problem_index": "B",
+    "problem_name": "Micro-World",
+    "problem_url": "https://codeforces.com/contest/990/problem/B",
+    "submission_id": "CF39093650",
+    "submission_url": "https://codeforces.com/contest/990/submission/39093650",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Jun/10/2018 15:50"
+  },
   "CF39100513": {
     "contest_id": 990,
     "language": "Java 8",
