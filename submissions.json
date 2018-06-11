@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39163800": {
+    "contest_id": 989,
+    "language": "Java 8",
+    "path": "codeforces/989/C.java",
+    "problem_index": "C",
+    "problem_name": "A Mist of Florescence",
+    "problem_url": "https://codeforces.com/contest/989/problem/C",
+    "submission_id": "CF39163800",
+    "submission_url": "https://codeforces.com/contest/989/submission/39163800",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "*1800"
+    ],
+    "timestamp": "Jun/11/2018 20:28"
+  },
   "CF39191896": {
     "contest_id": 990,
     "language": "Java 8",
