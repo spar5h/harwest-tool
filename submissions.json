@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39148389": {
+    "contest_id": 989,
+    "language": "Java 8",
+    "path": "codeforces/989/A.java",
+    "problem_index": "A",
+    "problem_name": "A Blend of Springtime",
+    "problem_url": "https://codeforces.com/contest/989/problem/A",
+    "submission_id": "CF39148389",
+    "submission_url": "https://codeforces.com/contest/989/submission/39148389",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Jun/11/2018 19:09"
+  },
   "CF39158292": {
     "contest_id": 989,
     "language": "Java 8",
