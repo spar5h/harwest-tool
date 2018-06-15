@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39272997": {
+    "contest_id": 493,
+    "language": "Java 8",
+    "path": "codeforces/493/D.java",
+    "problem_index": "D",
+    "problem_name": "Vasya and Chess",
+    "problem_url": "https://codeforces.com/contest/493/problem/D",
+    "submission_id": "CF39272997",
+    "submission_url": "https://codeforces.com/contest/493/submission/39272997",
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Jun/15/2018 23:52"
+  },
   "CF39273488": {
     "contest_id": 414,
     "language": "Java 8",
