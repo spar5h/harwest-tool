@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39272742": {
+    "contest_id": 339,
+    "language": "Java 8",
+    "path": "codeforces/339/D.java",
+    "problem_index": "D",
+    "problem_name": "Xenia and Bit Operations",
+    "problem_url": "https://codeforces.com/contest/339/problem/D",
+    "submission_id": "CF39272742",
+    "submission_url": "https://codeforces.com/contest/339/submission/39272742",
+    "tags": [
+      "data structures",
+      "trees",
+      "*1700"
+    ],
+    "timestamp": "Jun/15/2018 23:33"
+  },
   "CF39272997": {
     "contest_id": 493,
     "language": "Java 8",
