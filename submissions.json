@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39320089": {
+    "contest_id": 994,
+    "language": "Java 8",
+    "path": "codeforces/994/D.java",
+    "problem_index": "D",
+    "problem_name": "Open Communication",
+    "problem_url": "https://codeforces.com/contest/994/problem/D",
+    "submission_id": "CF39320089",
+    "submission_url": "https://codeforces.com/contest/994/submission/39320089",
+    "tags": [
+      "bitmasks",
+      "*1900"
+    ],
+    "timestamp": "Jun/17/2018 03:42"
+  },
   "CF39334504": {
     "contest_id": 994,
     "language": "Java 8",
