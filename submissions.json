@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39297511": {
+    "contest_id": 994,
+    "language": "Java 8",
+    "path": "codeforces/994/B.java",
+    "problem_index": "B",
+    "problem_name": "Knights of a Polygonal Table",
+    "problem_url": "https://codeforces.com/contest/994/problem/B",
+    "submission_id": "CF39297511",
+    "submission_url": "https://codeforces.com/contest/994/submission/39297511",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Jun/16/2018 22:29"
+  },
   "CF39320089": {
     "contest_id": 994,
     "language": "Java 8",
