@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39284218": {
+    "contest_id": 118,
+    "language": "Java 8",
+    "path": "codeforces/118/D.java",
+    "problem_index": "D",
+    "problem_name": "Caesar's Legions",
+    "problem_url": "https://codeforces.com/contest/118/problem/D",
+    "submission_id": "CF39284218",
+    "submission_url": "https://codeforces.com/contest/118/submission/39284218",
+    "tags": [
+      "dp",
+      "*1700"
+    ],
+    "timestamp": "Jun/16/2018 15:36"
+  },
   "CF39292516": {
     "contest_id": 994,
     "language": "Java 8",
