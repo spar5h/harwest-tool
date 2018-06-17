@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39334504": {
+    "contest_id": 994,
+    "language": "Java 8",
+    "path": "codeforces/994/C.java",
+    "problem_index": "C",
+    "problem_name": "Two Squares",
+    "problem_url": "https://codeforces.com/contest/994/problem/C",
+    "submission_id": "CF39334504",
+    "submission_url": "https://codeforces.com/contest/994/submission/39334504",
+    "tags": [
+      "brute force",
+      "*1600"
+    ],
+    "timestamp": "Jun/17/2018 17:32"
+  },
   "CF39339915": {
     "contest_id": 994,
     "language": "Java 8",
