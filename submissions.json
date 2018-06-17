@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39339915": {
+    "contest_id": 994,
+    "language": "Java 8",
+    "path": "codeforces/994/E.java",
+    "problem_index": "E",
+    "problem_name": "Careful Maneuvering",
+    "problem_url": "https://codeforces.com/contest/994/problem/E",
+    "submission_id": "CF39339915",
+    "submission_url": "https://codeforces.com/contest/994/submission/39339915",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "data structures",
+      "*2100"
+    ],
+    "timestamp": "Jun/17/2018 22:00"
+  },
   "CF39361322": {
     "contest_id": 992,
     "language": "Java 8",
