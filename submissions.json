@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39386479": {
+    "contest_id": 992,
+    "language": "Java 8",
+    "path": "codeforces/992/D.java",
+    "problem_index": "D",
+    "problem_name": "Nastya and a Game",
+    "problem_url": "https://codeforces.com/contest/992/problem/D",
+    "submission_id": "CF39386479",
+    "submission_url": "https://codeforces.com/contest/992/submission/39386479",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "Jun/18/2018 23:57"
+  },
   "CF39436665": {
     "contest_id": 246,
     "language": "Java 8",
