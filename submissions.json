@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39378526": {
+    "contest_id": 992,
+    "language": "Java 8",
+    "path": "codeforces/992/B.java",
+    "problem_index": "B",
+    "problem_name": "Nastya Studies Informatics",
+    "problem_url": "https://codeforces.com/contest/992/problem/B",
+    "submission_id": "CF39378526",
+    "submission_url": "https://codeforces.com/contest/992/submission/39378526",
+    "tags": [
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Jun/18/2018 23:18"
+  },
   "CF39386479": {
     "contest_id": 992,
     "language": "Java 8",
