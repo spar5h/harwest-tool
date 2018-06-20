@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39437484": {
+    "contest_id": 276,
+    "language": "Java 8",
+    "path": "codeforces/276/D.java",
+    "problem_index": "D",
+    "problem_name": "Little Girl and Maximum XOR",
+    "problem_url": "https://codeforces.com/contest/276/problem/D",
+    "submission_id": "CF39437484",
+    "submission_url": "https://codeforces.com/contest/276/submission/39437484",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "greedy",
+      "implementation",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Jun/20/2018 19:12"
+  },
   "CF39485477": {
     "contest_id": 999,
     "language": "Java 8",
