@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39436665": {
+    "contest_id": 246,
+    "language": "Java 8",
+    "path": "codeforces/246/D.java",
+    "problem_index": "D",
+    "problem_name": "Colorful Graph",
+    "problem_url": "https://codeforces.com/contest/246/problem/D",
+    "submission_id": "CF39436665",
+    "submission_url": "https://codeforces.com/contest/246/submission/39436665",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "*1600"
+    ],
+    "timestamp": "Jun/20/2018 18:38"
+  },
   "CF39437484": {
     "contest_id": 276,
     "language": "Java 8",
