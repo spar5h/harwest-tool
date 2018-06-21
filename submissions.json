@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39499134": {
+    "contest_id": 999,
+    "language": "Java 8",
+    "path": "codeforces/999/F.java",
+    "problem_index": "F",
+    "problem_name": "Cards and Joy",
+    "problem_url": "https://codeforces.com/contest/999/problem/F",
+    "submission_id": "CF39499134",
+    "submission_url": "https://codeforces.com/contest/999/submission/39499134",
+    "tags": [
+      "dp",
+      "*2000"
+    ],
+    "timestamp": "Jun/22/2018 00:57"
+  },
   "CF39500773": {
     "contest_id": 999,
     "language": "Java 8",
