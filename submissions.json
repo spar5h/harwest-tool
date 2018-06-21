@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39485477": {
+    "contest_id": 999,
+    "language": "Java 8",
+    "path": "codeforces/999/D.java",
+    "problem_index": "D",
+    "problem_name": "Equalize the Remainders",
+    "problem_url": "https://codeforces.com/contest/999/problem/D",
+    "submission_id": "CF39485477",
+    "submission_url": "https://codeforces.com/contest/999/submission/39485477",
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation",
+      "*1900"
+    ],
+    "timestamp": "Jun/21/2018 21:25"
+  },
   "CF39499134": {
     "contest_id": 999,
     "language": "Java 8",
