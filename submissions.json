@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39550990": {
+    "contest_id": 991,
+    "language": "Java 8",
+    "path": "codeforces/991/B.java",
+    "problem_index": "B",
+    "problem_name": "Getting an A",
+    "problem_url": "https://codeforces.com/contest/991/problem/B",
+    "submission_id": "CF39550990",
+    "submission_url": "https://codeforces.com/contest/991/submission/39550990",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Jun/23/2018 21:17"
+  },
   "CF39560777": {
     "contest_id": 991,
     "language": "Java 8",
