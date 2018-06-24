@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39631796": {
+    "contest_id": 996,
+    "language": "Java 8",
+    "path": "codeforces/996/D.java",
+    "problem_index": "D",
+    "problem_name": "Suit and Tie",
+    "problem_url": "https://codeforces.com/contest/996/problem/D",
+    "submission_id": "CF39631796",
+    "submission_url": "https://codeforces.com/contest/996/submission/39631796",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Jun/25/2018 02:21"
+  },
   "CF39645541": {
     "contest_id": 996,
     "language": "Java 8",
