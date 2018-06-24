@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39631380": {
+    "contest_id": 996,
+    "language": "Java 8",
+    "path": "codeforces/996/B.java",
+    "problem_index": "B",
+    "problem_name": "World Cup",
+    "problem_url": "https://codeforces.com/contest/996/problem/B",
+    "submission_id": "CF39631380",
+    "submission_url": "https://codeforces.com/contest/996/submission/39631380",
+    "tags": [
+      "binary search",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Jun/25/2018 02:06"
+  },
   "CF39631796": {
     "contest_id": 996,
     "language": "Java 8",
