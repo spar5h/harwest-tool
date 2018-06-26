@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39676449": {
+    "contest_id": 126,
+    "language": "Java 8",
+    "path": "codeforces/126/B.java",
+    "problem_index": "B",
+    "problem_name": "Password",
+    "problem_url": "https://codeforces.com/contest/126/problem/B",
+    "submission_id": "CF39676449",
+    "submission_url": "https://codeforces.com/contest/126/submission/39676449",
+    "tags": [
+      "binary search",
+      "dp",
+      "hashing",
+      "string suffix structures",
+      "strings",
+      "*1700"
+    ],
+    "timestamp": "Jun/26/2018 18:45"
+  },
   "CF39698077": {
     "contest_id": 450,
     "language": "Java 8",
