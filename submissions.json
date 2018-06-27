@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39716263": {
+    "contest_id": 1000,
+    "language": "Java 8",
+    "path": "codeforces/1000/C.java",
+    "problem_index": "C",
+    "problem_name": "Covered Points Count",
+    "problem_url": "https://codeforces.com/contest/1000/problem/C",
+    "submission_id": "CF39716263",
+    "submission_url": "https://codeforces.com/contest/1000/submission/39716263",
+    "tags": [
+      "data structures",
+      "implementation",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Jun/27/2018 21:22"
+  },
   "CF39718774": {
     "contest_id": 1000,
     "language": "Java 8",
