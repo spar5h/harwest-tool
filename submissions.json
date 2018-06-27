@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39713882": {
+    "contest_id": 1000,
+    "language": "Java 8",
+    "path": "codeforces/1000/B.java",
+    "problem_index": "B",
+    "problem_name": "Light It Up",
+    "problem_url": "https://codeforces.com/contest/1000/problem/B",
+    "submission_id": "CF39713882",
+    "submission_url": "https://codeforces.com/contest/1000/submission/39713882",
+    "tags": [
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Jun/27/2018 21:04"
+  },
   "CF39716263": {
     "contest_id": 1000,
     "language": "Java 8",
