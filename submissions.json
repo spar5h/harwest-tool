@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39706853": {
+    "contest_id": 1000,
+    "language": "Java 8",
+    "path": "codeforces/1000/A.java",
+    "problem_index": "A",
+    "problem_name": "Codehorses T-shirts",
+    "problem_url": "https://codeforces.com/contest/1000/problem/A",
+    "submission_id": "CF39706853",
+    "submission_url": "https://codeforces.com/contest/1000/submission/39706853",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jun/27/2018 20:20"
+  },
   "CF39713882": {
     "contest_id": 1000,
     "language": "Java 8",
