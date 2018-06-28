@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39744237": {
+    "contest_id": 1000,
+    "language": "Java 8",
+    "path": "codeforces/1000/E.java",
+    "problem_index": "E",
+    "problem_name": "We Need More Bosses",
+    "problem_url": "https://codeforces.com/contest/1000/problem/E",
+    "submission_id": "CF39744237",
+    "submission_url": "https://codeforces.com/contest/1000/submission/39744237",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "Jun/28/2018 18:56"
+  },
   "CF39751448": {
     "contest_id": 295,
     "language": "Java 8",
