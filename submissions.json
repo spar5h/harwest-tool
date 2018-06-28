@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39751448": {
+    "contest_id": 295,
+    "language": "Java 8",
+    "path": "codeforces/295/B.java",
+    "problem_index": "B",
+    "problem_name": "Greg and Graph",
+    "problem_url": "https://codeforces.com/contest/295/problem/B",
+    "submission_id": "CF39751448",
+    "submission_url": "https://codeforces.com/contest/295/submission/39751448",
+    "tags": [
+      "dp",
+      "graphs",
+      "shortest paths",
+      "*1700"
+    ],
+    "timestamp": "Jun/29/2018 00:24"
+  },
   "CF39753598": {
     "contest_id": 429,
     "language": "Java 8",
