@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39767035": {
+    "contest_id": 271,
+    "language": "Java 8",
+    "path": "codeforces/271/D.java",
+    "problem_index": "D",
+    "problem_name": "Good Substrings",
+    "problem_url": "https://codeforces.com/contest/271/problem/D",
+    "submission_id": "CF39767035",
+    "submission_url": "https://codeforces.com/contest/271/submission/39767035",
+    "tags": [
+      "data structures",
+      "strings",
+      "*1800"
+    ],
+    "timestamp": "Jun/29/2018 17:16"
+  },
   "CF39780679": {
     "contest_id": 1001,
     "language": "Q#",
