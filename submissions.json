@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39780679": {
+    "contest_id": 1001,
+    "language": "Q#",
+    "path": "codeforces/1001/A.qs",
+    "problem_index": "A",
+    "problem_name": "Generate plus state or minus state",
+    "problem_url": "https://codeforces.com/contest/1001/problem/A",
+    "submission_id": "CF39780679",
+    "submission_url": "https://codeforces.com/contest/1001/submission/39780679",
+    "tags": [
+      "*special problem",
+      "*1100"
+    ],
+    "timestamp": "Jun/30/2018 01:22"
+  },
   "CF39781979": {
     "contest_id": 486,
     "language": "Java 8",
