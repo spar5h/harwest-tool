@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39791173": {
+    "contest_id": 269,
+    "language": "Java 8",
+    "path": "codeforces/269/B.java",
+    "problem_index": "B",
+    "problem_name": "Greenhouse Effect",
+    "problem_url": "https://codeforces.com/contest/269/problem/B",
+    "submission_id": "CF39791173",
+    "submission_url": "https://codeforces.com/contest/269/submission/39791173",
+    "tags": [
+      "dp",
+      "*1700"
+    ],
+    "timestamp": "Jun/30/2018 13:19"
+  },
   "CF39796560": {
     "contest_id": 478,
     "language": "GNU C++17",
