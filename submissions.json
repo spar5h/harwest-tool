@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39784621": {
+    "contest_id": 484,
+    "language": "Java 8",
+    "path": "codeforces/484/B.java",
+    "problem_index": "B",
+    "problem_name": "Maximum Value",
+    "problem_url": "https://codeforces.com/contest/484/problem/B",
+    "submission_id": "CF39784621",
+    "submission_url": "https://codeforces.com/contest/484/submission/39784621",
+    "tags": [
+      "binary search",
+      "math",
+      "sortings",
+      "two pointers",
+      "*2100"
+    ],
+    "timestamp": "Jun/30/2018 05:59"
+  },
   "CF39791173": {
     "contest_id": 269,
     "language": "Java 8",
