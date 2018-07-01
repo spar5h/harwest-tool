@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39820427": {
+    "contest_id": 329,
+    "language": "Java 8",
+    "path": "codeforces/329/B.java",
+    "problem_index": "B",
+    "problem_name": "Biridian Forest",
+    "problem_url": "https://codeforces.com/contest/329/problem/B",
+    "submission_id": "CF39820427",
+    "submission_url": "https://codeforces.com/contest/329/submission/39820427",
+    "tags": [
+      "dfs and similar",
+      "shortest paths",
+      "*1500"
+    ],
+    "timestamp": "Jul/01/2018 17:24"
+  },
   "CF39821914": {
     "contest_id": 442,
     "language": "Java 8",
