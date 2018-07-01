@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39821914": {
+    "contest_id": 442,
+    "language": "Java 8",
+    "path": "codeforces/442/B.java",
+    "problem_index": "B",
+    "problem_name": "Andrey and Problem",
+    "problem_url": "https://codeforces.com/contest/442/problem/B",
+    "submission_id": "CF39821914",
+    "submission_url": "https://codeforces.com/contest/442/submission/39821914",
+    "tags": [
+      "greedy",
+      "math",
+      "probabilities",
+      "*1800"
+    ],
+    "timestamp": "Jul/01/2018 18:33"
+  },
   "CF39849512": {
     "contest_id": 446,
     "language": "Java 8",
