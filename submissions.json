@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39964365": {
+    "contest_id": 1003,
+    "language": "Java 8",
+    "path": "codeforces/1003/F.java",
+    "problem_index": "F",
+    "problem_name": "Abbreviation",
+    "problem_url": "https://codeforces.com/contest/1003/problem/F",
+    "submission_id": "CF39964365",
+    "submission_url": "https://codeforces.com/contest/1003/submission/39964365",
+    "tags": [
+      "dp",
+      "hashing",
+      "strings",
+      "*2200"
+    ],
+    "timestamp": "Jul/05/2018 00:06"
+  },
   "CF39968437": {
     "contest_id": 486,
     "language": "Java 8",
