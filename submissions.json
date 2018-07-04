@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39968437": {
+    "contest_id": 486,
+    "language": "Java 8",
+    "path": "codeforces/486/D.java",
+    "problem_index": "D",
+    "problem_name": "Valid Sets",
+    "problem_url": "https://codeforces.com/contest/486/problem/D",
+    "submission_id": "CF39968437",
+    "submission_url": "https://codeforces.com/contest/486/submission/39968437",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "math",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "Jul/05/2018 04:33"
+  },
   "CF40006693": {
     "contest_id": 359,
     "language": "Java 8",
