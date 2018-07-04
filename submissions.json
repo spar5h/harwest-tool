@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39959775": {
+    "contest_id": 1003,
+    "language": "Java 8",
+    "path": "codeforces/1003/E.java",
+    "problem_index": "E",
+    "problem_name": "Tree Constructing",
+    "problem_url": "https://codeforces.com/contest/1003/problem/E",
+    "submission_id": "CF39959775",
+    "submission_url": "https://codeforces.com/contest/1003/submission/39959775",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "*2100"
+    ],
+    "timestamp": "Jul/04/2018 20:49"
+  },
   "CF39964365": {
     "contest_id": 1003,
     "language": "Java 8",
