@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF39950041": {
+    "contest_id": 274,
+    "language": "Java 8",
+    "path": "codeforces/274/B.java",
+    "problem_index": "B",
+    "problem_name": "Zero Tree",
+    "problem_url": "https://codeforces.com/contest/274/problem/B",
+    "submission_id": "CF39950041",
+    "submission_url": "https://codeforces.com/contest/274/submission/39950041",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees",
+      "*1800"
+    ],
+    "timestamp": "Jul/04/2018 15:12"
+  },
   "CF39953561": {
     "contest_id": 432,
     "language": "Java 8",
