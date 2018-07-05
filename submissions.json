@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF40006693": {
+    "contest_id": 359,
+    "language": "Java 8",
+    "path": "codeforces/359/D.java",
+    "problem_index": "D",
+    "problem_name": "Pair of Numbers",
+    "problem_url": "https://codeforces.com/contest/359/problem/D",
+    "submission_id": "CF40006693",
+    "submission_url": "https://codeforces.com/contest/359/submission/40006693",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "math",
+      "two pointers",
+      "*2000"
+    ],
+    "timestamp": "Jul/06/2018 00:30"
+  },
   "CF40012251": {
     "contest_id": 229,
     "language": "Java 8",
