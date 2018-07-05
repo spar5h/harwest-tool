@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF40012251": {
+    "contest_id": 229,
+    "language": "Java 8",
+    "path": "codeforces/229/B.java",
+    "problem_index": "B",
+    "problem_name": "Planets",
+    "problem_url": "https://codeforces.com/contest/229/problem/B",
+    "submission_id": "CF40012251",
+    "submission_url": "https://codeforces.com/contest/229/submission/40012251",
+    "tags": [
+      "binary search",
+      "data structures",
+      "graphs",
+      "shortest paths",
+      "*1700"
+    ],
+    "timestamp": "Jul/06/2018 02:48"
+  },
   "CF40028308": {
     "contest_id": 353,
     "language": "Java 8",
