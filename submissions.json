@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF40032186": {
+    "contest_id": 111,
+    "language": "Java 8",
+    "path": "codeforces/111/B.java",
+    "problem_index": "B",
+    "problem_name": "Petya and Divisors",
+    "problem_url": "https://codeforces.com/contest/111/problem/B",
+    "submission_id": "CF40032186",
+    "submission_url": "https://codeforces.com/contest/111/submission/40032186",
+    "tags": [
+      "binary search",
+      "data structures",
+      "number theory",
+      "*1900"
+    ],
+    "timestamp": "Jul/06/2018 19:23"
+  },
   "CF40146324": {
     "contest_id": 1005,
     "language": "Java 8",
