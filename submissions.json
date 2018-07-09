@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF40146324": {
+    "contest_id": 1005,
+    "language": "Java 8",
+    "path": "codeforces/1005/E1.java",
+    "problem_index": "E1",
+    "problem_name": "Median on Segments (Permutations Edition)",
+    "problem_url": "https://codeforces.com/contest/1005/problem/E1",
+    "submission_id": "CF40146324",
+    "submission_url": "https://codeforces.com/contest/1005/submission/40146324",
+    "tags": [
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "Jul/09/2018 23:18"
+  },
   "CF40148183": {
     "contest_id": 1005,
     "language": "Java 8",
