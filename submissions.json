@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF40170906": {
+    "contest_id": 1005,
+    "language": "Java 8",
+    "path": "codeforces/1005/D.java",
+    "problem_index": "D",
+    "problem_name": "Polycarp and Div 3",
+    "problem_url": "https://codeforces.com/contest/1005/problem/D",
+    "submission_id": "CF40170906",
+    "submission_url": "https://codeforces.com/contest/1005/submission/40170906",
+    "tags": [
+      "dp",
+      "greedy",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Jul/10/2018 17:54"
+  },
   "CF40171017": {
     "contest_id": 1005,
     "language": "Java 8",
