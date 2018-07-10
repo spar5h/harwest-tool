@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF40171017": {
+    "contest_id": 1005,
+    "language": "Java 8",
+    "path": "codeforces/1005/B.java",
+    "problem_index": "B",
+    "problem_name": "Delete from the Left",
+    "problem_url": "https://codeforces.com/contest/1005/problem/B",
+    "submission_id": "CF40171017",
+    "submission_url": "https://codeforces.com/contest/1005/submission/40171017",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Jul/10/2018 17:57"
+  },
   "CF40171269": {
     "contest_id": 1005,
     "language": "Java 8",
