@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF40170101": {
+    "contest_id": 1005,
+    "language": "Java 8",
+    "path": "codeforces/1005/E2.java",
+    "problem_index": "E2",
+    "problem_name": "Median on Segments (General Case Edition)",
+    "problem_url": "https://codeforces.com/contest/1005/problem/E2",
+    "submission_id": "CF40170101",
+    "submission_url": "https://codeforces.com/contest/1005/submission/40170101",
+    "tags": [
+      "sortings",
+      "*2400"
+    ],
+    "timestamp": "Jul/10/2018 17:31"
+  },
   "CF40170906": {
     "contest_id": 1005,
     "language": "Java 8",
