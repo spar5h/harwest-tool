@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF40374500": {
+    "contest_id": 1009,
+    "language": "Java 8",
+    "path": "codeforces/1009/D.java",
+    "problem_index": "D",
+    "problem_name": "Relatively Prime Graph",
+    "problem_url": "https://codeforces.com/contest/1009/problem/D",
+    "submission_id": "CF40374500",
+    "submission_url": "https://codeforces.com/contest/1009/submission/40374500",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Jul/15/2018 15:38"
+  },
   "CF40410615": {
     "contest_id": 1009,
     "language": "Java 8",
