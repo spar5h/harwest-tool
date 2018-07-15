@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF40372708": {
+    "contest_id": 1009,
+    "language": "Java 8",
+    "path": "codeforces/1009/A.java",
+    "problem_index": "A",
+    "problem_name": "Game Shopping",
+    "problem_url": "https://codeforces.com/contest/1009/problem/A",
+    "submission_id": "CF40372708",
+    "submission_url": "https://codeforces.com/contest/1009/submission/40372708",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/15/2018 14:33"
+  },
   "CF40372995": {
     "contest_id": 1009,
     "language": "Java 8",
