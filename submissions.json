@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF40372995": {
+    "contest_id": 1009,
+    "language": "Java 8",
+    "path": "codeforces/1009/B.java",
+    "problem_index": "B",
+    "problem_name": "Minimum Ternary String",
+    "problem_url": "https://codeforces.com/contest/1009/problem/B",
+    "submission_id": "CF40372995",
+    "submission_url": "https://codeforces.com/contest/1009/submission/40372995",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Jul/15/2018 14:43"
+  },
   "CF40373555": {
     "contest_id": 1009,
     "language": "Java 8",
