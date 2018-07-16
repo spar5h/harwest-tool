@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF40410615": {
+    "contest_id": 1009,
+    "language": "Java 8",
+    "path": "codeforces/1009/E.java",
+    "problem_index": "E",
+    "problem_name": "Intercity Travelling",
+    "problem_url": "https://codeforces.com/contest/1009/problem/E",
+    "submission_id": "CF40410615",
+    "submission_url": "https://codeforces.com/contest/1009/submission/40410615",
+    "tags": [
+      "combinatorics",
+      "math",
+      "probabilities",
+      "*2000"
+    ],
+    "timestamp": "Jul/16/2018 17:45"
+  },
   "CF40515861": {
     "contest_id": 494,
     "language": "Java 8",
