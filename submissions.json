@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF40515861": {
+    "contest_id": 494,
+    "language": "Java 8",
+    "path": "codeforces/494/B.java",
+    "problem_index": "B",
+    "problem_name": "Obsessive String",
+    "problem_url": "https://codeforces.com/contest/494/problem/B",
+    "submission_id": "CF40515861",
+    "submission_url": "https://codeforces.com/contest/494/submission/40515861",
+    "tags": [
+      "dp",
+      "strings",
+      "*2000"
+    ],
+    "timestamp": "Jul/18/2018 18:47"
+  },
   "CF40782281": {
     "contest_id": 400,
     "language": "Java 8",
