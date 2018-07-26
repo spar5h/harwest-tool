@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF40782281": {
+    "contest_id": 400,
+    "language": "Java 8",
+    "path": "codeforces/400/D.java",
+    "problem_index": "D",
+    "problem_name": "Dima and Bacteria",
+    "problem_url": "https://codeforces.com/contest/400/problem/D",
+    "submission_id": "CF40782281",
+    "submission_url": "https://codeforces.com/contest/400/submission/40782281",
+    "tags": [
+      "dsu",
+      "graphs",
+      "shortest paths",
+      "*2000"
+    ],
+    "timestamp": "Jul/26/2018 20:02"
+  },
   "CF40855786": {
     "contest_id": 319,
     "language": "Java 8",
