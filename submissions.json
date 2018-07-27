@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF40855786": {
+    "contest_id": 319,
+    "language": "Java 8",
+    "path": "codeforces/319/B.java",
+    "problem_index": "B",
+    "problem_name": "Psychos in a Line",
+    "problem_url": "https://codeforces.com/contest/319/problem/B",
+    "submission_id": "CF40855786",
+    "submission_url": "https://codeforces.com/contest/319/submission/40855786",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1900"
+    ],
+    "timestamp": "Jul/27/2018 22:41"
+  },
   "CF40871677": {
     "contest_id": 321,
     "language": "Java 8",
