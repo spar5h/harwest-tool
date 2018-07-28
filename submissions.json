@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF40871677": {
+    "contest_id": 321,
+    "language": "Java 8",
+    "path": "codeforces/321/B.java",
+    "problem_index": "B",
+    "problem_name": "Ciel and Duel",
+    "problem_url": "https://codeforces.com/contest/321/problem/B",
+    "submission_id": "CF40871677",
+    "submission_url": "https://codeforces.com/contest/321/submission/40871677",
+    "tags": [
+      "dp",
+      "flows",
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "Jul/28/2018 12:09"
+  },
   "CF41026196": {
     "contest_id": 1015,
     "language": "Java 8",
