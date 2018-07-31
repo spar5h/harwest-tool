@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF41041824": {
+    "contest_id": 1015,
+    "language": "Java 8",
+    "path": "codeforces/1015/D.java",
+    "problem_index": "D",
+    "problem_name": "Walking Between Houses",
+    "problem_url": "https://codeforces.com/contest/1015/problem/D",
+    "submission_id": "CF41041824",
+    "submission_url": "https://codeforces.com/contest/1015/submission/41041824",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Jul/31/2018 20:57"
+  },
   "CF41047910": {
     "contest_id": 1015,
     "language": "Java 8",
