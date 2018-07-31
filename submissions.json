@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF41026196": {
+    "contest_id": 1015,
+    "language": "Java 8",
+    "path": "codeforces/1015/A.java",
+    "problem_index": "A",
+    "problem_name": "Points in Segments",
+    "problem_url": "https://codeforces.com/contest/1015/problem/A",
+    "submission_id": "CF41026196",
+    "submission_url": "https://codeforces.com/contest/1015/submission/41026196",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/31/2018 20:09"
+  },
   "CF41030591": {
     "contest_id": 1015,
     "language": "Java 8",
