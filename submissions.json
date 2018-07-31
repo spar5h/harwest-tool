@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF41057183": {
+    "contest_id": 1015,
+    "language": "Java 8",
+    "path": "codeforces/1015/E2.java",
+    "problem_index": "E2",
+    "problem_name": "Stars Drawing (Hard Edition)",
+    "problem_url": "https://codeforces.com/contest/1015/problem/E2",
+    "submission_id": "CF41057183",
+    "submission_url": "https://codeforces.com/contest/1015/submission/41057183",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "Jul/31/2018 21:58"
+  },
   "CF41117121": {
     "contest_id": 77,
     "language": "Java 8",
