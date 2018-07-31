@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF41030591": {
+    "contest_id": 1015,
+    "language": "Java 8",
+    "path": "codeforces/1015/B.java",
+    "problem_index": "B",
+    "problem_name": "Obtaining the String",
+    "problem_url": "https://codeforces.com/contest/1015/problem/B",
+    "submission_id": "CF41030591",
+    "submission_url": "https://codeforces.com/contest/1015/submission/41030591",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jul/31/2018 20:21"
+  },
   "CF41032506": {
     "contest_id": 1015,
     "language": "Java 8",
