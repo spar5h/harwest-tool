@@ -74,30 +74,32 @@ public class cf5 implements Runnable{
 			}
 		}
 		
-		int[][] h = new int[n + 1][m + 1];
-		int[][] v = new int[n + 1][m + 1];
+		char[][] b = new char[n][m];
+		
+		for(int i = 0; i < n; i++)
+			for(int j = 0; j < m; j++)
+				b[i][j] = '.';
 		
 		for(int x = 0; x < list.size(); x++) {
 			
-			int i = list.get(x).i, j = list.get(x).j, k = list.get(x).k;
+			int i = list.get(x).i, j = list.get(x).j;
 			
-			h[i][j - k]++; h[i][j + k + 1]--;			
-			v[i - k][j]++; v[i + k + 1][j]--;
+			b[i][j] = '*';
+			
+			for(int k = 1; k <= list.get(x).k; k++) {
+				
+				b[i + k][j] = '*';
+				b[i - k][j] = '*';
+				b[i][j + k] = '*';
+				b[i][j - k] = '*';
+			}
 		}
-		
-		for(int i = 0; i < n; i++)
-			for(int j = 1; j < m; j++)
-				h[i][j] += h[i][j - 1];
-		
-		for(int j = 0; j < m; j++)
-			for(int i = 1; i < n; i++)
-				v[i][j] += v[i - 1][j];
 		
 		boolean check = true;
 		
 		for(int i = 0; i < n; i++)
 			for(int j = 0; j < m; j++)
-				if(a[i][j] == '*' && h[i][j] == 0 && v[i][j] == 0)
+				if(a[i][j] != b[i][j])
 					check = false;
 		
 		if(check) {
