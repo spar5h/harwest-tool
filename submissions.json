@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF41117121": {
+    "contest_id": 77,
+    "language": "Java 8",
+    "path": "codeforces/77/B.java",
+    "problem_index": "B",
+    "problem_name": "Falling Anvils",
+    "problem_url": "https://codeforces.com/contest/77/problem/B",
+    "submission_id": "CF41117121",
+    "submission_url": "https://codeforces.com/contest/77/submission/41117121",
+    "tags": [
+      "math",
+      "probabilities",
+      "*1800"
+    ],
+    "timestamp": "Aug/02/2018 15:11"
+  },
   "CF41129752": {
     "contest_id": 1010,
     "language": "Java 8",
