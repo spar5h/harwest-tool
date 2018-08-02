@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF41129752": {
+    "contest_id": 1010,
+    "language": "Java 8",
+    "path": "codeforces/1010/A.java",
+    "problem_index": "A",
+    "problem_name": "Fly",
+    "problem_url": "https://codeforces.com/contest/1010/problem/A",
+    "submission_id": "CF41129752",
+    "submission_url": "https://codeforces.com/contest/1010/submission/41129752",
+    "tags": [
+      "binary search",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Aug/02/2018 21:58"
+  },
   "CF41130556": {
     "contest_id": 1010,
     "language": "Java 8",
