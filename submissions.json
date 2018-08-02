@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF41130556": {
+    "contest_id": 1010,
+    "language": "Java 8",
+    "path": "codeforces/1010/B.java",
+    "problem_index": "B",
+    "problem_name": "Rocket",
+    "problem_url": "https://codeforces.com/contest/1010/problem/B",
+    "submission_id": "CF41130556",
+    "submission_url": "https://codeforces.com/contest/1010/submission/41130556",
+    "tags": [
+      "binary search",
+      "interactive",
+      "*1800"
+    ],
+    "timestamp": "Aug/02/2018 22:35"
+  },
   "CF41132295": {
     "contest_id": 1010,
     "language": "Java 8",
