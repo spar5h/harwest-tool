@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF41219732": {
+    "contest_id": 1010,
+    "language": "Java 8",
+    "path": "codeforces/1010/D.java",
+    "problem_index": "D",
+    "problem_name": "Mars rover",
+    "problem_url": "https://codeforces.com/contest/1010/problem/D",
+    "submission_id": "CF41219732",
+    "submission_url": "https://codeforces.com/contest/1010/submission/41219732",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "trees",
+      "*2000"
+    ],
+    "timestamp": "Aug/04/2018 20:28"
+  },
   "CF41502105": {
     "contest_id": 1019,
     "language": "Java 8",
