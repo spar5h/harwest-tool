@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF41502105": {
+    "contest_id": 1019,
+    "language": "Java 8",
+    "path": "codeforces/1019/A.java",
+    "problem_index": "A",
+    "problem_name": "Elections",
+    "problem_url": "https://codeforces.com/contest/1019/problem/A",
+    "submission_id": "CF41502105",
+    "submission_url": "https://codeforces.com/contest/1019/submission/41502105",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Aug/11/2018 23:15"
+  },
   "CF41967772": {
     "contest_id": 1027,
     "language": "Java 8",
