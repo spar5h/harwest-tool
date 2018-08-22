@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF41968315": {
+    "contest_id": 1027,
+    "language": "Java 8",
+    "path": "codeforces/1027/B.java",
+    "problem_index": "B",
+    "problem_name": "Numbers on the Chessboard",
+    "problem_url": "https://codeforces.com/contest/1027/problem/B",
+    "submission_id": "CF41968315",
+    "submission_url": "https://codeforces.com/contest/1027/submission/41968315",
+    "tags": [
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Aug/22/2018 19:03"
+  },
   "CF41969240": {
     "contest_id": 1027,
     "language": "Java 8",
