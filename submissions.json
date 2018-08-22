@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF41969240": {
+    "contest_id": 1027,
+    "language": "Java 8",
+    "path": "codeforces/1027/C.java",
+    "problem_index": "C",
+    "problem_name": "Minimum Value Rectangle",
+    "problem_url": "https://codeforces.com/contest/1027/problem/C",
+    "submission_id": "CF41969240",
+    "submission_url": "https://codeforces.com/contest/1027/submission/41969240",
+    "tags": [
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Aug/22/2018 19:35"
+  },
   "CF41970226": {
     "contest_id": 1027,
     "language": "Java 8",
