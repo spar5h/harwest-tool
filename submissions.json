@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF41970226": {
+    "contest_id": 1027,
+    "language": "Java 8",
+    "path": "codeforces/1027/D.java",
+    "problem_index": "D",
+    "problem_name": "Mouse Hunt",
+    "problem_url": "https://codeforces.com/contest/1027/problem/D",
+    "submission_id": "CF41970226",
+    "submission_url": "https://codeforces.com/contest/1027/submission/41970226",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "*1700"
+    ],
+    "timestamp": "Aug/22/2018 20:08"
+  },
   "CF41997629": {
     "contest_id": 1025,
     "language": "Java 8",
