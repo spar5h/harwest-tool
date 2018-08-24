@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF42059510": {
+    "contest_id": 1029,
+    "language": "Java 8",
+    "path": "codeforces/1029/F.java",
+    "problem_index": "F",
+    "problem_name": "Multicolored Markers",
+    "problem_url": "https://codeforces.com/contest/1029/problem/F",
+    "submission_id": "CF42059510",
+    "submission_url": "https://codeforces.com/contest/1029/submission/42059510",
+    "tags": [
+      "binary search",
+      "brute force",
+      "math",
+      "number theory",
+      "*2000"
+    ],
+    "timestamp": "Aug/24/2018 22:22"
+  },
   "CF42061328": {
     "contest_id": 1029,
     "language": "Java 8",
