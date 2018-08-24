@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF42061328": {
+    "contest_id": 1029,
+    "language": "Java 8",
+    "path": "codeforces/1029/A.java",
+    "problem_index": "A",
+    "problem_name": "Many Equal Substrings",
+    "problem_url": "https://codeforces.com/contest/1029/problem/A",
+    "submission_id": "CF42061328",
+    "submission_url": "https://codeforces.com/contest/1029/submission/42061328",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Aug/24/2018 22:49"
+  },
   "CF42063766": {
     "contest_id": 1029,
     "language": "Java 8",
