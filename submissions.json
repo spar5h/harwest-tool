@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF42078321": {
+    "contest_id": 1029,
+    "language": "Java 8",
+    "path": "codeforces/1029/D.java",
+    "problem_index": "D",
+    "problem_name": "Concatenated Multiples",
+    "problem_url": "https://codeforces.com/contest/1029/problem/D",
+    "submission_id": "CF42078321",
+    "submission_url": "https://codeforces.com/contest/1029/submission/42078321",
+    "tags": [
+      "implementation",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "Aug/25/2018 12:26"
+  },
   "CF42120571": {
     "contest_id": 1029,
     "language": "Java 8",
