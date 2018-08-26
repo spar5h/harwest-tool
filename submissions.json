@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF42120571": {
+    "contest_id": 1029,
+    "language": "Java 8",
+    "path": "codeforces/1029/B.java",
+    "problem_index": "B",
+    "problem_name": "Creating the Contest",
+    "problem_url": "https://codeforces.com/contest/1029/problem/B",
+    "submission_id": "CF42120571",
+    "submission_url": "https://codeforces.com/contest/1029/submission/42120571",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Aug/26/2018 17:45"
+  },
   "CF42132265": {
     "contest_id": 1029,
     "language": "Java 8",
