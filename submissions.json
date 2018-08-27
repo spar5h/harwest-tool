@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF42185090": {
+    "contest_id": 1028,
+    "language": "Java 8",
+    "path": "codeforces/1028/C.java",
+    "problem_index": "C",
+    "problem_name": "Rectangles",
+    "problem_url": "https://codeforces.com/contest/1028/problem/C",
+    "submission_id": "CF42185090",
+    "submission_url": "https://codeforces.com/contest/1028/submission/42185090",
+    "tags": [
+      "geometry",
+      "implementation",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Aug/28/2018 02:16"
+  },
   "CF42185100": {
     "contest_id": 1028,
     "language": "Java 8",
