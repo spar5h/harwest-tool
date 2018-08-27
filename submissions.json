@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF42185100": {
+    "contest_id": 1028,
+    "language": "Java 8",
+    "path": "codeforces/1028/B.java",
+    "problem_index": "B",
+    "problem_name": "Unnatural Conditions",
+    "problem_url": "https://codeforces.com/contest/1028/problem/B",
+    "submission_id": "CF42185100",
+    "submission_url": "https://codeforces.com/contest/1028/submission/42185100",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Aug/28/2018 02:16"
+  },
   "CF42185105": {
     "contest_id": 1028,
     "language": "Java 8",
