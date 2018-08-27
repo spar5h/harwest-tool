@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF42185071": {
+    "contest_id": 1028,
+    "language": "Java 8",
+    "path": "codeforces/1028/D.java",
+    "problem_index": "D",
+    "problem_name": "Order book",
+    "problem_url": "https://codeforces.com/contest/1028/problem/D",
+    "submission_id": "CF42185071",
+    "submission_url": "https://codeforces.com/contest/1028/submission/42185071",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "greedy",
+      "*2100"
+    ],
+    "timestamp": "Aug/28/2018 02:15"
+  },
   "CF42185090": {
     "contest_id": 1028,
     "language": "Java 8",
