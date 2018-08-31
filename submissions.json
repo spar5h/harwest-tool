@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF42308318": {
+    "contest_id": 203,
+    "language": "Java 8",
+    "path": "codeforces/203/D.java",
+    "problem_index": "D",
+    "problem_name": "Hit Ball",
+    "problem_url": "https://codeforces.com/contest/203/problem/D",
+    "submission_id": "CF42308318",
+    "submission_url": "https://codeforces.com/contest/203/submission/42308318",
+    "tags": [
+      "geometry",
+      "implementation",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Aug/31/2018 18:12"
+  },
   "CF42317677": {
     "contest_id": 405,
     "language": "Java 8",
