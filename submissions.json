@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF42317677": {
+    "contest_id": 405,
+    "language": "Java 8",
+    "path": "codeforces/405/D.java",
+    "problem_index": "D",
+    "problem_name": "Toy Sum",
+    "problem_url": "https://codeforces.com/contest/405/problem/D",
+    "submission_id": "CF42317677",
+    "submission_url": "https://codeforces.com/contest/405/submission/42317677",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Sep/01/2018 00:01"
+  },
   "CF42337928": {
     "contest_id": 346,
     "language": "Java 8",
