@@ -19,6 +19,26 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF42463941": {
+    "contest_id": 14,
+    "language": "Java 8",
+    "path": "codeforces/14/D.java",
+    "problem_index": "D",
+    "problem_name": "Two Paths",
+    "problem_url": "https://codeforces.com/contest/14/problem/D",
+    "submission_id": "CF42463941",
+    "submission_url": "https://codeforces.com/contest/14/submission/42463941",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "shortest paths",
+      "trees",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "Sep/04/2018 20:26"
+  },
   "CF42493292": {
     "contest_id": 142,
     "language": "Java 8",
