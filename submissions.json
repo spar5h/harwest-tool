@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF42498248": {
+    "contest_id": 272,
+    "language": "Java 8",
+    "path": "codeforces/272/D.java",
+    "problem_index": "D",
+    "problem_name": "Dima and Two Sequences",
+    "problem_url": "https://codeforces.com/contest/272/problem/D",
+    "submission_id": "CF42498248",
+    "submission_url": "https://codeforces.com/contest/272/submission/42498248",
+    "tags": [
+      "combinatorics",
+      "math",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Sep/05/2018 21:03"
+  },
   "CF42547531": {
     "contest_id": 1040,
     "language": "Java 8",
