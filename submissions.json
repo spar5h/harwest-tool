@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF42547743": {
+    "contest_id": 1039,
+    "language": "Java 8",
+    "path": "codeforces/1039/C.java",
+    "problem_index": "C",
+    "problem_name": "Network Safety",
+    "problem_url": "https://codeforces.com/contest/1039/problem/C",
+    "submission_id": "CF42547743",
+    "submission_url": "https://codeforces.com/contest/1039/submission/42547743",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "math",
+      "sortings",
+      "*2200"
+    ],
+    "timestamp": "Sep/06/2018 15:38"
+  },
   "CF42553970": {
     "contest_id": 9,
     "language": "Java 8",
