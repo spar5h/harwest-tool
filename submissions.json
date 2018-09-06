@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF42569852": {
+    "contest_id": 1038,
+    "language": "Java 8",
+    "path": "codeforces/1038/C.java",
+    "problem_index": "C",
+    "problem_name": "Gambling",
+    "problem_url": "https://codeforces.com/contest/1038/problem/C",
+    "submission_id": "CF42569852",
+    "submission_url": "https://codeforces.com/contest/1038/submission/42569852",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Sep/06/2018 21:35"
+  },
   "CF42580170": {
     "contest_id": 1038,
     "language": "Java 8",
