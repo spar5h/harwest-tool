@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF42559544": {
+    "contest_id": 1038,
+    "language": "Java 8",
+    "path": "codeforces/1038/A.java",
+    "problem_index": "A",
+    "problem_name": "Equality",
+    "problem_url": "https://codeforces.com/contest/1038/problem/A",
+    "submission_id": "CF42559544",
+    "submission_url": "https://codeforces.com/contest/1038/submission/42559544",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Sep/06/2018 21:08"
+  },
   "CF42565831": {
     "contest_id": 1038,
     "language": "Java 8",
