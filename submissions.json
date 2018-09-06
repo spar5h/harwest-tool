@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF42553970": {
+    "contest_id": 9,
+    "language": "Java 8",
+    "path": "codeforces/9/D.java",
+    "problem_index": "D",
+    "problem_name": "How many trees?",
+    "problem_url": "https://codeforces.com/contest/9/problem/D",
+    "submission_id": "CF42553970",
+    "submission_url": "https://codeforces.com/contest/9/submission/42553970",
+    "tags": [
+      "combinatorics",
+      "divide and conquer",
+      "dp",
+      "*1900"
+    ],
+    "timestamp": "Sep/06/2018 18:53"
+  },
   "CF42559544": {
     "contest_id": 1038,
     "language": "Java 8",
