@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF42686850": {
+    "contest_id": 466,
+    "language": "Java 8",
+    "path": "codeforces/466/C.java",
+    "problem_index": "C",
+    "problem_name": "Number of Ways",
+    "problem_url": "https://codeforces.com/contest/466/problem/C",
+    "submission_id": "CF42686850",
+    "submission_url": "https://codeforces.com/contest/466/submission/42686850",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dp",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Sep/09/2018 01:35"
+  },
   "CF42870321": {
     "contest_id": 145,
     "language": "Java 8",
