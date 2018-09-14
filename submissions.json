@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF42870321": {
+    "contest_id": 145,
+    "language": "Java 8",
+    "path": "codeforces/145/B.java",
+    "problem_index": "B",
+    "problem_name": "Lucky Number 2",
+    "problem_url": "https://codeforces.com/contest/145/problem/B",
+    "submission_id": "CF42870321",
+    "submission_url": "https://codeforces.com/contest/145/submission/42870321",
+    "tags": [
+      "constructive algorithms",
+      "*1800"
+    ],
+    "timestamp": "Sep/14/2018 23:56"
+  },
   "CF42871590": {
     "contest_id": 455,
     "language": "Java 8",
