@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF43006679": {
+    "contest_id": 1041,
+    "language": "Java 8",
+    "path": "codeforces/1041/F.java",
+    "problem_index": "F",
+    "problem_name": "Ray in the tube",
+    "problem_url": "https://codeforces.com/contest/1041/problem/F",
+    "submission_id": "CF43006679",
+    "submission_url": "https://codeforces.com/contest/1041/submission/43006679",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "Sep/17/2018 21:46"
+  },
   "CF43533810": {
     "contest_id": 431,
     "language": "Java 8",
