@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF43542866": {
+    "contest_id": 380,
+    "language": "Java 8",
+    "path": "codeforces/380/C.java",
+    "problem_index": "C",
+    "problem_name": "Sereja and Brackets",
+    "problem_url": "https://codeforces.com/contest/380/problem/C",
+    "submission_id": "CF43542866",
+    "submission_url": "https://codeforces.com/contest/380/submission/43542866",
+    "tags": [
+      "data structures",
+      "schedules",
+      "*2000"
+    ],
+    "timestamp": "Sep/28/2018 23:23"
+  },
   "CF43576477": {
     "contest_id": 1045,
     "language": "Java 8",
