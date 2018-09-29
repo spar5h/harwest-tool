@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF43576477": {
+    "contest_id": 1045,
+    "language": "Java 8",
+    "path": "codeforces/1045/G.java",
+    "problem_index": "G",
+    "problem_name": "AI robots",
+    "problem_url": "https://codeforces.com/contest/1045/problem/G",
+    "submission_id": "CF43576477",
+    "submission_url": "https://codeforces.com/contest/1045/submission/43576477",
+    "tags": [
+      "data structures",
+      "*2200"
+    ],
+    "timestamp": "Sep/29/2018 20:40"
+  },
   "CF43580111": {
     "contest_id": 1042,
     "language": "Java 8",
