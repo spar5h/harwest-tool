@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF43580848": {
+    "contest_id": 1042,
+    "language": "Java 8",
+    "path": "codeforces/1042/B.java",
+    "problem_index": "B",
+    "problem_name": "Vitamins",
+    "problem_url": "https://codeforces.com/contest/1042/problem/B",
+    "submission_id": "CF43580848",
+    "submission_url": "https://codeforces.com/contest/1042/submission/43580848",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Sep/29/2018 22:49"
+  },
   "CF43582482": {
     "contest_id": 1042,
     "language": "Java 8",
