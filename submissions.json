@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF43583626": {
+    "contest_id": 1042,
+    "language": "Java 8",
+    "path": "codeforces/1042/D.java",
+    "problem_index": "D",
+    "problem_name": "Petya and Array",
+    "problem_url": "https://codeforces.com/contest/1042/problem/D",
+    "submission_id": "CF43583626",
+    "submission_url": "https://codeforces.com/contest/1042/submission/43583626",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "Sep/30/2018 00:13"
+  },
   "CF43597978": {
     "contest_id": 1042,
     "language": "Java 8",
