@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF43580111": {
+    "contest_id": 1042,
+    "language": "Java 8",
+    "path": "codeforces/1042/A.java",
+    "problem_index": "A",
+    "problem_name": "Benches",
+    "problem_url": "https://codeforces.com/contest/1042/problem/A",
+    "submission_id": "CF43580111",
+    "submission_url": "https://codeforces.com/contest/1042/submission/43580111",
+    "tags": [
+      "binary search",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Sep/29/2018 22:29"
+  },
   "CF43580848": {
     "contest_id": 1042,
     "language": "Java 8",
