@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF43597978": {
+    "contest_id": 1042,
+    "language": "Java 8",
+    "path": "codeforces/1042/E.java",
+    "problem_index": "E",
+    "problem_name": "Vasya and Magic Matrix",
+    "problem_url": "https://codeforces.com/contest/1042/problem/E",
+    "submission_id": "CF43597978",
+    "submission_url": "https://codeforces.com/contest/1042/submission/43597978",
+    "tags": [
+      "dp",
+      "math",
+      "probabilities",
+      "*2300"
+    ],
+    "timestamp": "Sep/30/2018 13:58"
+  },
   "CF43642760": {
     "contest_id": 1051,
     "language": "Java 8",
