@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF43643959": {
+    "contest_id": 1051,
+    "language": "Java 8",
+    "path": "codeforces/1051/D.java",
+    "problem_index": "D",
+    "problem_name": "Bicolorings",
+    "problem_url": "https://codeforces.com/contest/1051/problem/D",
+    "submission_id": "CF43643959",
+    "submission_url": "https://codeforces.com/contest/1051/submission/43643959",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "*1700"
+    ],
+    "timestamp": "Oct/01/2018 18:22"
+  },
   "CF43680212": {
     "contest_id": 1051,
     "language": "GNU C++17",
