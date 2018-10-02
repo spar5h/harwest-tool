@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF43680212": {
+    "contest_id": 1051,
+    "language": "GNU C++17",
+    "path": "codeforces/1051/F.cpp",
+    "problem_index": "F",
+    "problem_name": "The Shortest Statement",
+    "problem_url": "https://codeforces.com/contest/1051/problem/F",
+    "submission_id": "CF43680212",
+    "submission_url": "https://codeforces.com/contest/1051/submission/43680212",
+    "tags": [
+      "graphs",
+      "shortest paths",
+      "trees",
+      "*2400"
+    ],
+    "timestamp": "Oct/02/2018 15:16"
+  },
   "CF43698024": {
     "contest_id": 993,
     "language": "Java 8",
