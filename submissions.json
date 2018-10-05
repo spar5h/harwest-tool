@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF43837221": {
+    "contest_id": 1059,
+    "language": "Java 8",
+    "path": "codeforces/1059/B.java",
+    "problem_index": "B",
+    "problem_name": "Forgery",
+    "problem_url": "https://codeforces.com/contest/1059/problem/B",
+    "submission_id": "CF43837221",
+    "submission_url": "https://codeforces.com/contest/1059/submission/43837221",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Oct/05/2018 20:20"
+  },
   "CF43842445": {
     "contest_id": 1059,
     "language": "Java 8",
