@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF43833278": {
+    "contest_id": 1059,
+    "language": "Java 8",
+    "path": "codeforces/1059/A.java",
+    "problem_index": "A",
+    "problem_name": "Cashier",
+    "problem_url": "https://codeforces.com/contest/1059/problem/A",
+    "submission_id": "CF43833278",
+    "submission_url": "https://codeforces.com/contest/1059/submission/43833278",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Oct/05/2018 20:11"
+  },
   "CF43837221": {
     "contest_id": 1059,
     "language": "Java 8",
