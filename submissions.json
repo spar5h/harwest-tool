@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF44195748": {
+    "contest_id": 1066,
+    "language": "Java 8",
+    "path": "codeforces/1066/E.java",
+    "problem_index": "E",
+    "problem_name": "Binary Numbers AND Sum",
+    "problem_url": "https://codeforces.com/contest/1066/problem/E",
+    "submission_id": "CF44195748",
+    "submission_url": "https://codeforces.com/contest/1066/submission/44195748",
+    "tags": [
+      "data structures",
+      "implementation",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Oct/12/2018 20:29"
+  },
   "CF44213793": {
     "contest_id": 1066,
     "language": "Java 8",
