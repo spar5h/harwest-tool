@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF44218675": {
+    "contest_id": 1065,
+    "language": "Java 8",
+    "path": "codeforces/1065/D.java",
+    "problem_index": "D",
+    "problem_name": "Three Pieces",
+    "problem_url": "https://codeforces.com/contest/1065/problem/D",
+    "submission_id": "CF44218675",
+    "submission_url": "https://codeforces.com/contest/1065/submission/44218675",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "shortest paths",
+      "*2200"
+    ],
+    "timestamp": "Oct/12/2018 22:12"
+  },
   "CF44228242": {
     "contest_id": 1066,
     "language": "Java 8",
