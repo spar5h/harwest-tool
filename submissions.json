@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF44228242": {
+    "contest_id": 1066,
+    "language": "Java 8",
+    "path": "codeforces/1066/F.java",
+    "problem_index": "F",
+    "problem_name": "Yet another 2D Walking",
+    "problem_url": "https://codeforces.com/contest/1066/problem/F",
+    "submission_id": "CF44228242",
+    "submission_url": "https://codeforces.com/contest/1066/submission/44228242",
+    "tags": [
+      "dp",
+      "*2100"
+    ],
+    "timestamp": "Oct/13/2018 02:27"
+  },
   "CF44251287": {
     "contest_id": 1053,
     "language": "Java 8",
