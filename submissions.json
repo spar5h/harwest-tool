@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF44251287": {
+    "contest_id": 1053,
+    "language": "Java 8",
+    "path": "codeforces/1053/A.java",
+    "problem_index": "A",
+    "problem_name": "Vasya and Triangle",
+    "problem_url": "https://codeforces.com/contest/1053/problem/A",
+    "submission_id": "CF44251287",
+    "submission_url": "https://codeforces.com/contest/1053/submission/44251287",
+    "tags": [
+      "geometry",
+      "*1800"
+    ],
+    "timestamp": "Oct/13/2018 16:07"
+  },
   "CF44267796": {
     "contest_id": 1053,
     "language": "Java 8",
