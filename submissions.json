@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF44267796": {
+    "contest_id": 1053,
+    "language": "Java 8",
+    "path": "codeforces/1053/B.java",
+    "problem_index": "B",
+    "problem_name": "Vasya and Good Sequences",
+    "problem_url": "https://codeforces.com/contest/1053/problem/B",
+    "submission_id": "CF44267796",
+    "submission_url": "https://codeforces.com/contest/1053/submission/44267796",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "*2000"
+    ],
+    "timestamp": "Oct/13/2018 22:59"
+  },
   "CF44496948": {
     "contest_id": 1054,
     "language": "Java 8",
