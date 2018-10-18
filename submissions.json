@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF44504125": {
+    "contest_id": 1054,
+    "language": "Java 8",
+    "path": "codeforces/1054/C.java",
+    "problem_index": "C",
+    "problem_name": "Candies Distribution",
+    "problem_url": "https://codeforces.com/contest/1054/problem/C",
+    "submission_id": "CF44504125",
+    "submission_url": "https://codeforces.com/contest/1054/submission/44504125",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Oct/18/2018 22:30"
+  },
   "CF44515384": {
     "contest_id": 1054,
     "language": "Java 8",
