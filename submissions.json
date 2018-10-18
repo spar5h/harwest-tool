@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF44515384": {
+    "contest_id": 1054,
+    "language": "Java 8",
+    "path": "codeforces/1054/D.java",
+    "problem_index": "D",
+    "problem_name": "Changing Array",
+    "problem_url": "https://codeforces.com/contest/1054/problem/D",
+    "submission_id": "CF44515384",
+    "submission_url": "https://codeforces.com/contest/1054/submission/44515384",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1900"
+    ],
+    "timestamp": "Oct/18/2018 23:47"
+  },
   "CF44586654": {
     "contest_id": 730,
     "language": "Java 8",
