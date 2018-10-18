@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF44496948": {
+    "contest_id": 1054,
+    "language": "Java 8",
+    "path": "codeforces/1054/A.java",
+    "problem_index": "A",
+    "problem_name": "Elevator or Stairs?",
+    "problem_url": "https://codeforces.com/contest/1054/problem/A",
+    "submission_id": "CF44496948",
+    "submission_url": "https://codeforces.com/contest/1054/submission/44496948",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/18/2018 22:11"
+  },
   "CF44499165": {
     "contest_id": 1054,
     "language": "Java 8",
