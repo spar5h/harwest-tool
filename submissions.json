@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF44599427": {
+    "contest_id": 730,
+    "language": "Java 8",
+    "path": "codeforces/730/I.java",
+    "problem_index": "I",
+    "problem_name": "Olympiad in Programming and Sports",
+    "problem_url": "https://codeforces.com/contest/730/problem/I",
+    "submission_id": "CF44599427",
+    "submission_url": "https://codeforces.com/contest/730/submission/44599427",
+    "tags": [
+      "dp",
+      "flows",
+      "graphs",
+      "greedy",
+      "*2000"
+    ],
+    "timestamp": "Oct/20/2018 19:10"
+  },
   "CF44601333": {
     "contest_id": 730,
     "language": "Java 8",
