@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF44692674": {
+    "contest_id": 389,
+    "language": "Java 8",
+    "path": "codeforces/389/C.java",
+    "problem_index": "C",
+    "problem_name": "Fox and Box Accumulation",
+    "problem_url": "https://codeforces.com/contest/389/problem/C",
+    "submission_id": "CF44692674",
+    "submission_url": "https://codeforces.com/contest/389/submission/44692674",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Oct/22/2018 18:16"
+  },
   "CF45097813": {
     "contest_id": 1071,
     "language": "Java 8",
