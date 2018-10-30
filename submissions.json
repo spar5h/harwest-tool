@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF45097813": {
+    "contest_id": 1071,
+    "language": "Java 8",
+    "path": "codeforces/1071/B.java",
+    "problem_index": "B",
+    "problem_name": "Minimum path",
+    "problem_url": "https://codeforces.com/contest/1071/problem/B",
+    "submission_id": "CF45097813",
+    "submission_url": "https://codeforces.com/contest/1071/submission/45097813",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "hashing",
+      "*1900"
+    ],
+    "timestamp": "Oct/30/2018 18:05"
+  },
   "CF45291965": {
     "contest_id": 1074,
     "language": "Java 8",
