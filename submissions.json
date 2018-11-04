@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF45291965": {
+    "contest_id": 1074,
+    "language": "Java 8",
+    "path": "codeforces/1074/A.java",
+    "problem_index": "A",
+    "problem_name": "The Tower is Going Home",
+    "problem_url": "https://codeforces.com/contest/1074/problem/A",
+    "submission_id": "CF45291965",
+    "submission_url": "https://codeforces.com/contest/1074/submission/45291965",
+    "tags": [
+      "sortings",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Nov/05/2018 00:00"
+  },
   "CF45297982": {
     "contest_id": 1074,
     "language": "Java 8",
