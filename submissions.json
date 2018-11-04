@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF45297982": {
+    "contest_id": 1074,
+    "language": "Java 8",
+    "path": "codeforces/1074/B.java",
+    "problem_index": "B",
+    "problem_name": "Intersecting Subtrees",
+    "problem_url": "https://codeforces.com/contest/1074/problem/B",
+    "submission_id": "CF45297982",
+    "submission_url": "https://codeforces.com/contest/1074/submission/45297982",
+    "tags": [
+      "interactive",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "Nov/05/2018 00:51"
+  },
   "CF45315161": {
     "contest_id": 1073,
     "language": "Java 8",
