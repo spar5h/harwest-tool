@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF45315161": {
+    "contest_id": 1073,
+    "language": "Java 8",
+    "path": "codeforces/1073/C.java",
+    "problem_index": "C",
+    "problem_name": "Vasya and Robot",
+    "problem_url": "https://codeforces.com/contest/1073/problem/C",
+    "submission_id": "CF45315161",
+    "submission_url": "https://codeforces.com/contest/1073/submission/45315161",
+    "tags": [
+      "binary search",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "Nov/05/2018 13:05"
+  },
   "CF45334981": {
     "contest_id": 383,
     "language": "Java 8",
