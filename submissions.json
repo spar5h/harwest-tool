@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF45334981": {
+    "contest_id": 383,
+    "language": "Java 8",
+    "path": "codeforces/383/C.java",
+    "problem_index": "C",
+    "problem_name": "Propagating tree",
+    "problem_url": "https://codeforces.com/contest/383/problem/C",
+    "submission_id": "CF45334981",
+    "submission_url": "https://codeforces.com/contest/383/submission/45334981",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "trees",
+      "*2000"
+    ],
+    "timestamp": "Nov/05/2018 22:40"
+  },
   "CF45443983": {
     "contest_id": 1074,
     "language": "Java 8",
