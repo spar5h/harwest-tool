@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF45443983": {
+    "contest_id": 1074,
+    "language": "Java 8",
+    "path": "codeforces/1074/D.java",
+    "problem_index": "D",
+    "problem_name": "Deduction Queries",
+    "problem_url": "https://codeforces.com/contest/1074/problem/D",
+    "submission_id": "CF45443983",
+    "submission_url": "https://codeforces.com/contest/1074/submission/45443983",
+    "tags": [
+      "data structures",
+      "dsu",
+      "hashing",
+      "*2400"
+    ],
+    "timestamp": "Nov/08/2018 18:00"
+  },
   "CF45508421": {
     "contest_id": 385,
     "language": "Java 8",
