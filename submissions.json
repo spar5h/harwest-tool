@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF45528037": {
+    "contest_id": 131,
+    "language": "Java 8",
+    "path": "codeforces/131/E.java",
+    "problem_index": "E",
+    "problem_name": "Yet Another Task with Queens",
+    "problem_url": "https://codeforces.com/contest/131/problem/E",
+    "submission_id": "CF45528037",
+    "submission_url": "https://codeforces.com/contest/131/submission/45528037",
+    "tags": [
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Nov/10/2018 21:20"
+  },
   "CF45543318": {
     "contest_id": 414,
     "language": "Java 8",
