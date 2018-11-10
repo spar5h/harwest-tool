@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF45513971": {
+    "contest_id": 242,
+    "language": "Java 8",
+    "path": "codeforces/242/E.java",
+    "problem_index": "E",
+    "problem_name": "XOR on Segment",
+    "problem_url": "https://codeforces.com/contest/242/problem/E",
+    "submission_id": "CF45513971",
+    "submission_url": "https://codeforces.com/contest/242/submission/45513971",
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "*2000"
+    ],
+    "timestamp": "Nov/10/2018 20:08"
+  },
   "CF45528037": {
     "contest_id": 131,
     "language": "Java 8",
