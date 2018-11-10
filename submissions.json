@@ -19,6 +19,27 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF45508421": {
+    "contest_id": 385,
+    "language": "Java 8",
+    "path": "codeforces/385/C.java",
+    "problem_index": "C",
+    "problem_name": "Bear and Prime Numbers",
+    "problem_url": "https://codeforces.com/contest/385/problem/C",
+    "submission_id": "CF45508421",
+    "submission_url": "https://codeforces.com/contest/385/submission/45508421",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dp",
+      "implementation",
+      "math",
+      "number theory",
+      "*1700"
+    ],
+    "timestamp": "Nov/10/2018 17:19"
+  },
   "CF45513971": {
     "contest_id": 242,
     "language": "Java 8",
