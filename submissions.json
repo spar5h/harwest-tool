@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF45543318": {
+    "contest_id": 414,
+    "language": "Java 8",
+    "path": "codeforces/414/C.java",
+    "problem_index": "C",
+    "problem_name": "Mashmokh and Reverse Operation",
+    "problem_url": "https://codeforces.com/contest/414/problem/C",
+    "submission_id": "CF45543318",
+    "submission_url": "https://codeforces.com/contest/414/submission/45543318",
+    "tags": [
+      "combinatorics",
+      "divide and conquer",
+      "*2100"
+    ],
+    "timestamp": "Nov/11/2018 02:36"
+  },
   "CF45594720": {
     "contest_id": 1076,
     "language": "Java 8",
