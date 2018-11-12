@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF45628658": {
+    "contest_id": 1076,
+    "language": "Java 8",
+    "path": "codeforces/1076/E.java",
+    "problem_index": "E",
+    "problem_name": "Vasya and a Tree",
+    "problem_url": "https://codeforces.com/contest/1076/problem/E",
+    "submission_id": "CF45628658",
+    "submission_url": "https://codeforces.com/contest/1076/submission/45628658",
+    "tags": [
+      "data structures",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "Nov/12/2018 22:01"
+  },
   "CF45665910": {
     "contest_id": 1076,
     "language": "Java 8",
