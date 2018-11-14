@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF45716961": {
+    "contest_id": 1062,
+    "language": "Java 8",
+    "path": "codeforces/1062/A.java",
+    "problem_index": "A",
+    "problem_name": "A Prank",
+    "problem_url": "https://codeforces.com/contest/1062/problem/A",
+    "submission_id": "CF45716961",
+    "submission_url": "https://codeforces.com/contest/1062/submission/45716961",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Nov/14/2018 21:19"
+  },
   "CF45724985": {
     "contest_id": 1062,
     "language": "Java 8",
