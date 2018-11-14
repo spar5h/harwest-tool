@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF45729409": {
+    "contest_id": 1062,
+    "language": "Java 8",
+    "path": "codeforces/1062/C.java",
+    "problem_index": "C",
+    "problem_name": "Banh-mi",
+    "problem_url": "https://codeforces.com/contest/1062/problem/C",
+    "submission_id": "CF45729409",
+    "submission_url": "https://codeforces.com/contest/1062/submission/45729409",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Nov/14/2018 22:07"
+  },
   "CF45733725": {
     "contest_id": 1062,
     "language": "Java 8",
