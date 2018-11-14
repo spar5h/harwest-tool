@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF45724985": {
+    "contest_id": 1062,
+    "language": "Java 8",
+    "path": "codeforces/1062/B.java",
+    "problem_index": "B",
+    "problem_name": "Math",
+    "problem_url": "https://codeforces.com/contest/1062/problem/B",
+    "submission_id": "CF45724985",
+    "submission_url": "https://codeforces.com/contest/1062/submission/45724985",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Nov/14/2018 21:47"
+  },
   "CF45729409": {
     "contest_id": 1062,
     "language": "Java 8",
