@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF45733725": {
+    "contest_id": 1062,
+    "language": "Java 8",
+    "path": "codeforces/1062/D.java",
+    "problem_index": "D",
+    "problem_name": "Fun with Integers",
+    "problem_url": "https://codeforces.com/contest/1062/problem/D",
+    "submission_id": "CF45733725",
+    "submission_url": "https://codeforces.com/contest/1062/submission/45733725",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "math",
+      "*1800"
+    ],
+    "timestamp": "Nov/14/2018 22:28"
+  },
   "CF46065473": {
     "contest_id": 1061,
     "language": "Java 8",
