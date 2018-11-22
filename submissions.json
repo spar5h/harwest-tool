@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF46065473": {
+    "contest_id": 1061,
+    "language": "Java 8",
+    "path": "codeforces/1061/A.java",
+    "problem_index": "A",
+    "problem_name": "Coins",
+    "problem_url": "https://codeforces.com/contest/1061/problem/A",
+    "submission_id": "CF46065473",
+    "submission_url": "https://codeforces.com/contest/1061/submission/46065473",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/22/2018 21:17"
+  },
   "CF46071833": {
     "contest_id": 1061,
     "language": "Java 8",
