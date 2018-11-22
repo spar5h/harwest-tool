@@ -87,7 +87,7 @@ public class cf4 implements Runnable{
 				
 				if(temp.get(i) < 0) {
 
-					pq.add(new pair(val[-temp.get(i)], pos - 1));
+					pq.add(new pair(-temp.get(i), pos - 1));
 					vis[val[-temp.get(i)]] = 0;
 					
 					cost[-temp.get(i)] = (cost[-temp.get(i)] + (pos - l[-temp.get(i)] - 1) * y % mod) % mod;
@@ -108,8 +108,8 @@ public class cf4 implements Runnable{
 					cost[temp.get(i)] = (cost[temp.get(i)] + x) % mod;
 				}
 				else {
-					vis[pq.peek().i] = 1;
-					val[temp.get(i)] = pq.peek().i; 
+					vis[val[pq.peek().i]] = 1;
+					val[temp.get(i)] = val[pq.peek().i]; 
 					cost[temp.get(i)] = (cost[temp.get(i)] + y * (pos - pq.peek().w) % mod) % mod;
 				}
 				
