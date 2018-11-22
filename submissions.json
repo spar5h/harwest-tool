@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF46071833": {
+    "contest_id": 1061,
+    "language": "Java 8",
+    "path": "codeforces/1061/B.java",
+    "problem_index": "B",
+    "problem_name": "Views Matter",
+    "problem_url": "https://codeforces.com/contest/1061/problem/B",
+    "submission_id": "CF46071833",
+    "submission_url": "https://codeforces.com/contest/1061/submission/46071833",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Nov/22/2018 21:37"
+  },
   "CF46076048": {
     "contest_id": 1061,
     "language": "Java 8",
