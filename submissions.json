@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF46210321": {
+    "contest_id": 1056,
+    "language": "Java 8",
+    "path": "codeforces/1056/A.java",
+    "problem_index": "A",
+    "problem_name": "Determine Line",
+    "problem_url": "https://codeforces.com/contest/1056/problem/A",
+    "submission_id": "CF46210321",
+    "submission_url": "https://codeforces.com/contest/1056/submission/46210321",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/25/2018 22:10"
+  },
   "CF46216967": {
     "contest_id": 1056,
     "language": "Java 8",
