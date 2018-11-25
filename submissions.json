@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF46216967": {
+    "contest_id": 1056,
+    "language": "Java 8",
+    "path": "codeforces/1056/B.java",
+    "problem_index": "B",
+    "problem_name": "Divide Candies",
+    "problem_url": "https://codeforces.com/contest/1056/problem/B",
+    "submission_id": "CF46216967",
+    "submission_url": "https://codeforces.com/contest/1056/submission/46216967",
+    "tags": [
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Nov/25/2018 22:55"
+  },
   "CF46218634": {
     "contest_id": 1056,
     "language": "Java 8",
