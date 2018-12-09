@@ -19,6 +19,18 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF46815242": {
+    "contest_id": 1090,
+    "language": "Java 8",
+    "path": "codeforces/1090/E.java",
+    "problem_index": "E",
+    "problem_name": "Horseback Riding",
+    "problem_url": "https://codeforces.com/contest/1090/problem/E",
+    "submission_id": "CF46815242",
+    "submission_url": "https://codeforces.com/contest/1090/submission/46815242",
+    "tags": [],
+    "timestamp": "Dec/09/2018 17:48"
+  },
   "CF46879945": {
     "contest_id": 264,
     "language": "Java 8",
