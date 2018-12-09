@@ -19,6 +19,18 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF46803220": {
+    "contest_id": 1090,
+    "language": "GNU C++17",
+    "path": "codeforces/1090/I.cpp",
+    "problem_index": "I",
+    "problem_name": "Minimal Product",
+    "problem_url": "https://codeforces.com/contest/1090/problem/I",
+    "submission_id": "CF46803220",
+    "submission_url": "https://codeforces.com/contest/1090/submission/46803220",
+    "tags": [],
+    "timestamp": "Dec/09/2018 16:08"
+  },
   "CF46808073": {
     "contest_id": 1090,
     "language": "Java 8",
