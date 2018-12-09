@@ -19,6 +19,18 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF46808073": {
+    "contest_id": 1090,
+    "language": "Java 8",
+    "path": "codeforces/1090/K.java",
+    "problem_index": "K",
+    "problem_name": "Right Expansion Of The Mind",
+    "problem_url": "https://codeforces.com/contest/1090/problem/K",
+    "submission_id": "CF46808073",
+    "submission_url": "https://codeforces.com/contest/1090/submission/46808073",
+    "tags": [],
+    "timestamp": "Dec/09/2018 16:37"
+  },
   "CF46815242": {
     "contest_id": 1090,
     "language": "Java 8",
