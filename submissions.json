@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF46786903": {
+    "contest_id": 1062,
+    "language": "Java 8",
+    "path": "codeforces/1062/E.java",
+    "problem_index": "E",
+    "problem_name": "Company",
+    "problem_url": "https://codeforces.com/contest/1062/problem/E",
+    "submission_id": "CF46786903",
+    "submission_url": "https://codeforces.com/contest/1062/submission/46786903",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "greedy",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "Dec/09/2018 12:31"
+  },
   "CF46790362": {
     "contest_id": 1090,
     "language": "Java 8",
