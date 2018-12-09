@@ -19,6 +19,18 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF46796971": {
+    "contest_id": 1090,
+    "language": "Java 8",
+    "path": "codeforces/1090/L.java",
+    "problem_index": "L",
+    "problem_name": "Berland University",
+    "problem_url": "https://codeforces.com/contest/1090/problem/L",
+    "submission_id": "CF46796971",
+    "submission_url": "https://codeforces.com/contest/1090/submission/46796971",
+    "tags": [],
+    "timestamp": "Dec/09/2018 14:55"
+  },
   "CF46797446": {
     "contest_id": 1090,
     "language": "Java 8",
