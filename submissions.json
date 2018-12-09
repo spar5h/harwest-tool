@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF46790362": {
+    "contest_id": 1090,
+    "language": "Java 8",
+    "path": "codeforces/1090/M.java",
+    "problem_index": "M",
+    "problem_name": "The Pleasant Walk",
+    "problem_url": "https://codeforces.com/contest/1090/problem/M",
+    "submission_id": "CF46790362",
+    "submission_url": "https://codeforces.com/contest/1090/submission/46790362",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Dec/09/2018 13:43"
+  },
   "CF46790892": {
     "contest_id": 1090,
     "language": "Java 8",
