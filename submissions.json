@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF46883947": {
+    "contest_id": 69,
+    "language": "Java 8",
+    "path": "codeforces/69/E.java",
+    "problem_index": "E",
+    "problem_name": "Subsegments",
+    "problem_url": "https://codeforces.com/contest/69/problem/E",
+    "submission_id": "CF46883947",
+    "submission_url": "https://codeforces.com/contest/69/submission/46883947",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "Dec/11/2018 02:50"
+  },
   "CF46895545": {
     "contest_id": 1089,
     "language": "Java 8",
