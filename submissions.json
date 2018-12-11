@@ -19,6 +19,18 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF46896613": {
+    "contest_id": 1089,
+    "language": "Java 8",
+    "path": "codeforces/1089/E.java",
+    "problem_index": "E",
+    "problem_name": "Easy Chess",
+    "problem_url": "https://codeforces.com/contest/1089/problem/E",
+    "submission_id": "CF46896613",
+    "submission_url": "https://codeforces.com/contest/1089/submission/46896613",
+    "tags": [],
+    "timestamp": "Dec/11/2018 15:07"
+  },
   "CF46899249": {
     "contest_id": 1089,
     "language": "Java 8",
