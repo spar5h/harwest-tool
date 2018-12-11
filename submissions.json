@@ -19,6 +19,18 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF46904540": {
+    "contest_id": 1089,
+    "language": "Java 8",
+    "path": "codeforces/1089/M.java",
+    "problem_index": "M",
+    "problem_name": "Minegraphed",
+    "problem_url": "https://codeforces.com/contest/1089/problem/M",
+    "submission_id": "CF46904540",
+    "submission_url": "https://codeforces.com/contest/1089/submission/46904540",
+    "tags": [],
+    "timestamp": "Dec/11/2018 19:04"
+  },
   "CF47013723": {
     "contest_id": 429,
     "language": "Java 8",
