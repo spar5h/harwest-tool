@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF46899249": {
+    "contest_id": 1089,
+    "language": "Java 8",
+    "path": "codeforces/1089/F.java",
+    "problem_index": "F",
+    "problem_name": "Fractions",
+    "problem_url": "https://codeforces.com/contest/1089/problem/F",
+    "submission_id": "CF46899249",
+    "submission_url": "https://codeforces.com/contest/1089/submission/46899249",
+    "tags": [
+      "math",
+      "*1900"
+    ],
+    "timestamp": "Dec/11/2018 16:34"
+  },
   "CF46901469": {
     "contest_id": 1089,
     "language": "Java 8",
