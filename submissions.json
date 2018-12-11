@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF46901469": {
+    "contest_id": 1089,
+    "language": "Java 8",
+    "path": "codeforces/1089/A.java",
+    "problem_index": "A",
+    "problem_name": "Alice the Fan",
+    "problem_url": "https://codeforces.com/contest/1089/problem/A",
+    "submission_id": "CF46901469",
+    "submission_url": "https://codeforces.com/contest/1089/submission/46901469",
+    "tags": [
+      "dp",
+      "*2200"
+    ],
+    "timestamp": "Dec/11/2018 17:41"
+  },
   "CF46904540": {
     "contest_id": 1089,
     "language": "Java 8",
