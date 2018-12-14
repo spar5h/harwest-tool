@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF47013723": {
+    "contest_id": 429,
+    "language": "Java 8",
+    "path": "codeforces/429/A.java",
+    "problem_index": "A",
+    "problem_name": "Xor-tree",
+    "problem_url": "https://codeforces.com/contest/429/problem/A",
+    "submission_id": "CF47013723",
+    "submission_url": "https://codeforces.com/contest/429/submission/47013723",
+    "tags": [
+      "dfs and similar",
+      "trees",
+      "*1300"
+    ],
+    "timestamp": "Dec/14/2018 23:21"
+  },
   "CF47016249": {
     "contest_id": 863,
     "language": "Java 8",
