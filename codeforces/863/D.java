@@ -10,7 +10,7 @@ public class cf1 implements Runnable{
 	
 	class Treap {
 		
-		Random r = new Random(420);
+		Random r = new Random(69);
 		
 		class Node {
 			
