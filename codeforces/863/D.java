@@ -9,189 +9,189 @@ import static java.lang.Math.*;
 public class cf1 implements Runnable{    
 	
 	class Treap {
-		
-		Random r = new Random(69);
-		
-		class Node {
-			
-			int key = 1, pri, rev = 0;
-			long val;
-			Node left, right;
-			
-			Node(long val) {
-				this.val = val;
-				this.pri = r.nextInt(Integer.MAX_VALUE);
-			}
-		}
-		
-		class Pair {
-			
-			Node left, right;
-			
-			Pair() {}
-			
-			Pair(Node left, Node right) {
-				this.left = left; this.right = right;
-			}
-		}
-		
-		Node root;
-		
-		int nodeKey(Node x) {
-			
-			if(x == null)
-				return 0;
-			
-			return x.key;
-		}
-		
-		void updateKey(Node x) {
-			
-			x.key = 1;
-			
-			if(x.left != null) 
-				x.key += x.left.key;
-				
-			if(x.right != null) 
-				x.key += x.right.key;
-		}
-		
-		void pushRev(Node x) {
-			
-			if(x.rev == 0)
-				return;
-			
-			if(x.left != null)
-				x.left.rev ^= 1;
-			
-			if(x.right != null)
-				x.right.rev ^= 1;
-			
-			x.rev = 0;
-			
-			Node temp = x.left;
-			x.left = x.right;
-			x.right = temp;
-		}
-		
-		Pair split(Node x, int key) {
-			
-			if(x == null)
-				return new Pair();
-			
-			pushRev(x);
-			
-			if(key <= nodeKey(x.left)) {
-				Pair pair = split(x.left, key);
-				x.left = null;
-				updateKey(x);
-				return new Pair(pair.left, meld(pair.right, x));
-			}
-			
-			else {
-				Pair pair = split(x.right, key - nodeKey(x.left) - 1);
-				x.right = null;
-				updateKey(x);
-				return new Pair(meld(x, pair.left), pair.right);
-			}
-		}
-		
-		Node meld(Node x, Node y) {
-			
-			if(x == null)
-				return y;
-			
-			if(y == null)
-				return x;
-			
-			pushRev(x); pushRev(y);
-			
-			if(x.pri <= y.pri) { 
-				x.right = meld(x.right, y); 
-				updateKey(x);
-				return x;
-			}
-			
-			else {
-				y.left = meld(x, y.left);
-				updateKey(y);
-				return y;
-			}
-		}
-
-		long searchCall(int key) {
-			return search(root, key);
-		}
-		
-		long search(Node x, int key) {
-			
-			if(x == null)
-				return -1; //not present
-			
-			pushRev(x);
-			
-			if(key < nodeKey(x.left)) 
-				return search(x.left, key);
-			
-			else if(key > nodeKey(x.left)) 
-				return search(x.right, key - nodeKey(x.left) - 1);
-			
-			return x.val;
-		}
-		
-		void insertCall(int key, long val) {
-			root = insert(root, key, val);
-		}
-		
-		Node insert(Node x, int key, long val) {
-			Pair pair = split(x, key);
-			Node y = new Node(val);
-			return meld(meld(pair.left, y), pair.right);
-		}
-		
-		void deleteCall(int key) {
-			root = delete(root, key);
-		}
-		
-		Node delete(Node x, int key) {
-			
-			if(x == null)
-				return x;
-			
-			pushRev(x);
-			
-			if(key < nodeKey(x.left)) 
-				x.left = delete(x.left, key);
-			
-			else if(key > nodeKey(x.left)) 
-				x.right = delete(x.right, key - nodeKey(x.left) - 1);
-			
-			else
-				return meld(x.left, x.right);
-			
-			updateKey(x);
-			return x;
-		}
-		
-		void rangeReversal(int l, int r) {
-			
-			Pair p1 = split(root, l);
-			Pair p2 = split(p1.right, r - l + 1);
-			
-			p2.left.rev ^= 1;
-			
-			root = meld(p1.left, meld(p2.left, p2.right));
-		}
-		
-		void rangeShift(int l, int r) {
-			
-			Pair p1 = split(root, l);
-			Pair p2 = split(p1.right, r - l + 1);
-			Pair p3 = split(p2.left, r - l);
-			
-			root = meld(p1.left, meld(meld(p3.right, p3.left), p2.right));
-		}
-	}
+	
+    	Random r = new Random();
+    	
+    	class Node {
+    		
+    		int key = 1, pri, rev = 0;
+    		long val, sum;
+    		Node left, right;
+    		
+    		Node(long val) {
+    			this.val = val; sum = val;
+    			this.pri = r.nextInt(Integer.MAX_VALUE);
+    		}
+    	}
+    	
+    	class Pair {
+    		
+    		Node left, right;
+    		
+    		Pair() {}
+    		
+    		Pair(Node left, Node right) {
+    			this.left = left; this.right = right;
+    		}
+    	}
+    	
+    	Node root;
+    	
+    	int nodeKey(Node x) {
+    		
+    		if(x == null)
+    			return 0;
+    		
+    		return x.key;
+    	}
+    	
+    	void updateKey(Node x) {
+    		
+    		x.key = 1;
+    		
+    		if(x.left != null) 
+    			x.key += x.left.key;
+    			
+    		if(x.right != null) 
+    			x.key += x.right.key;
+    	}
+    	
+    	void pushRev(Node x) {
+    		
+    		if(x.rev == 0)
+    			return;
+    		
+    		if(x.left != null)
+    			x.left.rev ^= 1;
+    		
+    		if(x.right != null)
+    			x.right.rev ^= 1;
+    		
+    		x.rev = 0;
+    		
+    		Node temp = x.left;
+    		x.left = x.right;
+    		x.right = temp;
+    	}
+    	
+    	Pair split(Node x, int key) {
+    		
+    		if(x == null)
+    			return new Pair();
+    		
+    		pushRev(x);
+    		
+    		if(key <= nodeKey(x.left)) {
+    			Pair pair = split(x.left, key);
+    			x.left = null;
+    			updateKey(x);
+    			return new Pair(pair.left, meld(pair.right, x));
+    		}
+    		
+    		else {
+    			Pair pair = split(x.right, key - nodeKey(x.left) - 1);
+    			x.right = null;
+    			updateKey(x);
+    			return new Pair(meld(x, pair.left), pair.right);
+    		}
+    	}
+    	
+    	Node meld(Node x, Node y) {
+    		
+    		if(x == null)
+    			return y;
+    		
+    		if(y == null)
+    			return x;
+    		
+    		pushRev(x); pushRev(y);
+    		
+    		if(x.pri <= y.pri) { 
+    			x.right = meld(x.right, y); 
+    			updateKey(x);
+    			return x;
+    		}
+    		
+    		else {
+    			y.left = meld(x, y.left);
+    			updateKey(y);
+    			return y;
+    		}
+    	}
+    
+    	long searchCall(int key) {
+    		return search(root, key);
+    	}
+    	
+    	long search(Node x, int key) {
+    		
+    		if(x == null)
+    			return -1; //not present
+    		
+    		pushRev(x);
+    		
+    		if(key < nodeKey(x.left)) 
+    			return search(x.left, key);
+    		
+    		else if(key > nodeKey(x.left)) 
+    			return search(x.right, key - nodeKey(x.left) - 1);
+    		
+    		return x.val;
+    	}
+    	
+    	void insertCall(int key, long val) {
+    		root = insert(root, key, val);
+    	}
+    	
+    	Node insert(Node x, int key, long val) {
+    		Pair pair = split(x, key);
+    		Node y = new Node(val);
+    		return meld(meld(pair.left, y), pair.right);
+    	}
+    	
+    	void deleteCall(int key) {
+    		root = delete(root, key);
+    	}
+    	
+    	Node delete(Node x, int key) {
+    		
+    		if(x == null)
+    			return x;
+    		
+    		pushRev(x);
+    		
+    		if(key < nodeKey(x.left)) 
+    			x.left = delete(x.left, key);
+    		
+    		else if(key > nodeKey(x.left)) 
+    			x.right = delete(x.right, key - nodeKey(x.left) - 1);
+    		
+    		else
+    			return meld(x.left, x.right);
+    		
+    		updateKey(x);
+    		return x;
+    	}
+    	
+    	void rangeReversal(int l, int r) {
+    		
+    		Pair p1 = split(root, l);
+    		Pair p2 = split(p1.right, r - l + 1);
+    		
+    		p2.left.rev ^= 1;
+    		
+    		root = meld(p1.left, meld(p2.left, p2.right));
+    	}
+    	
+    	void rangeShift(int l, int r) {
+    		
+    		Pair p1 = split(root, l);
+    		Pair p2 = split(p1.right, r - l + 1);
+    		Pair p3 = split(p2.left, r - l);
+    		
+    		root = meld(p1.left, meld(meld(p3.right, p3.left), p2.right));
+    	}
+    }
 	
 	public void run() {
 		
