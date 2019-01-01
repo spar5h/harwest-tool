@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF47812742": {
+    "contest_id": 1082,
+    "language": "Java 8",
+    "path": "codeforces/1082/E.java",
+    "problem_index": "E",
+    "problem_name": "Increasing Frequency",
+    "problem_url": "https://codeforces.com/contest/1082/problem/E",
+    "submission_id": "CF47812742",
+    "submission_url": "https://codeforces.com/contest/1082/submission/47812742",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "*2000"
+    ],
+    "timestamp": "Jan/01/2019 17:57"
+  },
   "CF47820588": {
     "contest_id": 1082,
     "language": "Java 8",
