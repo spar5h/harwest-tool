@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF47810590": {
+    "contest_id": 1082,
+    "language": "Java 8",
+    "path": "codeforces/1082/B.java",
+    "problem_index": "B",
+    "problem_name": "Vova and Trophies",
+    "problem_url": "https://codeforces.com/contest/1082/problem/B",
+    "submission_id": "CF47810590",
+    "submission_url": "https://codeforces.com/contest/1082/submission/47810590",
+    "tags": [
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Jan/01/2019 16:31"
+  },
   "CF47811234": {
     "contest_id": 1082,
     "language": "Java 8",
