@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF47809952": {
+    "contest_id": 1091,
+    "language": "Java 8",
+    "path": "codeforces/1091/D.java",
+    "problem_index": "D",
+    "problem_name": "New Year and the Permutation Concatenation",
+    "problem_url": "https://codeforces.com/contest/1091/problem/D",
+    "submission_id": "CF47809952",
+    "submission_url": "https://codeforces.com/contest/1091/submission/47809952",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Jan/01/2019 16:02"
+  },
   "CF47810263": {
     "contest_id": 1082,
     "language": "Java 8",
