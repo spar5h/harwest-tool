@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF47811234": {
+    "contest_id": 1082,
+    "language": "Java 8",
+    "path": "codeforces/1082/C.java",
+    "problem_index": "C",
+    "problem_name": "Multi-Subject Competition",
+    "problem_url": "https://codeforces.com/contest/1082/problem/C",
+    "submission_id": "CF47811234",
+    "submission_url": "https://codeforces.com/contest/1082/submission/47811234",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Jan/01/2019 16:58"
+  },
   "CF47811996": {
     "contest_id": 1082,
     "language": "Java 8",
