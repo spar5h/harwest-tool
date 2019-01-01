@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF47811996": {
+    "contest_id": 1082,
+    "language": "Java 8",
+    "path": "codeforces/1082/D.java",
+    "problem_index": "D",
+    "problem_name": "Maximum Diameter Graph",
+    "problem_url": "https://codeforces.com/contest/1082/problem/D",
+    "submission_id": "CF47811996",
+    "submission_url": "https://codeforces.com/contest/1082/submission/47811996",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "Jan/01/2019 17:29"
+  },
   "CF47812742": {
     "contest_id": 1082,
     "language": "Java 8",
