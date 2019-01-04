@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF47903021": {
+    "contest_id": 1097,
+    "language": "Java 8",
+    "path": "codeforces/1097/A.java",
+    "problem_index": "A",
+    "problem_name": "Gennady and a Card Game",
+    "problem_url": "https://codeforces.com/contest/1097/problem/A",
+    "submission_id": "CF47903021",
+    "submission_url": "https://codeforces.com/contest/1097/submission/47903021",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/04/2019 20:17"
+  },
   "CF47909250": {
     "contest_id": 1097,
     "language": "Java 8",
