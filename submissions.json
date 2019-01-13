@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF48320463": {
+    "contest_id": 128,
+    "language": "Java 8",
+    "path": "codeforces/128/C.java",
+    "problem_index": "C",
+    "problem_name": "Games with Rectangle",
+    "problem_url": "https://codeforces.com/contest/128/problem/C",
+    "submission_id": "CF48320463",
+    "submission_url": "https://codeforces.com/contest/128/submission/48320463",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "*2000"
+    ],
+    "timestamp": "Jan/13/2019 14:29"
+  },
   "CF48332060": {
     "contest_id": 1100,
     "language": "Java 8",
