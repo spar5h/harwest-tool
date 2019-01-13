@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF48365836": {
+    "contest_id": 1100,
+    "language": "Java 8",
+    "path": "codeforces/1100/E.java",
+    "problem_index": "E",
+    "problem_name": "Andrew and Taxi",
+    "problem_url": "https://codeforces.com/contest/1100/problem/E",
+    "submission_id": "CF48365836",
+    "submission_url": "https://codeforces.com/contest/1100/submission/48365836",
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "graphs",
+      "*2200"
+    ],
+    "timestamp": "Jan/14/2019 03:30"
+  },
   "CF48608650": {
     "contest_id": 1105,
     "language": "Java 8",
