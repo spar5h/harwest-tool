@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF48608650": {
+    "contest_id": 1105,
+    "language": "Java 8",
+    "path": "codeforces/1105/A.java",
+    "problem_index": "A",
+    "problem_name": "Salem and Sticks ",
+    "problem_url": "https://codeforces.com/contest/1105/problem/A",
+    "submission_id": "CF48608650",
+    "submission_url": "https://codeforces.com/contest/1105/submission/48608650",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Jan/20/2019 17:39"
+  },
   "CF48611126": {
     "contest_id": 1105,
     "language": "Java 8",
