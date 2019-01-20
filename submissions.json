@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF48611126": {
+    "contest_id": 1105,
+    "language": "Java 8",
+    "path": "codeforces/1105/B.java",
+    "problem_index": "B",
+    "problem_name": "Zuhair and Strings",
+    "problem_url": "https://codeforces.com/contest/1105/problem/B",
+    "submission_id": "CF48611126",
+    "submission_url": "https://codeforces.com/contest/1105/submission/48611126",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "Jan/20/2019 17:45"
+  },
   "CF48633345": {
     "contest_id": 1105,
     "language": "Java 8",
