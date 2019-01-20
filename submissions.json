@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF48633345": {
+    "contest_id": 1105,
+    "language": "Java 8",
+    "path": "codeforces/1105/D.java",
+    "problem_index": "D",
+    "problem_name": "Kilani and the Game",
+    "problem_url": "https://codeforces.com/contest/1105/problem/D",
+    "submission_id": "CF48633345",
+    "submission_url": "https://codeforces.com/contest/1105/submission/48633345",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "shortest paths",
+      "*1900"
+    ],
+    "timestamp": "Jan/20/2019 19:10"
+  },
   "CF48639164": {
     "contest_id": 1105,
     "language": "Java 8",
