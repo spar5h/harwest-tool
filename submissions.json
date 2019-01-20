@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF48639164": {
+    "contest_id": 1105,
+    "language": "Java 8",
+    "path": "codeforces/1105/C.java",
+    "problem_index": "C",
+    "problem_name": "Ayoub and Lost Array",
+    "problem_url": "https://codeforces.com/contest/1105/problem/C",
+    "submission_id": "CF48639164",
+    "submission_url": "https://codeforces.com/contest/1105/submission/48639164",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Jan/20/2019 20:28"
+  },
   "CF48724100": {
     "contest_id": 1104,
     "language": "Java 8",
