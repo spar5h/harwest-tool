@@ -46,7 +46,7 @@ public class cf4 implements Runnable {
 		int res = 1;
 		
 		outer:
-		for(int k = 2; k <= n; k++) {
+		for(int k = n; k >= 2; k--) {
 			
 			if(n % k != 0)
 				continue;
@@ -67,6 +67,7 @@ public class cf4 implements Runnable {
 			}
 			
 			res = k;
+			break;
 		}
 		
 		w.println(res);
