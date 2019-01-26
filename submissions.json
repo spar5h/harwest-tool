@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF49010500": {
+    "contest_id": 1107,
+    "language": "Java 8",
+    "path": "codeforces/1107/D.java",
+    "problem_index": "D",
+    "problem_name": "Compression",
+    "problem_url": "https://codeforces.com/contest/1107/problem/D",
+    "submission_id": "CF49010500",
+    "submission_url": "https://codeforces.com/contest/1107/submission/49010500",
+    "tags": [
+      "dp",
+      "implementation",
+      "math",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "Jan/26/2019 22:02"
+  },
   "CF49020173": {
     "contest_id": 1107,
     "language": "Java 8",
