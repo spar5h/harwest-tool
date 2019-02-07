@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF49569205": {
+    "contest_id": 1110,
+    "language": "Java 8",
+    "path": "codeforces/1110/B.java",
+    "problem_index": "B",
+    "problem_name": "Tape",
+    "problem_url": "https://codeforces.com/contest/1110/problem/B",
+    "submission_id": "CF49569205",
+    "submission_url": "https://codeforces.com/contest/1110/submission/49569205",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Feb/07/2019 19:18"
+  },
   "CF49580379": {
     "contest_id": 1110,
     "language": "Java 8",
