@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF50004896": {
+    "contest_id": 1113,
+    "language": "Java 8",
+    "path": "codeforces/1113/B.java",
+    "problem_index": "B",
+    "problem_name": "Sasha and Magnetic Machines",
+    "problem_url": "https://codeforces.com/contest/1113/problem/B",
+    "submission_id": "CF50004896",
+    "submission_url": "https://codeforces.com/contest/1113/submission/50004896",
+    "tags": [
+      "greedy",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Feb/16/2019 22:21"
+  },
   "CF50014058": {
     "contest_id": 1113,
     "language": "Java 8",
