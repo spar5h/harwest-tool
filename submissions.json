@@ -19,6 +19,20 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF50014058": {
+    "contest_id": 1113,
+    "language": "Java 8",
+    "path": "codeforces/1113/C.java",
+    "problem_index": "C",
+    "problem_name": "Sasha and a Bit of Relax",
+    "problem_url": "https://codeforces.com/contest/1113/problem/C",
+    "submission_id": "CF50014058",
+    "submission_url": "https://codeforces.com/contest/1113/submission/50014058",
+    "tags": [
+      "*1600"
+    ],
+    "timestamp": "Feb/16/2019 22:49"
+  },
   "CF50026228": {
     "contest_id": 1113,
     "language": "Java 8",
