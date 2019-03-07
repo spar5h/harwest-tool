@@ -97,12 +97,12 @@ public class cf4 implements Runnable {
 				
 				join(edge.get(i).u, edge.get(i).v);
 				
-				if(oldU != -1) {
+				if(oldU != -1 && oldU != col[edge.get(i).u]) {
 					hsCol.remove(oldU);
 					hsCol.add(col[edge.get(i).u]);
 				}
 				
-				if(oldV != -1) {
+				if(oldV != -1 && oldV != col[edge.get(i).u]) {
 					hsCol.remove(oldV);
 					hsCol.add(col[edge.get(i).v]);
 				}
@@ -129,12 +129,12 @@ public class cf4 implements Runnable {
 					
 					join(edge.get(i).u, edge.get(i).v);
 					
-					if(oldU != -1) {
+					if(oldU != -1 && oldU != col[edge.get(i).u]) {
 						hsCol.remove(oldU);
 						hsCol.add(col[edge.get(i).u]);
 					}
 					
-					if(oldV != -1) {
+					if(oldV != -1 && oldV != col[edge.get(i).u]) {
 						hsCol.remove(oldV);
 						hsCol.add(col[edge.get(i).v]);
 					}
