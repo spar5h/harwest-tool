@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF50964521": {
+    "contest_id": 1133,
+    "language": "Java 8",
+    "path": "codeforces/1133/E.java",
+    "problem_index": "E",
+    "problem_name": "K Balanced Teams",
+    "problem_url": "https://codeforces.com/contest/1133/problem/E",
+    "submission_id": "CF50964521",
+    "submission_url": "https://codeforces.com/contest/1133/submission/50964521",
+    "tags": [
+      "dp",
+      "sortings",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "Mar/07/2019 22:01"
+  },
   "CF50970169": {
     "contest_id": 1133,
     "language": "Java 8",
