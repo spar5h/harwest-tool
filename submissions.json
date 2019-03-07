@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF50941039": {
+    "contest_id": 1133,
+    "language": "Java 8",
+    "path": "codeforces/1133/F1.java",
+    "problem_index": "F1",
+    "problem_name": "Spanning Tree with Maximum Degree",
+    "problem_url": "https://codeforces.com/contest/1133/problem/F1",
+    "submission_id": "CF50941039",
+    "submission_url": "https://codeforces.com/contest/1133/submission/50941039",
+    "tags": [
+      "graphs",
+      "*1600"
+    ],
+    "timestamp": "Mar/07/2019 20:58"
+  },
   "CF50953073": {
     "contest_id": 1133,
     "language": "Java 8",
