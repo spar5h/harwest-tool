@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF50928669": {
+    "contest_id": 1117,
+    "language": "Java 8",
+    "path": "codeforces/1117/B.java",
+    "problem_index": "B",
+    "problem_name": "Emotes",
+    "problem_url": "https://codeforces.com/contest/1117/problem/B",
+    "submission_id": "CF50928669",
+    "submission_url": "https://codeforces.com/contest/1117/submission/50928669",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Mar/07/2019 18:29"
+  },
   "CF50941039": {
     "contest_id": 1133,
     "language": "Java 8",
