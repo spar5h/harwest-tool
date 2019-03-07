@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF50984053": {
+    "contest_id": 1117,
+    "language": "Java 8",
+    "path": "codeforces/1117/C.java",
+    "problem_index": "C",
+    "problem_name": "Magic Ship",
+    "problem_url": "https://codeforces.com/contest/1117/problem/C",
+    "submission_id": "CF50984053",
+    "submission_url": "https://codeforces.com/contest/1117/submission/50984053",
+    "tags": [
+      "binary search",
+      "*1900"
+    ],
+    "timestamp": "Mar/08/2019 00:18"
+  },
   "CF50996343": {
     "contest_id": 1117,
     "language": "Java 8",
