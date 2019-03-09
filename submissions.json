@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF51069123": {
+    "contest_id": 1117,
+    "language": "Java 8",
+    "path": "codeforces/1117/E.java",
+    "problem_index": "E",
+    "problem_name": "Decypher the String",
+    "problem_url": "https://codeforces.com/contest/1117/problem/E",
+    "submission_id": "CF51069123",
+    "submission_url": "https://codeforces.com/contest/1117/submission/51069123",
+    "tags": [
+      "bitmasks",
+      "chinese remainder theorem",
+      "constructive algorithms",
+      "interactive",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "Mar/09/2019 12:33"
+  },
   "CF51221111": {
     "contest_id": 1132,
     "language": "Java 8",
