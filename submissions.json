@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF51227200": {
+    "contest_id": 1132,
+    "language": "Java 8",
+    "path": "codeforces/1132/D.java",
+    "problem_index": "D",
+    "problem_name": "Stressful Training",
+    "problem_url": "https://codeforces.com/contest/1132/problem/D",
+    "submission_id": "CF51227200",
+    "submission_url": "https://codeforces.com/contest/1132/submission/51227200",
+    "tags": [
+      "binary search",
+      "greedy",
+      "*2300"
+    ],
+    "timestamp": "Mar/12/2019 20:06"
+  },
   "CF51273640": {
     "contest_id": 1117,
     "language": "Java 8",
