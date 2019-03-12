@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF51221374": {
+    "contest_id": 1132,
+    "language": "Java 8",
+    "path": "codeforces/1132/B.java",
+    "problem_index": "B",
+    "problem_name": "Discounts",
+    "problem_url": "https://codeforces.com/contest/1132/problem/B",
+    "submission_id": "CF51221374",
+    "submission_url": "https://codeforces.com/contest/1132/submission/51221374",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Mar/12/2019 18:05"
+  },
   "CF51222726": {
     "contest_id": 1132,
     "language": "Java 8",
