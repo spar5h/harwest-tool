@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF51273640": {
+    "contest_id": 1117,
+    "language": "Java 8",
+    "path": "codeforces/1117/F.java",
+    "problem_index": "F",
+    "problem_name": "Crisp String",
+    "problem_url": "https://codeforces.com/contest/1117/problem/F",
+    "submission_id": "CF51273640",
+    "submission_url": "https://codeforces.com/contest/1117/submission/51273640",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "*2500"
+    ],
+    "timestamp": "Mar/14/2019 00:59"
+  },
   "CF52297944": {
     "contest_id": 1136,
     "language": "Java 8",
