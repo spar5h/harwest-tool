@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF51504920": {
+    "contest_id": 1141,
+    "language": "Java 8",
+    "path": "codeforces/1141/F2.java",
+    "problem_index": "F2",
+    "problem_name": "Same Sum Blocks (Hard)",
+    "problem_url": "https://codeforces.com/contest/1141/problem/F2",
+    "submission_id": "CF51504920",
+    "submission_url": "https://codeforces.com/contest/1141/submission/51504920",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "Mar/19/2019 20:41"
+  },
   "CF51505617": {
     "contest_id": 1141,
     "language": "Java 8",
