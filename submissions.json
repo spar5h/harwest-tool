@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF51505617": {
+    "contest_id": 1141,
+    "language": "Java 8",
+    "path": "codeforces/1141/F1.java",
+    "problem_index": "F1",
+    "problem_name": "Same Sum Blocks (Easy)",
+    "problem_url": "https://codeforces.com/contest/1141/problem/F1",
+    "submission_id": "CF51505617",
+    "submission_url": "https://codeforces.com/contest/1141/submission/51505617",
+    "tags": [
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "Mar/19/2019 20:43"
+  },
   "CF51525977": {
     "contest_id": 1141,
     "language": "Java 8",
