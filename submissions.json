@@ -19,6 +19,26 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF51525977": {
+    "contest_id": 1141,
+    "language": "Java 8",
+    "path": "codeforces/1141/G.java",
+    "problem_index": "G",
+    "problem_name": "Privatization of Roads in Treeland",
+    "problem_url": "https://codeforces.com/contest/1141/problem/G",
+    "submission_id": "CF51525977",
+    "submission_url": "https://codeforces.com/contest/1141/submission/51525977",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "Mar/19/2019 21:43"
+  },
   "CF51668549": {
     "contest_id": 543,
     "language": "Java 8",
