@@ -3442,6 +3442,23 @@
     ],
     "timestamp": "Mar/22/2019 12:41"
   },
+  "CF51702446": {
+    "contest_id": 1140,
+    "language": "Java 8",
+    "path": "codeforces/1140/D.java",
+    "problem_index": "D",
+    "problem_name": "Minimum Triangulation",
+    "problem_url": "https://codeforces.com/contest/1140/problem/D",
+    "submission_id": "CF51702446",
+    "submission_url": "https://codeforces.com/contest/1140/submission/51702446",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Mar/22/2019 21:21"
+  },
   "CF51746892": {
     "contest_id": 1140,
     "language": "Java 8",
