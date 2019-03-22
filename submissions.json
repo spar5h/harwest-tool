@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF51668549": {
+    "contest_id": 543,
+    "language": "Java 8",
+    "path": "codeforces/543/A.java",
+    "problem_index": "A",
+    "problem_name": "Writing Code",
+    "problem_url": "https://codeforces.com/contest/543/problem/A",
+    "submission_id": "CF51668549",
+    "submission_url": "https://codeforces.com/contest/543/submission/51668549",
+    "tags": [
+      "dp",
+      "*1800"
+    ],
+    "timestamp": "Mar/22/2019 12:41"
+  },
   "CF55957452": {
     "contest_id": 135,
     "language": "Java 8",
