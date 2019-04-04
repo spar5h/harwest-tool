@@ -3442,6 +3442,22 @@
     ],
     "timestamp": "Mar/22/2019 12:41"
   },
+  "CF52297944": {
+    "contest_id": 1136,
+    "language": "Java 8",
+    "path": "codeforces/1136/E.java",
+    "problem_index": "E",
+    "problem_name": "Nastya Hasn't Written a Legend",
+    "problem_url": "https://codeforces.com/contest/1136/problem/E",
+    "submission_id": "CF52297944",
+    "submission_url": "https://codeforces.com/contest/1136/submission/52297944",
+    "tags": [
+      "binary search",
+      "data structures",
+      "*2200"
+    ],
+    "timestamp": "Apr/04/2019 12:48"
+  },
   "CF52313825": {
     "contest_id": 479,
     "language": "Java 8",
