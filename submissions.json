@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF52313825": {
+    "contest_id": 479,
+    "language": "Java 8",
+    "path": "codeforces/479/E.java",
+    "problem_index": "E",
+    "problem_name": "Riding in a Lift",
+    "problem_url": "https://codeforces.com/contest/479/problem/E",
+    "submission_id": "CF52313825",
+    "submission_url": "https://codeforces.com/contest/479/submission/52313825",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "*1900"
+    ],
+    "timestamp": "Apr/04/2019 21:30"
+  },
   "CF52333049": {
     "contest_id": 191,
     "language": "Java 8",
