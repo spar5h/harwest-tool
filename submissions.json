@@ -3442,6 +3442,22 @@
     ],
     "timestamp": "Mar/22/2019 12:41"
   },
+  "CF52335009": {
+    "contest_id": 61,
+    "language": "Java 8",
+    "path": "codeforces/61/E.java",
+    "problem_index": "E",
+    "problem_name": "Enemy is weak",
+    "problem_url": "https://codeforces.com/contest/61/problem/E",
+    "submission_id": "CF52335009",
+    "submission_url": "https://codeforces.com/contest/61/submission/52335009",
+    "tags": [
+      "data structures",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "Apr/05/2019 12:58"
+  },
   "CF52386272": {
     "contest_id": 1119,
     "language": "Java 8",
