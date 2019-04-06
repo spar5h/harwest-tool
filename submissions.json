@@ -3442,6 +3442,24 @@
     ],
     "timestamp": "Mar/22/2019 12:41"
   },
+  "CF52394091": {
+    "contest_id": 1119,
+    "language": "Java 8",
+    "path": "codeforces/1119/B.java",
+    "problem_index": "B",
+    "problem_name": "Alyona and a Narrow Fridge",
+    "problem_url": "https://codeforces.com/contest/1119/problem/B",
+    "submission_id": "CF52394091",
+    "submission_url": "https://codeforces.com/contest/1119/submission/52394091",
+    "tags": [
+      "binary search",
+      "flows",
+      "greedy",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Apr/06/2019 17:32"
+  },
   "CF52400204": {
     "contest_id": 1119,
     "language": "Java 8",
