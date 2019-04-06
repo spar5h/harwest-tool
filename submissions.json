@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF52405086": {
+    "contest_id": 1119,
+    "language": "Java 8",
+    "path": "codeforces/1119/D.java",
+    "problem_index": "D",
+    "problem_name": "Frets On Fire",
+    "problem_url": "https://codeforces.com/contest/1119/problem/D",
+    "submission_id": "CF52405086",
+    "submission_url": "https://codeforces.com/contest/1119/submission/52405086",
+    "tags": [
+      "binary search",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "Apr/06/2019 18:25"
+  },
   "CF52407686": {
     "contest_id": 1119,
     "language": "Java 8",
