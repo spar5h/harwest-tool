@@ -3442,6 +3442,22 @@
     ],
     "timestamp": "Mar/22/2019 12:41"
   },
+  "CF52386272": {
+    "contest_id": 1119,
+    "language": "Java 8",
+    "path": "codeforces/1119/A.java",
+    "problem_index": "A",
+    "problem_name": "Ilya and a Colorful Walk",
+    "problem_url": "https://codeforces.com/contest/1119/problem/A",
+    "submission_id": "CF52386272",
+    "submission_url": "https://codeforces.com/contest/1119/submission/52386272",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Apr/06/2019 17:11"
+  },
   "CF52394091": {
     "contest_id": 1119,
     "language": "Java 8",
