@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF52400204": {
+    "contest_id": 1119,
+    "language": "Java 8",
+    "path": "codeforces/1119/C.java",
+    "problem_index": "C",
+    "problem_name": "Ramesses and Corner Inversion",
+    "problem_url": "https://codeforces.com/contest/1119/problem/C",
+    "submission_id": "CF52400204",
+    "submission_url": "https://codeforces.com/contest/1119/submission/52400204",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Apr/06/2019 17:58"
+  },
   "CF52405086": {
     "contest_id": 1119,
     "language": "Java 8",
