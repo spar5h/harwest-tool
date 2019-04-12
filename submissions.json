@@ -3442,6 +3442,24 @@
     ],
     "timestamp": "Mar/22/2019 12:41"
   },
+  "CF52648295": {
+    "contest_id": 269,
+    "language": "Java 8",
+    "path": "codeforces/269/C.java",
+    "problem_index": "C",
+    "problem_name": "Flawed Flow",
+    "problem_url": "https://codeforces.com/contest/269/problem/C",
+    "submission_id": "CF52648295",
+    "submission_url": "https://codeforces.com/contest/269/submission/52648295",
+    "tags": [
+      "constructive algorithms",
+      "flows",
+      "graphs",
+      "greedy",
+      "*2100"
+    ],
+    "timestamp": "Apr/12/2019 20:59"
+  },
   "CF52794027": {
     "contest_id": 295,
     "language": "Java 8",
