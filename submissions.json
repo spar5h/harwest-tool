@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF52630726": {
+    "contest_id": 156,
+    "language": "Java 8",
+    "path": "codeforces/156/C.java",
+    "problem_index": "C",
+    "problem_name": "Cipher",
+    "problem_url": "https://codeforces.com/contest/156/problem/C",
+    "submission_id": "CF52630726",
+    "submission_url": "https://codeforces.com/contest/156/submission/52630726",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "*2000"
+    ],
+    "timestamp": "Apr/12/2019 12:24"
+  },
   "CF52648295": {
     "contest_id": 269,
     "language": "Java 8",
