@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF52794027": {
+    "contest_id": 295,
+    "language": "Java 8",
+    "path": "codeforces/295/C.java",
+    "problem_index": "C",
+    "problem_name": "Greg and Friends",
+    "problem_url": "https://codeforces.com/contest/295/problem/C",
+    "submission_id": "CF52794027",
+    "submission_url": "https://codeforces.com/contest/295/submission/52794027",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "graphs",
+      "shortest paths",
+      "*2100"
+    ],
+    "timestamp": "Apr/16/2019 00:45"
+  },
   "CF52840020": {
     "contest_id": 1154,
     "language": "Java 8",
