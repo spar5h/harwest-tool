@@ -3442,6 +3442,23 @@
     ],
     "timestamp": "Mar/22/2019 12:41"
   },
+  "CF52840020": {
+    "contest_id": 1154,
+    "language": "Java 8",
+    "path": "codeforces/1154/E.java",
+    "problem_index": "E",
+    "problem_name": "Two Teams",
+    "problem_url": "https://codeforces.com/contest/1154/problem/E",
+    "submission_id": "CF52840020",
+    "submission_url": "https://codeforces.com/contest/1154/submission/52840020",
+    "tags": [
+      "data structures",
+      "implementation",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "Apr/16/2019 20:33"
+  },
   "CF52848076": {
     "contest_id": 1154,
     "language": "Java 8",
