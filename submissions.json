@@ -3442,6 +3442,23 @@
     ],
     "timestamp": "Mar/22/2019 12:41"
   },
+  "CF52887016": {
+    "contest_id": 16,
+    "language": "Java 8",
+    "path": "codeforces/16/E.java",
+    "problem_index": "E",
+    "problem_name": "Fish",
+    "problem_url": "https://codeforces.com/contest/16/problem/E",
+    "submission_id": "CF52887016",
+    "submission_url": "https://codeforces.com/contest/16/submission/52887016",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "probabilities",
+      "*1900"
+    ],
+    "timestamp": "Apr/17/2019 11:30"
+  },
   "CF53129457": {
     "contest_id": 1155,
     "language": "Java 8",
