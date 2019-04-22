@@ -3442,6 +3442,25 @@
     ],
     "timestamp": "Mar/22/2019 12:41"
   },
+  "CF53145745": {
+    "contest_id": 1155,
+    "language": "Java 8",
+    "path": "codeforces/1155/D.java",
+    "problem_index": "D",
+    "problem_name": "Beautiful Array",
+    "problem_url": "https://codeforces.com/contest/1155/problem/D",
+    "submission_id": "CF53145745",
+    "submission_url": "https://codeforces.com/contest/1155/submission/53145745",
+    "tags": [
+      "brute force",
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "Apr/22/2019 20:59"
+  },
   "CF53226438": {
     "contest_id": 1152,
     "language": "Java 8",
