@@ -3442,6 +3442,22 @@
     ],
     "timestamp": "Mar/22/2019 12:41"
   },
+  "CF53137172": {
+    "contest_id": 1155,
+    "language": "Java 8",
+    "path": "codeforces/1155/C.java",
+    "problem_index": "C",
+    "problem_name": "Alarm Clocks Everywhere",
+    "problem_url": "https://codeforces.com/contest/1155/problem/C",
+    "submission_id": "CF53137172",
+    "submission_url": "https://codeforces.com/contest/1155/submission/53137172",
+    "tags": [
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Apr/22/2019 20:31"
+  },
   "CF53145745": {
     "contest_id": 1155,
     "language": "Java 8",
