@@ -3442,6 +3442,23 @@
     ],
     "timestamp": "Mar/22/2019 12:41"
   },
+  "CF53241424": {
+    "contest_id": 1152,
+    "language": "Java 8",
+    "path": "codeforces/1152/C.java",
+    "problem_index": "C",
+    "problem_name": "Neko does Maths",
+    "problem_url": "https://codeforces.com/contest/1152/problem/C",
+    "submission_id": "CF53241424",
+    "submission_url": "https://codeforces.com/contest/1152/submission/53241424",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "Apr/24/2019 20:58"
+  },
   "CF53258632": {
     "contest_id": 1152,
     "language": "Java 8",
