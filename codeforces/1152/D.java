@@ -7,83 +7,47 @@ import static java.lang.Math.*;
 
 public class cf4 implements Runnable { 
 	
-	long[][][] dp;
+	long[][] dp;
 	long mod = (long)1e9 + 7;
 	
-	void recur(int n, int k, int x) {
+	void recur(int n, int k) {
 		
-		dp[n][k][x] = 0;
+		dp[n][k] = 0;
 		
 		if(k == dp[n].length - 1) {
-			
-			if(n != 0)
-				dp[n][k][x] = -2;
 		
+			if(n != 0)
+				dp[n][k] = -2;
+			
 			return;
 		}
 		
 		int c = 0;
 		
-		if(x == 0) {
+		if(n > 0) {
 			
-			if(n > 0) {
-				
-				if(dp[n - 1][k + 1][1] == -1)
-					recur(n - 1, k + 1, 1);
-				
-				if(dp[n - 1][k + 1][1] != -2) {
-					dp[n][k][0] = (dp[n - 1][k + 1][1] + dp[n][k][0]) % mod;
-					c++;
-				}	
-			}
+			if(dp[n - 1][k + 1] == -1)
+				recur(n - 1, k + 1);
 			
-			if(dp[n + 1][k + 1][1] == -1)
-				recur(n + 1, k + 1, 1);
-			
-			if(dp[n + 1][k + 1][1] != -2) {
-				dp[n][k][0] = (dp[n + 1][k + 1][1] + dp[n][k][0]) % mod;
+			if(dp[n - 1][k + 1] != -2) {
+				dp[n][k]= (dp[n - 1][k + 1] + dp[n][k]) % mod;
 				c++;
-			}
+			}	
 		}
 		
-		else if(x == 1) {
-			
-			dp[n][k][x] = 1;
-			
-			if(n > 0) {
-				
-				if(dp[n - 1][k + 1][0] == -1)
-					recur(n - 1, k + 1, 0);
-				
-				if(dp[n - 1][k + 1][0] != -2) {
-					dp[n][k][1] = (dp[n - 1][k + 1][0] + dp[n][k][1]) % mod;
-					c++;
-				}
-				
-				if(dp[n + 1][k + 1][1] == -1)
-					recur(n + 1, k + 1, 1);
-				
-				if(dp[n + 1][k + 1][1] != -2) {
-					dp[n][k][1] = (dp[n + 1][k + 1][1] + dp[n][k][1]) % mod;
-					c++;
-				}
-			}
-			
-			else {
-				
-				if(dp[n + 1][k + 1][0] == -1)
-					recur(n + 1, k + 1, 0);
-				
-				if(dp[n + 1][k + 1][0] != -2) {
-					dp[n][k][1] = (dp[n + 1][k + 1][0] + dp[n][k][1]) % mod;
-					c++;
-				}
-			}
-			
+		if(dp[n + 1][k + 1] == -1)
+			recur(n + 1, k + 1);
+		
+		if(dp[n + 1][k + 1] != -2) {
+			dp[n][k] = (dp[n + 1][k + 1] + dp[n][k]) % mod;
+			c++;
 		}
+		
+		if(n % 2 == 1)
+			dp[n][k]++;
 
 		if(c == 0)
-			dp[n][k][x] = -2;
+			dp[n][k] = -2;
 	}
 	
 	public void run() {
@@ -93,15 +57,14 @@ public class cf4 implements Runnable {
 		
 		int n = s.nextInt();
 		
-		dp = new long[2 * n + 1][2 * n + 1][2];
+		dp = new long[2 * n + 1][2 * n + 1];
 		for(int i = 0; i <= 2 * n; i++)
 			for(int j = 0; j <= 2 * n; j++)
-				for(int k = 0; k < 2; k++)
-					dp[i][j][k] = -1;
+				dp[i][j] = -1;
 		
-		recur(0, 0, 1);
+		recur(0, 0);
 		
-		w.println(dp[0][0][1]);
+		w.println(dp[0][0]);
 		
 		w.close();
 	}

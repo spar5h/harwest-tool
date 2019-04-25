@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF53280546": {
+    "contest_id": 1152,
+    "language": "Java 8",
+    "path": "codeforces/1152/D.java",
+    "problem_index": "D",
+    "problem_name": "Neko and Aki's Prank",
+    "problem_url": "https://codeforces.com/contest/1152/problem/D",
+    "submission_id": "CF53280546",
+    "submission_url": "https://codeforces.com/contest/1152/submission/53280546",
+    "tags": [
+      "dp",
+      "greedy",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "Apr/25/2019 17:16"
+  },
   "CF53319535": {
     "contest_id": 286,
     "language": "Java 8",
