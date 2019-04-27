@@ -3442,6 +3442,23 @@
     ],
     "timestamp": "Mar/22/2019 12:41"
   },
+  "CF53405755": {
+    "contest_id": 1151,
+    "language": "Java 8",
+    "path": "codeforces/1151/D.java",
+    "problem_index": "D",
+    "problem_name": "Stas and the Queue at the Buffet",
+    "problem_url": "https://codeforces.com/contest/1151/problem/D",
+    "submission_id": "CF53405755",
+    "submission_url": "https://codeforces.com/contest/1151/submission/53405755",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Apr/27/2019 16:13"
+  },
   "CF53406720": {
     "contest_id": 1151,
     "language": "Java 8",
