@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF53406720": {
+    "contest_id": 1151,
+    "language": "Java 8",
+    "path": "codeforces/1151/C.java",
+    "problem_index": "C",
+    "problem_name": "Problem for Nazar",
+    "problem_url": "https://codeforces.com/contest/1151/problem/C",
+    "submission_id": "CF53406720",
+    "submission_url": "https://codeforces.com/contest/1151/submission/53406720",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1800"
+    ],
+    "timestamp": "Apr/27/2019 16:37"
+  },
   "CF53422072": {
     "contest_id": 1151,
     "language": "Java 8",
