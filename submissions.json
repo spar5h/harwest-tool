@@ -3442,6 +3442,22 @@
     ],
     "timestamp": "Mar/22/2019 12:41"
   },
+  "CF53398453": {
+    "contest_id": 1151,
+    "language": "Java 8",
+    "path": "codeforces/1151/A.java",
+    "problem_index": "A",
+    "problem_name": "Maxim and Biology",
+    "problem_url": "https://codeforces.com/contest/1151/problem/A",
+    "submission_id": "CF53398453",
+    "submission_url": "https://codeforces.com/contest/1151/submission/53398453",
+    "tags": [
+      "brute force",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Apr/27/2019 15:51"
+  },
   "CF53401568": {
     "contest_id": 1151,
     "language": "Java 8",
