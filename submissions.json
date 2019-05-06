@@ -3442,6 +3442,21 @@
     ],
     "timestamp": "Mar/22/2019 12:41"
   },
+  "CF53828273": {
+    "contest_id": 1161,
+    "language": "Java 8",
+    "path": "codeforces/1161/C.java",
+    "problem_index": "C",
+    "problem_name": "Thanos Nim",
+    "problem_url": "https://codeforces.com/contest/1161/problem/C",
+    "submission_id": "CF53828273",
+    "submission_url": "https://codeforces.com/contest/1161/submission/53828273",
+    "tags": [
+      "games",
+      "*2000"
+    ],
+    "timestamp": "May/06/2019 23:22"
+  },
   "CF53831981": {
     "contest_id": 1161,
     "language": "Java 8",
