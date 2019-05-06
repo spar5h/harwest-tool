@@ -3442,6 +3442,23 @@
     ],
     "timestamp": "Mar/22/2019 12:41"
   },
+  "CF53821281": {
+    "contest_id": 1161,
+    "language": "Java 8",
+    "path": "codeforces/1161/A.java",
+    "problem_index": "A",
+    "problem_name": "Hide and Seek",
+    "problem_url": "https://codeforces.com/contest/1161/problem/A",
+    "submission_id": "CF53821281",
+    "submission_url": "https://codeforces.com/contest/1161/submission/53821281",
+    "tags": [
+      "brute force",
+      "data structures",
+      "graphs",
+      "*1500"
+    ],
+    "timestamp": "May/06/2019 18:48"
+  },
   "CF53826728": {
     "contest_id": 1161,
     "language": "Java 8",
