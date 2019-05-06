@@ -3442,6 +3442,22 @@
     ],
     "timestamp": "Mar/22/2019 12:41"
   },
+  "CF53831981": {
+    "contest_id": 1161,
+    "language": "Java 8",
+    "path": "codeforces/1161/D.java",
+    "problem_index": "D",
+    "problem_name": "Palindrome XOR",
+    "problem_url": "https://codeforces.com/contest/1161/problem/D",
+    "submission_id": "CF53831981",
+    "submission_url": "https://codeforces.com/contest/1161/submission/53831981",
+    "tags": [
+      "graphs",
+      "implementation",
+      "*2400"
+    ],
+    "timestamp": "May/07/2019 02:27"
+  },
   "CF55095754": {
     "contest_id": 1174,
     "language": "Java 8",
