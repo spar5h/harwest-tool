@@ -3442,6 +3442,26 @@
     ],
     "timestamp": "Mar/22/2019 12:41"
   },
+  "CF55275166": {
+    "contest_id": 1174,
+    "language": "Java 8",
+    "path": "codeforces/1174/F.java",
+    "problem_index": "F",
+    "problem_name": "Ehab and the Big Finale",
+    "problem_url": "https://codeforces.com/contest/1174/problem/F",
+    "submission_id": "CF55275166",
+    "submission_url": "https://codeforces.com/contest/1174/submission/55275166",
+    "tags": [
+      "constructive algorithms",
+      "divide and conquer",
+      "graphs",
+      "implementation",
+      "interactive",
+      "trees",
+      "*2400"
+    ],
+    "timestamp": "Jun/08/2019 00:02"
+  },
   "CF55298825": {
     "contest_id": 1175,
     "language": "Java 8",
