@@ -19,6 +19,27 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF55316135": {
+    "contest_id": 1175,
+    "language": "Java 8",
+    "path": "codeforces/1175/E.java",
+    "problem_index": "E",
+    "problem_name": "Minimal Segment Cover",
+    "problem_url": "https://codeforces.com/contest/1175/problem/E",
+    "submission_id": "CF55316135",
+    "submission_url": "https://codeforces.com/contest/1175/submission/55316135",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "divide and conquer",
+      "dp",
+      "greedy",
+      "implementation",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "Jun/09/2019 03:36"
+  },
   "CF55348446": {
     "contest_id": 1176,
     "language": "Java 8",
