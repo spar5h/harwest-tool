@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF55381924": {
+    "contest_id": 508,
+    "language": "Java 8",
+    "path": "codeforces/508/E.java",
+    "problem_index": "E",
+    "problem_name": "Arthur and Brackets",
+    "problem_url": "https://codeforces.com/contest/508/problem/E",
+    "submission_id": "CF55381924",
+    "submission_url": "https://codeforces.com/contest/508/submission/55381924",
+    "tags": [
+      "dp",
+      "greedy",
+      "*2200"
+    ],
+    "timestamp": "Jun/10/2019 03:04"
+  },
   "CF55725539": {
     "contest_id": 258,
     "language": "Java 8",
