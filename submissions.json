@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF55358309": {
+    "contest_id": 1176,
+    "language": "Java 8",
+    "path": "codeforces/1176/D.java",
+    "problem_index": "D",
+    "problem_name": "Recover it!",
+    "problem_url": "https://codeforces.com/contest/1176/problem/D",
+    "submission_id": "CF55358309",
+    "submission_url": "https://codeforces.com/contest/1176/submission/55358309",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "number theory",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "Jun/09/2019 21:06"
+  },
   "CF55375189": {
     "contest_id": 1176,
     "language": "Java 8",
