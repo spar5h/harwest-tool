@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF55375189": {
+    "contest_id": 1176,
+    "language": "Java 8",
+    "path": "codeforces/1176/F.java",
+    "problem_index": "F",
+    "problem_name": "Destroy it!",
+    "problem_url": "https://codeforces.com/contest/1176/problem/F",
+    "submission_id": "CF55375189",
+    "submission_url": "https://codeforces.com/contest/1176/submission/55375189",
+    "tags": [
+      "dp",
+      "implementation",
+      "sortings",
+      "*2100"
+    ],
+    "timestamp": "Jun/09/2019 22:46"
+  },
   "CF55381924": {
     "contest_id": 508,
     "language": "Java 8",
