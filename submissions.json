@@ -3442,6 +3442,24 @@
     ],
     "timestamp": "Mar/22/2019 12:41"
   },
+  "CF55725539": {
+    "contest_id": 258,
+    "language": "Java 8",
+    "path": "codeforces/258/C.java",
+    "problem_index": "C",
+    "problem_name": "Little Elephant and LCM",
+    "problem_url": "https://codeforces.com/contest/258/problem/C",
+    "submission_id": "CF55725539",
+    "submission_url": "https://codeforces.com/contest/258/submission/55725539",
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "dp",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "Jun/18/2019 23:00"
+  },
   "CF55729170": {
     "contest_id": 487,
     "language": "Java 8",
