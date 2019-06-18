@@ -3442,6 +3442,23 @@
     ],
     "timestamp": "Mar/22/2019 12:41"
   },
+  "CF55730369": {
+    "contest_id": 145,
+    "language": "Java 8",
+    "path": "codeforces/145/C.java",
+    "problem_index": "C",
+    "problem_name": "Lucky Subsequence",
+    "problem_url": "https://codeforces.com/contest/145/problem/C",
+    "submission_id": "CF55730369",
+    "submission_url": "https://codeforces.com/contest/145/submission/55730369",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "Jun/19/2019 02:09"
+  },
   "CF55924411": {
     "contest_id": 87,
     "language": "Java 8",
