@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF55729170": {
+    "contest_id": 487,
+    "language": "Java 8",
+    "path": "codeforces/487/C.java",
+    "problem_index": "C",
+    "problem_name": "Prefix Product Sequence",
+    "problem_url": "https://codeforces.com/contest/487/problem/C",
+    "submission_id": "CF55729170",
+    "submission_url": "https://codeforces.com/contest/487/submission/55729170",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*2300"
+    ],
+    "timestamp": "Jun/19/2019 01:12"
+  },
   "CF55730369": {
     "contest_id": 145,
     "language": "Java 8",
