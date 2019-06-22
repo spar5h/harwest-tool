@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF55924411": {
+    "contest_id": 87,
+    "language": "Java 8",
+    "path": "codeforces/87/C.java",
+    "problem_index": "C",
+    "problem_name": "Interesting Game",
+    "problem_url": "https://codeforces.com/contest/87/problem/C",
+    "submission_id": "CF55924411",
+    "submission_url": "https://codeforces.com/contest/87/submission/55924411",
+    "tags": [
+      "dp",
+      "games",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "Jun/22/2019 14:14"
+  },
   "CF55957452": {
     "contest_id": 135,
     "language": "Java 8",
