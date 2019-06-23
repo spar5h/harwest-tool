@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF55957452": {
+    "contest_id": 135,
+    "language": "Java 8",
+    "path": "codeforces/135/C.java",
+    "problem_index": "C",
+    "problem_name": "Zero-One",
+    "problem_url": "https://codeforces.com/contest/135/problem/C",
+    "submission_id": "CF55957452",
+    "submission_url": "https://codeforces.com/contest/135/submission/55957452",
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "Jun/23/2019 13:23"
+  },
   "CF55966096": {
     "contest_id": 448,
     "language": "Java 8",
