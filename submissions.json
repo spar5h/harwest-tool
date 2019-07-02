@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF56450241": {
+    "contest_id": 1185,
+    "language": "Java 8",
+    "path": "codeforces/1185/G1.java",
+    "problem_index": "G1",
+    "problem_name": "Playlist for Polycarp (easy version)",
+    "problem_url": "https://codeforces.com/contest/1185/problem/G1",
+    "submission_id": "CF56450241",
+    "submission_url": "https://codeforces.com/contest/1185/submission/56450241",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp",
+      "*2100"
+    ],
+    "timestamp": "Jul/03/2019 03:03"
+  },
   "CF56489486": {
     "contest_id": 1185,
     "language": "Java 8",
