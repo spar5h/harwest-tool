@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF56444317": {
+    "contest_id": 1185,
+    "language": "Java 8",
+    "path": "codeforces/1185/E.java",
+    "problem_index": "E",
+    "problem_name": "Polycarp and Snakes",
+    "problem_url": "https://codeforces.com/contest/1185/problem/E",
+    "submission_id": "CF56444317",
+    "submission_url": "https://codeforces.com/contest/1185/submission/56444317",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*2000"
+    ],
+    "timestamp": "Jul/02/2019 23:34"
+  },
   "CF56450241": {
     "contest_id": 1185,
     "language": "Java 8",
