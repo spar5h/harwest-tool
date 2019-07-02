@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF56442329": {
+    "contest_id": 1185,
+    "language": "Java 8",
+    "path": "codeforces/1185/C2.java",
+    "problem_index": "C2",
+    "problem_name": "Exam in BerSU (hard version)",
+    "problem_url": "https://codeforces.com/contest/1185/problem/C2",
+    "submission_id": "CF56442329",
+    "submission_url": "https://codeforces.com/contest/1185/submission/56442329",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Jul/02/2019 22:32"
+  },
   "CF56442345": {
     "contest_id": 1185,
     "language": "Java 8",
