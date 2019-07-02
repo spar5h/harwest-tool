@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF56441723": {
+    "contest_id": 1185,
+    "language": "Java 8",
+    "path": "codeforces/1185/B.java",
+    "problem_index": "B",
+    "problem_name": "Email from Polycarp",
+    "problem_url": "https://codeforces.com/contest/1185/problem/B",
+    "submission_id": "CF56441723",
+    "submission_url": "https://codeforces.com/contest/1185/submission/56441723",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "Jul/02/2019 22:14"
+  },
   "CF56442329": {
     "contest_id": 1185,
     "language": "Java 8",
