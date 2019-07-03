@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF56489486": {
+    "contest_id": 1185,
+    "language": "Java 8",
+    "path": "codeforces/1185/F.java",
+    "problem_index": "F",
+    "problem_name": "Two Pizzas",
+    "problem_url": "https://codeforces.com/contest/1185/problem/F",
+    "submission_id": "CF56489486",
+    "submission_url": "https://codeforces.com/contest/1185/submission/56489486",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "*2100"
+    ],
+    "timestamp": "Jul/04/2019 02:02"
+  },
   "CF58077272": {
     "contest_id": 1196,
     "language": "Java 8",
