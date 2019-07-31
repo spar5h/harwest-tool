@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF58080329": {
+    "contest_id": 1196,
+    "language": "Java 8",
+    "path": "codeforces/1196/E.java",
+    "problem_index": "E",
+    "problem_name": "Connected Component on a Chessboard",
+    "problem_url": "https://codeforces.com/contest/1196/problem/E",
+    "submission_id": "CF58080329",
+    "submission_url": "https://codeforces.com/contest/1196/submission/58080329",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "Jul/31/2019 19:12"
+  },
   "CF58576858": {
     "contest_id": 1200,
     "language": "Java 8",
