@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF58078836": {
+    "contest_id": 1196,
+    "language": "Java 8",
+    "path": "codeforces/1196/D2.java",
+    "problem_index": "D2",
+    "problem_name": "RGB Substring (hard version)",
+    "problem_url": "https://codeforces.com/contest/1196/problem/D2",
+    "submission_id": "CF58078836",
+    "submission_url": "https://codeforces.com/contest/1196/submission/58078836",
+    "tags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "two pointers",
+      "*1600"
+    ],
+    "timestamp": "Jul/31/2019 18:45"
+  },
   "CF58078858": {
     "contest_id": 1196,
     "language": "Java 8",
