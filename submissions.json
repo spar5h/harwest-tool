@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF58613290": {
+    "contest_id": 1200,
+    "language": "Java 8",
+    "path": "codeforces/1200/E.java",
+    "problem_index": "E",
+    "problem_name": "Compress Words",
+    "problem_url": "https://codeforces.com/contest/1200/problem/E",
+    "submission_id": "CF58613290",
+    "submission_url": "https://codeforces.com/contest/1200/submission/58613290",
+    "tags": [
+      "brute force",
+      "hashing",
+      "implementation",
+      "string suffix structures",
+      "strings",
+      "*2000"
+    ],
+    "timestamp": "Aug/11/2019 19:46"
+  },
   "CF62531726": {
     "contest_id": 1244,
     "language": "Java 8",
