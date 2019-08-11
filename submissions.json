@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF58582352": {
+    "contest_id": 1200,
+    "language": "Java 8",
+    "path": "codeforces/1200/B.java",
+    "problem_index": "B",
+    "problem_name": "Block Adventure",
+    "problem_url": "https://codeforces.com/contest/1200/problem/B",
+    "submission_id": "CF58582352",
+    "submission_url": "https://codeforces.com/contest/1200/submission/58582352",
+    "tags": [
+      "dp",
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Aug/11/2019 18:19"
+  },
   "CF58588064": {
     "contest_id": 1200,
     "language": "Java 8",
