@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF58603995": {
+    "contest_id": 1200,
+    "language": "Java 8",
+    "path": "codeforces/1200/D.java",
+    "problem_index": "D",
+    "problem_name": "White Lines",
+    "problem_url": "https://codeforces.com/contest/1200/problem/D",
+    "submission_id": "CF58603995",
+    "submission_url": "https://codeforces.com/contest/1200/submission/58603995",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "implementation",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "Aug/11/2019 19:12"
+  },
   "CF58613290": {
     "contest_id": 1200,
     "language": "Java 8",
