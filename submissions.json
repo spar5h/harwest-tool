@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF62564267": {
+    "contest_id": 1244,
+    "language": "Java 8",
+    "path": "codeforces/1244/F.java",
+    "problem_index": "F",
+    "problem_name": "Chips",
+    "problem_url": "https://codeforces.com/contest/1244/problem/F",
+    "submission_id": "CF62564267",
+    "submission_url": "https://codeforces.com/contest/1244/submission/62564267",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*2300"
+    ],
+    "timestamp": "Oct/14/2019 18:20"
+  },
   "CF62565903": {
     "contest_id": 1244,
     "language": "Java 8",
