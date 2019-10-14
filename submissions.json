@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF62565903": {
+    "contest_id": 1244,
+    "language": "Java 8",
+    "path": "codeforces/1244/G.java",
+    "problem_index": "G",
+    "problem_name": "Running in Pairs",
+    "problem_url": "https://codeforces.com/contest/1244/problem/G",
+    "submission_id": "CF62565903",
+    "submission_url": "https://codeforces.com/contest/1244/submission/62565903",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*2400"
+    ],
+    "timestamp": "Oct/14/2019 18:44"
+  },
   "CF62691051": {
     "contest_id": 1237,
     "language": "Java 8",
