@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF62726079": {
+    "contest_id": 1237,
+    "language": "Java 8",
+    "path": "codeforces/1237/D.java",
+    "problem_index": "D",
+    "problem_name": "Balanced Playlist",
+    "problem_url": "https://codeforces.com/contest/1237/problem/D",
+    "submission_id": "CF62726079",
+    "submission_url": "https://codeforces.com/contest/1237/submission/62726079",
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation",
+      "*2000"
+    ],
+    "timestamp": "Oct/16/2019 22:09"
+  },
   "CF63255219": {
     "contest_id": 559,
     "language": "Java 8",
