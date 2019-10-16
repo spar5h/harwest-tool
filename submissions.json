@@ -19,6 +19,26 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF62717569": {
+    "contest_id": 1237,
+    "language": "Java 8",
+    "path": "codeforces/1237/C2.java",
+    "problem_index": "C2",
+    "problem_name": "Balanced Removals (Harder)",
+    "problem_url": "https://codeforces.com/contest/1237/problem/C2",
+    "submission_id": "CF62717569",
+    "submission_url": "https://codeforces.com/contest/1237/submission/62717569",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "divide and conquer",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "Oct/16/2019 21:32"
+  },
   "CF62717629": {
     "contest_id": 1237,
     "language": "Java 8",
