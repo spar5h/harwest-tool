@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF62717629": {
+    "contest_id": 1237,
+    "language": "Java 8",
+    "path": "codeforces/1237/C1.java",
+    "problem_index": "C1",
+    "problem_name": "Balanced Removals (Easier)",
+    "problem_url": "https://codeforces.com/contest/1237/problem/C1",
+    "submission_id": "CF62717629",
+    "submission_url": "https://codeforces.com/contest/1237/submission/62717629",
+    "tags": [
+      "constructive algorithms",
+      "geometry",
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Oct/16/2019 21:32"
+  },
   "CF62726079": {
     "contest_id": 1237,
     "language": "Java 8",
