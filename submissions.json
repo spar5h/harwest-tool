@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF62691051": {
+    "contest_id": 1237,
+    "language": "Java 8",
+    "path": "codeforces/1237/A.java",
+    "problem_index": "A",
+    "problem_name": "Balanced Rating Changes",
+    "problem_url": "https://codeforces.com/contest/1237/problem/A",
+    "submission_id": "CF62691051",
+    "submission_url": "https://codeforces.com/contest/1237/submission/62691051",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Oct/16/2019 20:15"
+  },
   "CF62696369": {
     "contest_id": 1237,
     "language": "Java 8",
