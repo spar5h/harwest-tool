@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF63308428": {
+    "contest_id": 1251,
+    "language": "Java 8",
+    "path": "codeforces/1251/B.java",
+    "problem_index": "B",
+    "problem_name": "Binary Palindromes",
+    "problem_url": "https://codeforces.com/contest/1251/problem/B",
+    "submission_id": "CF63308428",
+    "submission_url": "https://codeforces.com/contest/1251/submission/63308428",
+    "tags": [
+      "greedy",
+      "strings",
+      "*1400"
+    ],
+    "timestamp": "Oct/24/2019 20:48"
+  },
   "CF63311351": {
     "contest_id": 1251,
     "language": "Java 8",
