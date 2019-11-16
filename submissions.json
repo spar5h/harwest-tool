@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF65177182": {
+    "contest_id": 1253,
+    "language": "Java 8",
+    "path": "codeforces/1253/B.java",
+    "problem_index": "B",
+    "problem_name": "Silly Mistake",
+    "problem_url": "https://codeforces.com/contest/1253/problem/B",
+    "submission_id": "CF65177182",
+    "submission_url": "https://codeforces.com/contest/1253/submission/65177182",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Nov/16/2019 20:25"
+  },
   "CF65185621": {
     "contest_id": 1253,
     "language": "Java 8",
