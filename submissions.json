@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF66800905": {
+    "contest_id": 1264,
+    "language": "Java 8",
+    "path": "codeforces/1264/B.java",
+    "problem_index": "B",
+    "problem_name": "Beautiful Sequence",
+    "problem_url": "https://codeforces.com/contest/1264/problem/B",
+    "submission_id": "CF66800905",
+    "submission_url": "https://codeforces.com/contest/1264/submission/66800905",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "Dec/14/2019 00:11"
+  },
   "CF66803826": {
     "contest_id": 1265,
     "language": "Java 8",
