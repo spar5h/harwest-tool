@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF66837962": {
+    "contest_id": 1276,
+    "language": "Java 8",
+    "path": "codeforces/1276/A.java",
+    "problem_index": "A",
+    "problem_name": "As Simple as One and Two",
+    "problem_url": "https://codeforces.com/contest/1276/problem/A",
+    "submission_id": "CF66837962",
+    "submission_url": "https://codeforces.com/contest/1276/submission/66837962",
+    "tags": [
+      "dp",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Dec/14/2019 16:48"
+  },
   "CF66842703": {
     "contest_id": 1276,
     "language": "Java 8",
