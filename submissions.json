@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF66832714": {
+    "contest_id": 1264,
+    "language": "Java 8",
+    "path": "codeforces/1264/C.java",
+    "problem_index": "C",
+    "problem_name": "Beautiful Mirrors with queries",
+    "problem_url": "https://codeforces.com/contest/1264/problem/C",
+    "submission_id": "CF66832714",
+    "submission_url": "https://codeforces.com/contest/1264/submission/66832714",
+    "tags": [
+      "data structures",
+      "probabilities",
+      "*2400"
+    ],
+    "timestamp": "Dec/14/2019 16:19"
+  },
   "CF66837962": {
     "contest_id": 1276,
     "language": "Java 8",
