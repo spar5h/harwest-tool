@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF67083883": {
+    "contest_id": 1266,
+    "language": "Java 8",
+    "path": "codeforces/1266/B.java",
+    "problem_index": "B",
+    "problem_name": "Dice Tower",
+    "problem_url": "https://codeforces.com/contest/1266/problem/B",
+    "submission_id": "CF67083883",
+    "submission_url": "https://codeforces.com/contest/1266/submission/67083883",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Dec/17/2019 20:50"
+  },
   "CF67090980": {
     "contest_id": 1266,
     "language": "Java 8",
