@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF67111227": {
+    "contest_id": 1266,
+    "language": "Java 8",
+    "path": "codeforces/1266/E.java",
+    "problem_index": "E",
+    "problem_name": "Spaceship Solitaire",
+    "problem_url": "https://codeforces.com/contest/1266/problem/E",
+    "submission_id": "CF67111227",
+    "submission_url": "https://codeforces.com/contest/1266/submission/67111227",
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation",
+      "*2100"
+    ],
+    "timestamp": "Dec/17/2019 22:18"
+  },
   "CF67273595": {
     "contest_id": 1278,
     "language": "Java 8",
