@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF67079726": {
+    "contest_id": 1266,
+    "language": "Java 8",
+    "path": "codeforces/1266/A.java",
+    "problem_index": "A",
+    "problem_name": "Competitive Programmer",
+    "problem_url": "https://codeforces.com/contest/1266/problem/A",
+    "submission_id": "CF67079726",
+    "submission_url": "https://codeforces.com/contest/1266/submission/67079726",
+    "tags": [
+      "chinese remainder theorem",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Dec/17/2019 20:43"
+  },
   "CF67083883": {
     "contest_id": 1266,
     "language": "Java 8",
