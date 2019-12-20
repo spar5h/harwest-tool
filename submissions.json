@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF67290136": {
+    "contest_id": 932,
+    "language": "Java 8",
+    "path": "codeforces/932/E.java",
+    "problem_index": "E",
+    "problem_name": "Team Work",
+    "problem_url": "https://codeforces.com/contest/932/problem/E",
+    "submission_id": "CF67290136",
+    "submission_url": "https://codeforces.com/contest/932/submission/67290136",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*2400"
+    ],
+    "timestamp": "Dec/20/2019 20:52"
+  },
   "CF67326908": {
     "contest_id": 528,
     "language": "Java 8",
