@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF67273595": {
+    "contest_id": 1278,
+    "language": "Java 8",
+    "path": "codeforces/1278/D.java",
+    "problem_index": "D",
+    "problem_name": "Segment Tree",
+    "problem_url": "https://codeforces.com/contest/1278/problem/D",
+    "submission_id": "CF67273595",
+    "submission_url": "https://codeforces.com/contest/1278/submission/67273595",
+    "tags": [
+      "data structures",
+      "dsu",
+      "graphs",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "Dec/20/2019 14:49"
+  },
   "CF67276288": {
     "contest_id": 1278,
     "language": "Java 8",
