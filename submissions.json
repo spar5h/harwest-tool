@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF67285548": {
+    "contest_id": 1278,
+    "language": "Java 8",
+    "path": "codeforces/1278/F.java",
+    "problem_index": "F",
+    "problem_name": "Cards",
+    "problem_url": "https://codeforces.com/contest/1278/problem/F",
+    "submission_id": "CF67285548",
+    "submission_url": "https://codeforces.com/contest/1278/submission/67285548",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "number theory",
+      "probabilities",
+      "*2600"
+    ],
+    "timestamp": "Dec/20/2019 19:42"
+  },
   "CF67290136": {
     "contest_id": 932,
     "language": "Java 8",
