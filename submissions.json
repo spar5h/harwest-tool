@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF67326908": {
+    "contest_id": 528,
+    "language": "Java 8",
+    "path": "codeforces/528/D.java",
+    "problem_index": "D",
+    "problem_name": "Fuzzy Search",
+    "problem_url": "https://codeforces.com/contest/528/problem/D",
+    "submission_id": "CF67326908",
+    "submission_url": "https://codeforces.com/contest/528/submission/67326908",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "fft",
+      "*2500"
+    ],
+    "timestamp": "Dec/21/2019 15:35"
+  },
   "CF68165547": {
     "contest_id": 1284,
     "language": "Java 8",
