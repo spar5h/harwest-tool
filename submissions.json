@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF68176294": {
+    "contest_id": 1284,
+    "language": "Java 8",
+    "path": "codeforces/1284/C.java",
+    "problem_index": "C",
+    "problem_name": "New Year and Permutation",
+    "problem_url": "https://codeforces.com/contest/1284/problem/C",
+    "submission_id": "CF68176294",
+    "submission_url": "https://codeforces.com/contest/1284/submission/68176294",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Jan/04/2020 18:09"
+  },
   "CF68208467": {
     "contest_id": 1284,
     "language": "Java 8",
