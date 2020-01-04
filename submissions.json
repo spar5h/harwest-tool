@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF68208467": {
+    "contest_id": 1284,
+    "language": "Java 8",
+    "path": "codeforces/1284/D.java",
+    "problem_index": "D",
+    "problem_name": "New Year and Conference",
+    "problem_url": "https://codeforces.com/contest/1284/problem/D",
+    "submission_id": "CF68208467",
+    "submission_url": "https://codeforces.com/contest/1284/submission/68208467",
+    "tags": [
+      "binary search",
+      "data structures",
+      "hashing",
+      "sortings",
+      "*2100"
+    ],
+    "timestamp": "Jan/04/2020 23:46"
+  },
   "CF68244686": {
     "contest_id": 137,
     "language": "Java 8",
