@@ -19,6 +19,26 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF68317760": {
+    "contest_id": 1286,
+    "language": "Java 8",
+    "path": "codeforces/1286/B.java",
+    "problem_index": "B",
+    "problem_name": "Numbers on Tree",
+    "problem_url": "https://codeforces.com/contest/1286/problem/B",
+    "submission_id": "CF68317760",
+    "submission_url": "https://codeforces.com/contest/1286/submission/68317760",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "trees",
+      "*1800"
+    ],
+    "timestamp": "Jan/06/2020 19:19"
+  },
   "CF68459780": {
     "contest_id": 1139,
     "language": "Java 8",
