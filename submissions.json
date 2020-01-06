@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF68312400": {
+    "contest_id": 237,
+    "language": "Java 8",
+    "path": "codeforces/237/E.java",
+    "problem_index": "E",
+    "problem_name": "Build String",
+    "problem_url": "https://codeforces.com/contest/237/problem/E",
+    "submission_id": "CF68312400",
+    "submission_url": "https://codeforces.com/contest/237/submission/68312400",
+    "tags": [
+      "flows",
+      "graphs",
+      "*2000"
+    ],
+    "timestamp": "Jan/06/2020 17:17"
+  },
   "CF68316424": {
     "contest_id": 1286,
     "language": "Java 8",
