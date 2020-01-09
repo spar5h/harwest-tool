@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF68461665": {
+    "contest_id": 1139,
+    "language": "Java 8",
+    "path": "codeforces/1139/C.java",
+    "problem_index": "C",
+    "problem_name": "Edgy Trees",
+    "problem_url": "https://codeforces.com/contest/1139/problem/C",
+    "submission_id": "CF68461665",
+    "submission_url": "https://codeforces.com/contest/1139/submission/68461665",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "math",
+      "trees",
+      "*1500"
+    ],
+    "timestamp": "Jan/09/2020 23:48"
+  },
   "CF68463772": {
     "contest_id": 1139,
     "language": "Java 8",
