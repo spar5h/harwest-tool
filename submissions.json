@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF68463772": {
+    "contest_id": 1139,
+    "language": "Java 8",
+    "path": "codeforces/1139/D.java",
+    "problem_index": "D",
+    "problem_name": "Steps to One",
+    "problem_url": "https://codeforces.com/contest/1139/problem/D",
+    "submission_id": "CF68463772",
+    "submission_url": "https://codeforces.com/contest/1139/submission/68463772",
+    "tags": [
+      "dp",
+      "math",
+      "number theory",
+      "probabilities",
+      "*2300"
+    ],
+    "timestamp": "Jan/10/2020 00:44"
+  },
   "CF68510127": {
     "contest_id": 1285,
     "language": "Java 8",
