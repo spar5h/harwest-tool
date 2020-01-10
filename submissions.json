@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF68523600": {
+    "contest_id": 1285,
+    "language": "Java 8",
+    "path": "codeforces/1285/B.java",
+    "problem_index": "B",
+    "problem_name": "Just Eat It!",
+    "problem_url": "https://codeforces.com/contest/1285/problem/B",
+    "submission_id": "CF68523600",
+    "submission_url": "https://codeforces.com/contest/1285/submission/68523600",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Jan/10/2020 20:20"
+  },
   "CF68525671": {
     "contest_id": 1285,
     "language": "Java 8",
