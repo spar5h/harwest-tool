@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF68516722": {
+    "contest_id": 1285,
+    "language": "Java 8",
+    "path": "codeforces/1285/C.java",
+    "problem_index": "C",
+    "problem_name": "Fadi and LCM",
+    "problem_url": "https://codeforces.com/contest/1285/problem/C",
+    "submission_id": "CF68516722",
+    "submission_url": "https://codeforces.com/contest/1285/submission/68516722",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "Jan/10/2020 20:06"
+  },
   "CF68523600": {
     "contest_id": 1285,
     "language": "Java 8",
