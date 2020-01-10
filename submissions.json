@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF68525671": {
+    "contest_id": 1285,
+    "language": "Java 8",
+    "path": "codeforces/1285/A.java",
+    "problem_index": "A",
+    "problem_name": "Mezo Playing Zoma",
+    "problem_url": "https://codeforces.com/contest/1285/problem/A",
+    "submission_id": "CF68525671",
+    "submission_url": "https://codeforces.com/contest/1285/submission/68525671",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/10/2020 20:25"
+  },
   "CF69101762": {
     "contest_id": 1292,
     "language": "Java 8",
