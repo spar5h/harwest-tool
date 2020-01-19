@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF69119599": {
+    "contest_id": 1292,
+    "language": "Java 8",
+    "path": "codeforces/1292/B.java",
+    "problem_index": "B",
+    "problem_name": "Aroma's Search",
+    "problem_url": "https://codeforces.com/contest/1292/problem/B",
+    "submission_id": "CF69119599",
+    "submission_url": "https://codeforces.com/contest/1292/submission/69119599",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "geometry",
+      "greedy",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Jan/19/2020 19:45"
+  },
   "CF69151239": {
     "contest_id": 1292,
     "language": "Java 8",
