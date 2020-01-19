@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF69151239": {
+    "contest_id": 1292,
+    "language": "Java 8",
+    "path": "codeforces/1292/C.java",
+    "problem_index": "C",
+    "problem_name": "Xenon's Attack on the Gangs",
+    "problem_url": "https://codeforces.com/contest/1292/problem/C",
+    "submission_id": "CF69151239",
+    "submission_url": "https://codeforces.com/contest/1292/submission/69151239",
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "Jan/19/2020 23:12"
+  },
   "CF71138777": {
     "contest_id": 1304,
     "language": "Java 8",
