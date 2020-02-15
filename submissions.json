@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF71163250": {
+    "contest_id": 1304,
+    "language": "Java 8",
+    "path": "codeforces/1304/F2.java",
+    "problem_index": "F2",
+    "problem_name": "Animal Observation (hard version)",
+    "problem_url": "https://codeforces.com/contest/1304/problem/F2",
+    "submission_id": "CF71163250",
+    "submission_url": "https://codeforces.com/contest/1304/submission/71163250",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "*2400"
+    ],
+    "timestamp": "Feb/15/2020 20:24"
+  },
   "CF71382201": {
     "contest_id": 1,
     "language": "Haskell",
