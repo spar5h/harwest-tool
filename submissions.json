@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF71382201": {
+    "contest_id": 1,
+    "language": "Haskell",
+    "path": "codeforces/1/A.hs",
+    "problem_index": "A",
+    "problem_name": "Theatre Square",
+    "problem_url": "https://codeforces.com/contest/1/problem/A",
+    "submission_id": "CF71382201",
+    "submission_url": "https://codeforces.com/contest/1/submission/71382201",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Feb/18/2020 19:26"
+  },
   "CF71383430": {
     "contest_id": 1285,
     "language": "Haskell",
