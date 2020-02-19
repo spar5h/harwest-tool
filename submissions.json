@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF71433528": {
+    "contest_id": 112,
+    "language": "Haskell",
+    "path": "codeforces/112/A.hs",
+    "problem_index": "A",
+    "problem_name": "Petya and Strings",
+    "problem_url": "https://codeforces.com/contest/112/problem/A",
+    "submission_id": "CF71433528",
+    "submission_url": "https://codeforces.com/contest/112/submission/71433528",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Feb/19/2020 17:12"
+  },
   "CF71440145": {
     "contest_id": 160,
     "language": "Haskell",
