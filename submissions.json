@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF71429873": {
+    "contest_id": 118,
+    "language": "Haskell",
+    "path": "codeforces/118/A.hs",
+    "problem_index": "A",
+    "problem_name": "String Task",
+    "problem_url": "https://codeforces.com/contest/118/problem/A",
+    "submission_id": "CF71429873",
+    "submission_url": "https://codeforces.com/contest/118/submission/71429873",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Feb/19/2020 16:01"
+  },
   "CF71432362": {
     "contest_id": 339,
     "language": "Haskell",
