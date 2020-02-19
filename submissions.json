@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF71440145": {
+    "contest_id": 160,
+    "language": "Haskell",
+    "path": "codeforces/160/A.hs",
+    "problem_index": "A",
+    "problem_name": "Twins",
+    "problem_url": "https://codeforces.com/contest/160/problem/A",
+    "submission_id": "CF71440145",
+    "submission_url": "https://codeforces.com/contest/160/submission/71440145",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Feb/19/2020 19:04"
+  },
   "CF74550522": {
     "contest_id": 1327,
     "language": "Java 8",
