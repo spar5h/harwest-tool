@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF74814943": {
+    "contest_id": 1263,
+    "language": "Java 8",
+    "path": "codeforces/1263/B.java",
+    "problem_index": "B",
+    "problem_name": "PIN Codes",
+    "problem_url": "https://codeforces.com/contest/1263/problem/B",
+    "submission_id": "CF74814943",
+    "submission_url": "https://codeforces.com/contest/1263/submission/74814943",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Mar/30/2020 17:01"
+  },
   "CF74816691": {
     "contest_id": 1263,
     "language": "Java 8",
