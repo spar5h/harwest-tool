@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF74819125": {
+    "contest_id": 1263,
+    "language": "Java 8",
+    "path": "codeforces/1263/A.java",
+    "problem_index": "A",
+    "problem_name": "Sweet Problem",
+    "problem_url": "https://codeforces.com/contest/1263/problem/A",
+    "submission_id": "CF74819125",
+    "submission_url": "https://codeforces.com/contest/1263/submission/74819125",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Mar/30/2020 17:48"
+  },
   "CF74868473": {
     "contest_id": 1263,
     "language": "GNU C++17",
