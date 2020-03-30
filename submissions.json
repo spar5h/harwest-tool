@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF74868473": {
+    "contest_id": 1263,
+    "language": "GNU C++17",
+    "path": "codeforces/1263/E.cpp",
+    "problem_index": "E",
+    "problem_name": "Editor",
+    "problem_url": "https://codeforces.com/contest/1263/problem/E",
+    "submission_id": "CF74868473",
+    "submission_url": "https://codeforces.com/contest/1263/submission/74868473",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*2100"
+    ],
+    "timestamp": "Mar/31/2020 02:12"
+  },
   "CF74915915": {
     "contest_id": 1207,
     "language": "Java 8",
