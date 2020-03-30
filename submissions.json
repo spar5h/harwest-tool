@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF74817834": {
+    "contest_id": 1263,
+    "language": "Java 8",
+    "path": "codeforces/1263/D.java",
+    "problem_index": "D",
+    "problem_name": "Secret Passwords",
+    "problem_url": "https://codeforces.com/contest/1263/problem/D",
+    "submission_id": "CF74817834",
+    "submission_url": "https://codeforces.com/contest/1263/submission/74817834",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "*1500"
+    ],
+    "timestamp": "Mar/30/2020 17:34"
+  },
   "CF74819125": {
     "contest_id": 1263,
     "language": "Java 8",
