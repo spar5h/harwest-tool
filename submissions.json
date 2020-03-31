@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF74916520": {
+    "contest_id": 1207,
+    "language": "Java 8",
+    "path": "codeforces/1207/B.java",
+    "problem_index": "B",
+    "problem_name": "Square Filling",
+    "problem_url": "https://codeforces.com/contest/1207/problem/B",
+    "submission_id": "CF74916520",
+    "submission_url": "https://codeforces.com/contest/1207/submission/74916520",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Mar/31/2020 17:07"
+  },
   "CF74918958": {
     "contest_id": 1207,
     "language": "Java 8",
