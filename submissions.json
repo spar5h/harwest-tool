@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF74920537": {
+    "contest_id": 1207,
+    "language": "Java 8",
+    "path": "codeforces/1207/D.java",
+    "problem_index": "D",
+    "problem_name": "Number Of Permutations",
+    "problem_url": "https://codeforces.com/contest/1207/problem/D",
+    "submission_id": "CF74920537",
+    "submission_url": "https://codeforces.com/contest/1207/submission/74920537",
+    "tags": [
+      "combinatorics",
+      "*1800"
+    ],
+    "timestamp": "Mar/31/2020 17:47"
+  },
   "CF74922225": {
     "contest_id": 1207,
     "language": "Java 8",
