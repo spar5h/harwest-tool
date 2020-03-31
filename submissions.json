@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF74915915": {
+    "contest_id": 1207,
+    "language": "Java 8",
+    "path": "codeforces/1207/A.java",
+    "problem_index": "A",
+    "problem_name": "There Are Two Types Of Burgers",
+    "problem_url": "https://codeforces.com/contest/1207/problem/A",
+    "submission_id": "CF74915915",
+    "submission_url": "https://codeforces.com/contest/1207/submission/74915915",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/31/2020 17:01"
+  },
   "CF74916520": {
     "contest_id": 1207,
     "language": "Java 8",
