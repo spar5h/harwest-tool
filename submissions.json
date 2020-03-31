@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF74929565": {
+    "contest_id": 1207,
+    "language": "Java 8",
+    "path": "codeforces/1207/F.java",
+    "problem_index": "F",
+    "problem_name": "Remainder Problem",
+    "problem_url": "https://codeforces.com/contest/1207/problem/F",
+    "submission_id": "CF74929565",
+    "submission_url": "https://codeforces.com/contest/1207/submission/74929565",
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation",
+      "*2100"
+    ],
+    "timestamp": "Mar/31/2020 19:13"
+  },
   "CF75169768": {
     "contest_id": 1288,
     "language": "Java 8",
