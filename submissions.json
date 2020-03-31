@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF74918958": {
+    "contest_id": 1207,
+    "language": "Java 8",
+    "path": "codeforces/1207/C.java",
+    "problem_index": "C",
+    "problem_name": "Gas Pipeline",
+    "problem_url": "https://codeforces.com/contest/1207/problem/C",
+    "submission_id": "CF74918958",
+    "submission_url": "https://codeforces.com/contest/1207/submission/74918958",
+    "tags": [
+      "dp",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Mar/31/2020 17:32"
+  },
   "CF74920537": {
     "contest_id": 1207,
     "language": "Java 8",
