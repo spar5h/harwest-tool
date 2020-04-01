@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF75177247": {
+    "contest_id": 1288,
+    "language": "Java 8",
+    "path": "codeforces/1288/E.java",
+    "problem_index": "E",
+    "problem_name": "Messenger Simulator",
+    "problem_url": "https://codeforces.com/contest/1288/problem/E",
+    "submission_id": "CF75177247",
+    "submission_url": "https://codeforces.com/contest/1288/submission/75177247",
+    "tags": [
+      "data structures",
+      "*2000"
+    ],
+    "timestamp": "Apr/02/2020 01:16"
+  },
   "CF75599664": {
     "contest_id": 1329,
     "language": "Java 8",
