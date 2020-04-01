@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF75171926": {
+    "contest_id": 1288,
+    "language": "Java 8",
+    "path": "codeforces/1288/C.java",
+    "problem_index": "C",
+    "problem_name": "Two Arrays",
+    "problem_url": "https://codeforces.com/contest/1288/problem/C",
+    "submission_id": "CF75171926",
+    "submission_url": "https://codeforces.com/contest/1288/submission/75171926",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "*1600"
+    ],
+    "timestamp": "Apr/02/2020 00:07"
+  },
   "CF75173731": {
     "contest_id": 1288,
     "language": "Java 8",
