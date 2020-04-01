@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF75173731": {
+    "contest_id": 1288,
+    "language": "Java 8",
+    "path": "codeforces/1288/D.java",
+    "problem_index": "D",
+    "problem_name": "Minimax Problem",
+    "problem_url": "https://codeforces.com/contest/1288/problem/D",
+    "submission_id": "CF75173731",
+    "submission_url": "https://codeforces.com/contest/1288/submission/75173731",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "dp",
+      "*2000"
+    ],
+    "timestamp": "Apr/02/2020 00:29"
+  },
   "CF75177247": {
     "contest_id": 1288,
     "language": "Java 8",
