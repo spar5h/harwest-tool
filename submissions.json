@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF75599664": {
+    "contest_id": 1329,
+    "language": "Java 8",
+    "path": "codeforces/1329/B.java",
+    "problem_index": "B",
+    "problem_name": "Dreamoon Likes Sequences",
+    "problem_url": "https://codeforces.com/contest/1329/problem/B",
+    "submission_id": "CF75599664",
+    "submission_url": "https://codeforces.com/contest/1329/submission/75599664",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Apr/06/2020 00:23"
+  },
   "CF75601154": {
     "contest_id": 1329,
     "language": "Java 8",
