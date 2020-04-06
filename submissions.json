@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF75688560": {
+    "contest_id": 1332,
+    "language": "Java 8",
+    "path": "codeforces/1332/D.java",
+    "problem_index": "D",
+    "problem_name": "Walk on Matrix",
+    "problem_url": "https://codeforces.com/contest/1332/problem/D",
+    "submission_id": "CF75688560",
+    "submission_url": "https://codeforces.com/contest/1332/submission/75688560",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Apr/07/2020 00:30"
+  },
   "CF75694021": {
     "contest_id": 1332,
     "language": "Java 8",
