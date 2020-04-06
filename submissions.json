@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF75687110": {
+    "contest_id": 1332,
+    "language": "Java 8",
+    "path": "codeforces/1332/C.java",
+    "problem_index": "C",
+    "problem_name": "K-Complete Word",
+    "problem_url": "https://codeforces.com/contest/1332/problem/C",
+    "submission_id": "CF75687110",
+    "submission_url": "https://codeforces.com/contest/1332/submission/75687110",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "greedy",
+      "implementation",
+      "strings",
+      "*1500"
+    ],
+    "timestamp": "Apr/07/2020 00:12"
+  },
   "CF75688560": {
     "contest_id": 1332,
     "language": "Java 8",
