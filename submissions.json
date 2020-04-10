@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF76212187": {
+    "contest_id": 1324,
+    "language": "Java 8",
+    "path": "codeforces/1324/E.java",
+    "problem_index": "E",
+    "problem_name": "Sleeping Schedule",
+    "problem_url": "https://codeforces.com/contest/1324/problem/E",
+    "submission_id": "CF76212187",
+    "submission_url": "https://codeforces.com/contest/1324/submission/76212187",
+    "tags": [
+      "dp",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Apr/11/2020 01:51"
+  },
   "CF76419524": {
     "contest_id": 1338,
     "language": "Java 8",
