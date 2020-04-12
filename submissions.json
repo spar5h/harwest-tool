@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF76421543": {
+    "contest_id": 1338,
+    "language": "Java 8",
+    "path": "codeforces/1338/A.java",
+    "problem_index": "A",
+    "problem_name": "Powered Addition",
+    "problem_url": "https://codeforces.com/contest/1338/problem/A",
+    "submission_id": "CF76421543",
+    "submission_url": "https://codeforces.com/contest/1338/submission/76421543",
+    "tags": [
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Apr/13/2020 00:31"
+  },
   "CF76421601": {
     "contest_id": 1338,
     "language": "Java 8",
