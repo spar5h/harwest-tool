@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF76419524": {
+    "contest_id": 1338,
+    "language": "Java 8",
+    "path": "codeforces/1338/C.java",
+    "problem_index": "C",
+    "problem_name": "Perfect Triples",
+    "problem_url": "https://codeforces.com/contest/1338/problem/C",
+    "submission_id": "CF76419524",
+    "submission_url": "https://codeforces.com/contest/1338/submission/76419524",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "divide and conquer",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "Apr/13/2020 00:09"
+  },
   "CF76421543": {
     "contest_id": 1338,
     "language": "Java 8",
