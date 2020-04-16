@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF77010452": {
+    "contest_id": 1295,
+    "language": "Java 8",
+    "path": "codeforces/1295/B.java",
+    "problem_index": "B",
+    "problem_name": "Infinite Prefixes",
+    "problem_url": "https://codeforces.com/contest/1295/problem/B",
+    "submission_id": "CF77010452",
+    "submission_url": "https://codeforces.com/contest/1295/submission/77010452",
+    "tags": [
+      "math",
+      "strings",
+      "*1700"
+    ],
+    "timestamp": "Apr/17/2020 00:41"
+  },
   "CF77011579": {
     "contest_id": 1295,
     "language": "Java 8",
