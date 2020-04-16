@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF77013515": {
+    "contest_id": 1295,
+    "language": "Java 8",
+    "path": "codeforces/1295/D.java",
+    "problem_index": "D",
+    "problem_name": "Same GCDs",
+    "problem_url": "https://codeforces.com/contest/1295/problem/D",
+    "submission_id": "CF77013515",
+    "submission_url": "https://codeforces.com/contest/1295/submission/77013515",
+    "tags": [
+      "math",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "Apr/17/2020 01:22"
+  },
   "CF77082068": {
     "contest_id": 1295,
     "language": "Java 8",
