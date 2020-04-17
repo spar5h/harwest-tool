@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF77082068": {
+    "contest_id": 1295,
+    "language": "Java 8",
+    "path": "codeforces/1295/E.java",
+    "problem_index": "E",
+    "problem_name": "Permutation Separation",
+    "problem_url": "https://codeforces.com/contest/1295/problem/E",
+    "submission_id": "CF77082068",
+    "submission_url": "https://codeforces.com/contest/1295/submission/77082068",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "*2200"
+    ],
+    "timestamp": "Apr/17/2020 19:21"
+  },
   "CF77175860": {
     "contest_id": 1187,
     "language": "Java 8",
