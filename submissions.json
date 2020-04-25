@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF78049139": {
+    "contest_id": 1336,
+    "language": "Java 8",
+    "path": "codeforces/1336/C.java",
+    "problem_index": "C",
+    "problem_name": "Kaavi and Magic Spell",
+    "problem_url": "https://codeforces.com/contest/1336/problem/C",
+    "submission_id": "CF78049139",
+    "submission_url": "https://codeforces.com/contest/1336/submission/78049139",
+    "tags": [
+      "dp",
+      "strings",
+      "*2200"
+    ],
+    "timestamp": "Apr/25/2020 22:30"
+  },
   "CF78297255": {
     "contest_id": 1336,
     "language": "Java 8",
