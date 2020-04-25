@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF78021936": {
+    "contest_id": 1336,
+    "language": "Java 8",
+    "path": "codeforces/1336/A.java",
+    "problem_index": "A",
+    "problem_name": "Linova and Kingdom",
+    "problem_url": "https://codeforces.com/contest/1336/problem/A",
+    "submission_id": "CF78021936",
+    "submission_url": "https://codeforces.com/contest/1336/submission/78021936",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "sortings",
+      "trees",
+      "*1600"
+    ],
+    "timestamp": "Apr/25/2020 17:37"
+  },
   "CF78049139": {
     "contest_id": 1336,
     "language": "Java 8",
