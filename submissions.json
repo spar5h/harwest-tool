@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF78021752": {
+    "contest_id": 1336,
+    "language": "Java 8",
+    "path": "codeforces/1336/B.java",
+    "problem_index": "B",
+    "problem_name": "Xenia and Colorful Gems",
+    "problem_url": "https://codeforces.com/contest/1336/problem/B",
+    "submission_id": "CF78021752",
+    "submission_url": "https://codeforces.com/contest/1336/submission/78021752",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "sortings",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Apr/25/2020 17:35"
+  },
   "CF78021936": {
     "contest_id": 1336,
     "language": "Java 8",
