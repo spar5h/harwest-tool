@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF78297255": {
+    "contest_id": 1336,
+    "language": "Java 8",
+    "path": "codeforces/1336/E1.java",
+    "problem_index": "E1",
+    "problem_name": "Chiori and Doll Picking (easy version)",
+    "problem_url": "https://codeforces.com/contest/1336/problem/E1",
+    "submission_id": "CF78297255",
+    "submission_url": "https://codeforces.com/contest/1336/submission/78297255",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "combinatorics",
+      "math",
+      "*2700"
+    ],
+    "timestamp": "Apr/27/2020 19:23"
+  },
   "CF80214979": {
     "contest_id": 1349,
     "language": "Java 8",
