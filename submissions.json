@@ -19,6 +19,18 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF82218980": {
+    "contest_id": 1116,
+    "language": "Q#",
+    "path": "codeforces/1116/A2.qs",
+    "problem_index": "A2",
+    "problem_name": "Generate equal superposition of four basis states",
+    "problem_url": "https://codeforces.com/contest/1116/problem/A2",
+    "submission_id": "CF82218980",
+    "submission_url": "https://codeforces.com/contest/1116/submission/82218980",
+    "tags": [],
+    "timestamp": "Jun/01/2020 18:33"
+  },
   "CF82433934": {
     "contest_id": 1002,
     "language": "Q#",
