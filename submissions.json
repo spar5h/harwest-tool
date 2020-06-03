@@ -19,6 +19,20 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF82434482": {
+    "contest_id": 1002,
+    "language": "Q#",
+    "path": "codeforces/1002/C2.qs",
+    "problem_index": "C2",
+    "problem_name": "Distinguish zero state and plus state without errors",
+    "problem_url": "https://codeforces.com/contest/1002/problem/C2",
+    "submission_id": "CF82434482",
+    "submission_url": "https://codeforces.com/contest/1002/submission/82434482",
+    "tags": [
+      "*1800"
+    ],
+    "timestamp": "Jun/04/2020 02:33"
+  },
   "CF82435740": {
     "contest_id": 1002,
     "language": "Q#",
