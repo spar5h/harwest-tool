@@ -19,6 +19,20 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF82435815": {
+    "contest_id": 1002,
+    "language": "Q#",
+    "path": "codeforces/1002/A2.qs",
+    "problem_index": "A2",
+    "problem_name": "Generate superposition of zero state and a basis state",
+    "problem_url": "https://codeforces.com/contest/1002/problem/A2",
+    "submission_id": "CF82435815",
+    "submission_url": "https://codeforces.com/contest/1002/submission/82435815",
+    "tags": [
+      "*1300"
+    ],
+    "timestamp": "Jun/04/2020 03:16"
+  },
   "CF82435853": {
     "contest_id": 1002,
     "language": "Q#",
