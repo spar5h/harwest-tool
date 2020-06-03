@@ -19,6 +19,20 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF82435740": {
+    "contest_id": 1002,
+    "language": "Q#",
+    "path": "codeforces/1002/A1.qs",
+    "problem_index": "A1",
+    "problem_name": "Generate superposition of all basis states",
+    "problem_url": "https://codeforces.com/contest/1002/problem/A1",
+    "submission_id": "CF82435740",
+    "submission_url": "https://codeforces.com/contest/1002/submission/82435740",
+    "tags": [
+      "*800"
+    ],
+    "timestamp": "Jun/04/2020 03:13"
+  },
   "CF82435815": {
     "contest_id": 1002,
     "language": "Q#",

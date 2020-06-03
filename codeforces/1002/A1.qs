@@ -1,0 +1,16 @@
+namespace Solution {
+    open Microsoft.Quantum.Primitive;
+    open Microsoft.Quantum.Canon;
+    open Microsoft.Quantum.Convert;
+    open Microsoft.Quantum.Math;
+    open Microsoft.Quantum.Arrays;
+ 
+    operation Solve (qs : Qubit[]) : () {
+        body {
+            let n = Length(qs);
+            for(i in 0 .. n - 1) {
+                H(qs[i]);
+            }
+        }
+    }
+}
