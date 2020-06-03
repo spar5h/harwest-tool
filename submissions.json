@@ -19,6 +19,20 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF82434011": {
+    "contest_id": 1002,
+    "language": "Q#",
+    "path": "codeforces/1002/B3.qs",
+    "problem_index": "B3",
+    "problem_name": "Distinguish four 2-qubit states",
+    "problem_url": "https://codeforces.com/contest/1002/problem/B3",
+    "submission_id": "CF82434011",
+    "submission_url": "https://codeforces.com/contest/1002/submission/82434011",
+    "tags": [
+      "*1600"
+    ],
+    "timestamp": "Jun/04/2020 02:18"
+  },
   "CF82434028": {
     "contest_id": 1002,
     "language": "Q#",
