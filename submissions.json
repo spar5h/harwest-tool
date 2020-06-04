@@ -19,6 +19,18 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF82579465": {
+    "contest_id": 1116,
+    "language": "Q#",
+    "path": "codeforces/1116/D1.qs",
+    "problem_index": "D1",
+    "problem_name": "Block diagonal matrix",
+    "problem_url": "https://codeforces.com/contest/1116/problem/D1",
+    "submission_id": "CF82579465",
+    "submission_url": "https://codeforces.com/contest/1116/submission/82579465",
+    "tags": [],
+    "timestamp": "Jun/05/2020 03:04"
+  },
   "CF83552429": {
     "contest_id": 1356,
     "language": "Q#",
