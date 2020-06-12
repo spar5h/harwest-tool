@@ -19,6 +19,20 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF83564416": {
+    "contest_id": 1356,
+    "language": "Q#",
+    "path": "codeforces/1356/C.qs",
+    "problem_index": "C",
+    "problem_name": "Prepare state |01\u27e9 + |10\u27e9 + |11\u27e9",
+    "problem_url": "https://codeforces.com/contest/1356/problem/C",
+    "submission_id": "CF83564416",
+    "submission_url": "https://codeforces.com/contest/1356/submission/83564416",
+    "tags": [
+      "*special problem"
+    ],
+    "timestamp": "Jun/13/2020 02:49"
+  },
   "CF83566663": {
     "contest_id": 1356,
     "language": "Q#",
