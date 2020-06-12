@@ -19,6 +19,20 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF83552823": {
+    "contest_id": 1356,
+    "language": "Q#",
+    "path": "codeforces/1356/A2.qs",
+    "problem_index": "A2",
+    "problem_name": "Distinguish I from Z",
+    "problem_url": "https://codeforces.com/contest/1356/problem/A2",
+    "submission_id": "CF83552823",
+    "submission_url": "https://codeforces.com/contest/1356/submission/83552823",
+    "tags": [
+      "*special problem"
+    ],
+    "timestamp": "Jun/12/2020 23:28"
+  },
   "CF83552976": {
     "contest_id": 1356,
     "language": "Q#",
