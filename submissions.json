@@ -19,6 +19,20 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF83552976": {
+    "contest_id": 1356,
+    "language": "Q#",
+    "path": "codeforces/1356/A3.qs",
+    "problem_index": "A3",
+    "problem_name": "Distinguish Z from S",
+    "problem_url": "https://codeforces.com/contest/1356/problem/A3",
+    "submission_id": "CF83552976",
+    "submission_url": "https://codeforces.com/contest/1356/submission/83552976",
+    "tags": [
+      "*special problem"
+    ],
+    "timestamp": "Jun/12/2020 23:30"
+  },
   "CF83553961": {
     "contest_id": 1356,
     "language": "Q#",
