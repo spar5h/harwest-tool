@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF84219839": {
+    "contest_id": 1368,
+    "language": "Java 8",
+    "path": "codeforces/1368/C.java",
+    "problem_index": "C",
+    "problem_name": "Even Picture",
+    "problem_url": "https://codeforces.com/contest/1368/problem/C",
+    "submission_id": "CF84219839",
+    "submission_url": "https://codeforces.com/contest/1368/submission/84219839",
+    "tags": [
+      "constructive algorithms",
+      "*1500"
+    ],
+    "timestamp": "Jun/18/2020 21:19"
+  },
   "CF84250901": {
     "contest_id": 1368,
     "language": "Java 8",
