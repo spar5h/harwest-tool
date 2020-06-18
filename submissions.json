@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF84250901": {
+    "contest_id": 1368,
+    "language": "Java 8",
+    "path": "codeforces/1368/D.java",
+    "problem_index": "D",
+    "problem_name": "AND, OR and square sum",
+    "problem_url": "https://codeforces.com/contest/1368/problem/D",
+    "submission_id": "CF84250901",
+    "submission_url": "https://codeforces.com/contest/1368/submission/84250901",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Jun/18/2020 22:28"
+  },
   "CF84343330": {
     "contest_id": 1357,
     "language": "Q#",
