@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF84182049": {
+    "contest_id": 1368,
+    "language": "Java 8",
+    "path": "codeforces/1368/B.java",
+    "problem_index": "B",
+    "problem_name": "Codeforces Subsequences",
+    "problem_url": "https://codeforces.com/contest/1368/problem/B",
+    "submission_id": "CF84182049",
+    "submission_url": "https://codeforces.com/contest/1368/submission/84182049",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "strings",
+      "*1500"
+    ],
+    "timestamp": "Jun/18/2020 20:27"
+  },
   "CF84219839": {
     "contest_id": 1368,
     "language": "Java 8",
