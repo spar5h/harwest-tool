@@ -19,6 +19,18 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF84360686": {
+    "contest_id": 1357,
+    "language": "Q#",
+    "path": "codeforces/1357/A5.qs",
+    "problem_index": "A5",
+    "problem_name": "Distinguish Rz(\u03b8) from Ry(\u03b8)",
+    "problem_url": "https://codeforces.com/contest/1357/problem/A5",
+    "submission_id": "CF84360686",
+    "submission_url": "https://codeforces.com/contest/1357/submission/84360686",
+    "tags": [],
+    "timestamp": "Jun/20/2020 00:56"
+  },
   "CF84403333": {
     "contest_id": 1357,
     "language": "Q#",
