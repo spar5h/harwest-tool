@@ -19,6 +19,18 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF84351805": {
+    "contest_id": 1357,
+    "language": "Q#",
+    "path": "codeforces/1357/A4.qs",
+    "problem_index": "A4",
+    "problem_name": "Distinguish Rz from R1",
+    "problem_url": "https://codeforces.com/contest/1357/problem/A4",
+    "submission_id": "CF84351805",
+    "submission_url": "https://codeforces.com/contest/1357/submission/84351805",
+    "tags": [],
+    "timestamp": "Jun/19/2020 23:02"
+  },
   "CF84354631": {
     "contest_id": 1357,
     "language": "Q#",
