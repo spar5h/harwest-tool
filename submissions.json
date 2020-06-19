@@ -19,6 +19,18 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF84355857": {
+    "contest_id": 1357,
+    "language": "Q#",
+    "path": "codeforces/1357/C2.qs",
+    "problem_index": "C2",
+    "problem_name": "Prepare superposition of basis states with the same parity",
+    "problem_url": "https://codeforces.com/contest/1357/problem/C2",
+    "submission_id": "CF84355857",
+    "submission_url": "https://codeforces.com/contest/1357/submission/84355857",
+    "tags": [],
+    "timestamp": "Jun/19/2020 23:50"
+  },
   "CF84360686": {
     "contest_id": 1357,
     "language": "Q#",
