@@ -19,6 +19,18 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF84354631": {
+    "contest_id": 1357,
+    "language": "Q#",
+    "path": "codeforces/1357/C1.qs",
+    "problem_index": "C1",
+    "problem_name": "Prepare superposition of basis states with 0s",
+    "problem_url": "https://codeforces.com/contest/1357/problem/C1",
+    "submission_id": "CF84354631",
+    "submission_url": "https://codeforces.com/contest/1357/submission/84354631",
+    "tags": [],
+    "timestamp": "Jun/19/2020 23:36"
+  },
   "CF84355857": {
     "contest_id": 1357,
     "language": "Q#",
