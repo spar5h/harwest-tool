@@ -19,6 +19,18 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF84403333": {
+    "contest_id": 1357,
+    "language": "Q#",
+    "path": "codeforces/1357/B2.qs",
+    "problem_index": "B2",
+    "problem_name": "\"Is the number divisible by 3?\" oracle",
+    "problem_url": "https://codeforces.com/contest/1357/problem/B2",
+    "submission_id": "CF84403333",
+    "submission_url": "https://codeforces.com/contest/1357/submission/84403333",
+    "tags": [],
+    "timestamp": "Jun/20/2020 15:46"
+  },
   "CF84403666": {
     "contest_id": 1357,
     "language": "Q#",
