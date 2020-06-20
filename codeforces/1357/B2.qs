@@ -24,9 +24,7 @@ namespace Solution {
     operation Solve (inputs : Qubit[], output : Qubit) : Unit is Adj+Ctl {
         let n = Length(inputs);
         using(q = Qubit[2]) {
-            operU(inputs, q);
-            (ControlledOnInt(0, X))(q, output);
-            Adjoint operU(inputs, q);
+            ApplyWithCA(operU(inputs, _), (ControlledOnInt(0, X))(_, output), q);
         }
     }
 
