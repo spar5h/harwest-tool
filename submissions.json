@@ -19,6 +19,18 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF84416368": {
+    "contest_id": 1357,
+    "language": "Q#",
+    "path": "codeforces/1357/A7.qs",
+    "problem_index": "A7",
+    "problem_name": "Distinguish Y, XZ, -Y and -XZ",
+    "problem_url": "https://codeforces.com/contest/1357/problem/A7",
+    "submission_id": "CF84416368",
+    "submission_url": "https://codeforces.com/contest/1357/submission/84416368",
+    "tags": [],
+    "timestamp": "Jun/20/2020 18:39"
+  },
   "CF84529400": {
     "contest_id": 1357,
     "language": "Q#",
