@@ -24,7 +24,7 @@ namespace Solution {
     
     operation Solve (p : Int, inputRegister : LittleEndian) : Unit is Adj+Ctl {
         let x = PowI(2, Length(inputRegister!));
-        let y = p % 64;
+        let y = p % 4;
         for(i in 0 .. y - 1) {
             QFTLE(inputRegister);
         }
