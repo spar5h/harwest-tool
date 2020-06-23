@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF84840978": {
+    "contest_id": 1369,
+    "language": "Java 8",
+    "path": "codeforces/1369/E.java",
+    "problem_index": "E",
+    "problem_name": "DeadLee",
+    "problem_url": "https://codeforces.com/contest/1369/problem/E",
+    "submission_id": "CF84840978",
+    "submission_url": "https://codeforces.com/contest/1369/submission/84840978",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*2400"
+    ],
+    "timestamp": "Jun/24/2020 04:02"
+  },
   "CF85292307": {
     "contest_id": 1368,
     "language": "Java 8",
