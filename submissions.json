@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF84765560": {
+    "contest_id": 1369,
+    "language": "Java 8",
+    "path": "codeforces/1369/B.java",
+    "problem_index": "B",
+    "problem_name": "AccurateLee",
+    "problem_url": "https://codeforces.com/contest/1369/problem/B",
+    "submission_id": "CF84765560",
+    "submission_url": "https://codeforces.com/contest/1369/submission/84765560",
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "Jun/23/2020 19:48"
+  },
   "CF84776261": {
     "contest_id": 1369,
     "language": "Java 8",
