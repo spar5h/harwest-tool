@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF85292307": {
+    "contest_id": 1368,
+    "language": "Java 8",
+    "path": "codeforces/1368/E.java",
+    "problem_index": "E",
+    "problem_name": "Ski Accidents",
+    "problem_url": "https://codeforces.com/contest/1368/problem/E",
+    "submission_id": "CF85292307",
+    "submission_url": "https://codeforces.com/contest/1368/submission/85292307",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "*2500"
+    ],
+    "timestamp": "Jun/28/2020 19:18"
+  },
   "CF85485954": {
     "contest_id": 1370,
     "language": "Java 8",
