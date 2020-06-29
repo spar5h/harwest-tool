@@ -19,6 +19,26 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF85493731": {
+    "contest_id": 1370,
+    "language": "Java 8",
+    "path": "codeforces/1370/F2.java",
+    "problem_index": "F2",
+    "problem_name": "The Hidden Pair (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1370/problem/F2",
+    "submission_id": "CF85493731",
+    "submission_url": "https://codeforces.com/contest/1370/submission/85493731",
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "graphs",
+      "interactive",
+      "shortest paths",
+      "trees",
+      "*2700"
+    ],
+    "timestamp": "Jun/30/2020 02:46"
+  },
   "CF85626151": {
     "contest_id": 1371,
     "language": "Java 8",
