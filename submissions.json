@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF85486522": {
+    "contest_id": 1370,
+    "language": "Java 8",
+    "path": "codeforces/1370/B.java",
+    "problem_index": "B",
+    "problem_name": "GCD Compression",
+    "problem_url": "https://codeforces.com/contest/1370/problem/B",
+    "submission_id": "CF85486522",
+    "submission_url": "https://codeforces.com/contest/1370/submission/85486522",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*1100"
+    ],
+    "timestamp": "Jun/30/2020 00:16"
+  },
   "CF85487769": {
     "contest_id": 1370,
     "language": "Java 8",
