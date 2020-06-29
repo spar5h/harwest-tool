@@ -19,6 +19,24 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF85489855": {
+    "contest_id": 1370,
+    "language": "Java 8",
+    "path": "codeforces/1370/E.java",
+    "problem_index": "E",
+    "problem_name": "Binary Subsequence Rotation",
+    "problem_url": "https://codeforces.com/contest/1370/problem/E",
+    "submission_id": "CF85489855",
+    "submission_url": "https://codeforces.com/contest/1370/submission/85489855",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "*2100"
+    ],
+    "timestamp": "Jun/30/2020 01:15"
+  },
   "CF85491924": {
     "contest_id": 1370,
     "language": "Java 8",
