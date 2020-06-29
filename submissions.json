@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF85488302": {
+    "contest_id": 1370,
+    "language": "Java 8",
+    "path": "codeforces/1370/D.java",
+    "problem_index": "D",
+    "problem_name": "Odd-Even Subsequence",
+    "problem_url": "https://codeforces.com/contest/1370/problem/D",
+    "submission_id": "CF85488302",
+    "submission_url": "https://codeforces.com/contest/1370/submission/85488302",
+    "tags": [
+      "binary search",
+      "dp",
+      "dsu",
+      "greedy",
+      "implementation",
+      "*2000"
+    ],
+    "timestamp": "Jun/30/2020 00:47"
+  },
   "CF85489855": {
     "contest_id": 1370,
     "language": "Java 8",
