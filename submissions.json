@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF85655075": {
+    "contest_id": 1371,
+    "language": "Java 8",
+    "path": "codeforces/1371/D.java",
+    "problem_index": "D",
+    "problem_name": "Grid-00100",
+    "problem_url": "https://codeforces.com/contest/1371/problem/D",
+    "submission_id": "CF85655075",
+    "submission_url": "https://codeforces.com/contest/1371/submission/85655075",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Jul/01/2020 19:46"
+  },
   "CF85672702": {
     "contest_id": 1371,
     "language": "Java 8",
