@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF85640506": {
+    "contest_id": 1371,
+    "language": "Java 8",
+    "path": "codeforces/1371/B.java",
+    "problem_index": "B",
+    "problem_name": "Magical Calendar",
+    "problem_url": "https://codeforces.com/contest/1371/problem/B",
+    "submission_id": "CF85640506",
+    "submission_url": "https://codeforces.com/contest/1371/submission/85640506",
+    "tags": [
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Jul/01/2020 19:20"
+  },
   "CF85647686": {
     "contest_id": 1371,
     "language": "Java 8",
