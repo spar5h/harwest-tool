@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF85952094": {
+    "contest_id": 1375,
+    "language": "Java 8",
+    "path": "codeforces/1375/C.java",
+    "problem_index": "C",
+    "problem_name": "Element Extermination",
+    "problem_url": "https://codeforces.com/contest/1375/problem/C",
+    "submission_id": "CF85952094",
+    "submission_url": "https://codeforces.com/contest/1375/submission/85952094",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Jul/04/2020 20:49"
+  },
   "CF85989770": {
     "contest_id": 1375,
     "language": "Java 8",
