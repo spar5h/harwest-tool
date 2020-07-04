@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF85936441": {
+    "contest_id": 1375,
+    "language": "Java 8",
+    "path": "codeforces/1375/A.java",
+    "problem_index": "A",
+    "problem_name": "Sign Flipping",
+    "problem_url": "https://codeforces.com/contest/1375/problem/A",
+    "submission_id": "CF85936441",
+    "submission_url": "https://codeforces.com/contest/1375/submission/85936441",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jul/04/2020 20:24"
+  },
   "CF85941616": {
     "contest_id": 1375,
     "language": "Java 8",
