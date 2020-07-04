@@ -71,6 +71,14 @@ public class Main {
             for (Pair pair : res) {
                 w.println((pair.i + 1) + " " + (pair.w + 1));
             }
+            //3 4 3 1 2
+
+            //2 4 3 1 3
+            //2 4 3 1 3
+            //2 3 3 1 4
+
+            //1 3 3 2 4
+            //1 2 3 3 4
         }
 
         class Pair {
