@@ -19,6 +19,21 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF87777460": {
+    "contest_id": 1381,
+    "language": "Java 8",
+    "path": "codeforces/1381/B.java",
+    "problem_index": "B",
+    "problem_name": "Unmerge",
+    "problem_url": "https://codeforces.com/contest/1381/problem/B",
+    "submission_id": "CF87777460",
+    "submission_url": "https://codeforces.com/contest/1381/submission/87777460",
+    "tags": [
+      "dp",
+      "*1800"
+    ],
+    "timestamp": "Jul/23/2020 19:04"
+  },
   "CF87873335": {
     "contest_id": 1383,
     "language": "Java 8",
