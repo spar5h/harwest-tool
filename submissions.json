@@ -19,6 +19,26 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF87895700": {
+    "contest_id": 1383,
+    "language": "Java 8",
+    "path": "codeforces/1383/B.java",
+    "problem_index": "B",
+    "problem_name": "GameGame",
+    "problem_url": "https://codeforces.com/contest/1383/problem/B",
+    "submission_id": "CF87895700",
+    "submission_url": "https://codeforces.com/contest/1383/submission/87895700",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dp",
+      "games",
+      "greedy",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "Jul/24/2020 20:53"
+  },
   "CF87928428": {
     "contest_id": 1384,
     "language": "Java 8",
