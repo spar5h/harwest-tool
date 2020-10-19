@@ -19,6 +19,22 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF96018577": {
+    "contest_id": 1408,
+    "language": "Java 8",
+    "path": "codeforces/1408/F.java",
+    "problem_index": "F",
+    "problem_name": "Two Different",
+    "problem_url": "https://codeforces.com/contest/1408/problem/F",
+    "submission_id": "CF96018577",
+    "submission_url": "https://codeforces.com/contest/1408/submission/96018577",
+    "tags": [
+      "constructive algorithms",
+      "divide and conquer",
+      "*2300"
+    ],
+    "timestamp": "Oct/20/2020 01:38"
+  },
   "CF96309652": {
     "contest_id": 1407,
     "language": "Java 8",
