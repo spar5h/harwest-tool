@@ -19,6 +19,26 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF96735111": {
+    "contest_id": 1398,
+    "language": "Java 8",
+    "path": "codeforces/1398/E.java",
+    "problem_index": "E",
+    "problem_name": "Two Types of Spells",
+    "problem_url": "https://codeforces.com/contest/1398/problem/E",
+    "submission_id": "CF96735111",
+    "submission_url": "https://codeforces.com/contest/1398/submission/96735111",
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "implementation",
+      "math",
+      "sortings",
+      "*2200"
+    ],
+    "timestamp": "Oct/26/2020 04:23"
+  },
   "CF96771523": {
     "contest_id": 1396,
     "language": "Java 8",
