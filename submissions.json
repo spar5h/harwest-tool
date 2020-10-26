@@ -19,6 +19,23 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF96771523": {
+    "contest_id": 1396,
+    "language": "Java 8",
+    "path": "codeforces/1396/C.java",
+    "problem_index": "C",
+    "problem_name": "Monster Invaders",
+    "problem_url": "https://codeforces.com/contest/1396/problem/C",
+    "submission_id": "CF96771523",
+    "submission_url": "https://codeforces.com/contest/1396/submission/96771523",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "*2300"
+    ],
+    "timestamp": "Oct/26/2020 17:04"
+  },
   "CF96786636": {
     "contest_id": 1394,
     "language": "Java 8",
