@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF96800056": {
+    "contest_id": 1392,
+    "language": "Java 8",
+    "path": "codeforces/1392/F.java",
+    "problem_index": "F",
+    "problem_name": "Omkar and Landslide",
+    "problem_url": "https://codeforces.com/contest/1392/problem/F",
+    "submission_id": "CF96800056",
+    "submission_url": "https://codeforces.com/contest/1392/submission/96800056",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "math",
+      "*2400"
+    ],
+    "timestamp": "Oct/26/2020 22:47"
+  },
   "CF96806044": {
     "contest_id": 1389,
     "language": "Java 8",
