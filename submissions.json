@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF96895551": {
+    "contest_id": 1437,
+    "language": "Java 8",
+    "path": "codeforces/1437/E.java",
+    "problem_index": "E",
+    "problem_name": "Make It Increasing",
+    "problem_url": "https://codeforces.com/contest/1437/problem/E",
+    "submission_id": "CF96895551",
+    "submission_url": "https://codeforces.com/contest/1437/submission/96895551",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "implementation",
+      "*2200"
+    ],
+    "timestamp": "Oct/27/2020 20:52"
+  },
   "CF97591034": {
     "contest_id": 1385,
     "language": "Java 8",
