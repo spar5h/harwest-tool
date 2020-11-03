@@ -19,6 +19,25 @@
     ],
     "timestamp": "Dec/22/2020 01:34"
   },
+  "CF97591034": {
+    "contest_id": 1385,
+    "language": "Java 8",
+    "path": "codeforces/1385/G.java",
+    "problem_index": "G",
+    "problem_name": "Columns Swaps",
+    "problem_url": "https://codeforces.com/contest/1385/problem/G",
+    "submission_id": "CF97591034",
+    "submission_url": "https://codeforces.com/contest/1385/submission/97591034",
+    "tags": [
+      "2-sat",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "implementation",
+      "*2300"
+    ],
+    "timestamp": "Nov/04/2020 01:51"
+  },
   "CF99819636": {
     "contest_id": 993,
     "language": "Java 8",
