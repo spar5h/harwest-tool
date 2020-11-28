@@ -18,5 +18,22 @@
       "probabilities"
     ],
     "timestamp": "Dec/22/2020 01:34"
+  },
+  "CF99819636": {
+    "contest_id": 993,
+    "language": "Java 8",
+    "path": "codeforces/993/E.java",
+    "problem_index": "E",
+    "problem_name": "Nikita and Order Statistics",
+    "problem_url": "https://codeforces.com/contest/993/problem/E",
+    "submission_id": "CF99819636",
+    "submission_url": "https://codeforces.com/contest/993/submission/99819636",
+    "tags": [
+      "chinese remainder theorem",
+      "fft",
+      "math",
+      "*2300"
+    ],
+    "timestamp": "Nov/29/2020 02:03"
   }
 }
